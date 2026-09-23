@@ -1,0 +1,9 @@
+# article-1825
+
+South African History Online. (2012, March 1). Anita Mojabeng Mochous. South African History Online. https://sahistory.org.za/ref/B-0075217
+South African History Online (2012) ' Anita Mojabeng Mochous', South African History Online, 1 March. Available at: https://sahistory.org.za/ref/B-0075217 (Accessed: 10 September 2026).
+South African History Online, Anita Mojabeng Mochous [website], https://sahistory.org.za/ref/B-0075217, (accessed 10 September 2026).
+" Anita Mojabeng Mochous." South African History Online, 1 Mar. 2012, https://sahistory.org.za/ref/B-0075217. Accessed 10 Sept. 2026.
+South African History Online. " Anita Mojabeng Mochous." South African History Online. March 1, 2012. https://sahistory.org.za/ref/B-0075217.
+Further reading
+SAHO is free because readers fund it. Donate →

@@ -1,0 +1,5 @@
+# article-790
+
+Ngcobo was born near Melmoth, Zululand. He was educated to secondary school level at Inkamane. In 1953 he attended Ndaleni Educational Training Centre, Natal, studying there from 1953 to 1954.
+He worked as a teacher at Glencoe and Loram Secondary School in Durban, as well as at Isibonelo High School and Mzuvele Secondary School, before becoming an Inspector of Education for the KwaZulu-Natal Department of Education and Culture in Ulundi.
+He was both a sculptor of busts and portraits, using indigenous hardwoods, and a painter of primarily impressionistic group compositions. In both media his work was based on a mixture of tribal mythology and urban life. He won the Gold Medal for Painting at the Republic Art Festival in Bloemfontein in 1961; his work was shown on the 1963 Art - South Africa - Today exhibition at the DAG. He was on the Organising Committee of the 1963 and 1965 Art - South Africa - Today Exhibitions. He exhibited in group shows in South Africa and Lesotho and in 1962 he was the first black artist to hold a solo exhibition at the Durban Art Gallery.

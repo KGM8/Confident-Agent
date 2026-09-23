@@ -1,0 +1,14 @@
+# article-5966
+
+Dr Alexander (Alex) Lionel Boraine was born in 1931 in Cape Town, Western Province. In 1950, at the age of nineteen, Boraine started his career as a Methodist minister. In 1956, Boraine was ordained and received his Bachelor of Arts from Rhodes University. Later that year Boraine served as a Chaplain at the University of Natal (now the University of kwaZulu-Natal), and also as General-Secretary of the Department of Education and Youth Ministry in the Methodist Church of South Africa.
+In 1962, Boraine received his Masters Degree from Oxford University and his PhD in Theology from Drew University Graduate School, New Jersey, United States of America (USA) in 1966. While Boraine was a lecturer at the University of Natal in 1970 he was elected President of the Methodist Church of Southern Africa.
+After serving two years as President of the Methodist Church of Southern Africa, Boraine then became an Employment Practices Consultant for Anglo American, focusing on training Black workers and improving their work conditions.
+In 1974, Boraine was elected to Parliament and served for twelve years as a Member of Parliament for the Progressive Party.
+After his resignation from Parliament in 1986, Boraine co-founded the Institute for Democracy in South Africa (IDASA) which tried to close the gaps within South African society. Boraine was the Executive Director of the Institute for Justice in Transition, which helped deal with the many injustices of the Apartheid régime after the transition into democracy.
+Boraine is most famous for proposing the Truth and Reconciliation Commission (TRC), as well as being its vice chair alongside Archbishop Emeritus Desmond Tutu, from 1996 to 1998. From 1998 Boraine served as a Professor of Law at New York University (NYU) and as the Director of the New York University Law School’s Justice in Transition Program.
+In October 2000, Boraine was awarded the Presidents Medal for Human Rights in Italy. In November 2000, Boraine book, A Country Unmasked, was published by Oxford University Press. Boraine was a founder and President of the International Center for Transitional Justice (ICTJ) in New York, USA. He returned to South Africa to take over as Chair of the ICTJ, Cape Town branch in June 2004.
+From 1998 to early-2001, Dr Boraine was a Global Visiting Professor of Law at the New York University's School of Law's Hauser Global Law School Program.
+Dr Boraine’s biography, A life in transition, was published in 2008.
+For his excellent contribution to the field of social justice and for being a courageous proponent of the Truth and Reconciliation Commission, the South African Government conferred The Order of the Baobab in Silver on Dr Alex Boraine in 2014.
+Dr Alex Boraine passed away in Cape Town, Western Cape on 5 December 2018.
+He is survived by his wife Jennifer Boraine, his four children Andrew, Kathryn, Jeremy and Nicholas, their spouses, and seven grandchildren.

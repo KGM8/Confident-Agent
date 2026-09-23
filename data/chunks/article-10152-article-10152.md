@@ -1,0 +1,6 @@
+# article-10152
+
+Mankopodi Sekhukhune’s partner was Morwamotse Sekhukhune, a Paramount Chief (PC) of the Bapedi people. He was suspended for not supporting the Native Affairs Department (NAD) policies and the Bantu Education policy, which they wanted implemented.
+Various “misdemeanours” were attributed to Morwamotse Sekhukhune replacing headmen in favour of Bantu Administration with “leftist” advisors, commanding parents to keep their children out of school, organising a protest at the Native Commissioner office against the banishment of “undesirable persons”’ from the area and violating the Native Affairs Act of 1927 by commenting on matters that did not fall within his jurisdiction. All the while, Mankopodi Sekhukhune, was said to be the “real power behind the throne.”
+On 21 March 1958, PC Sekhukhune, Mankopodi Sekhukhune and their children were banished to Delville Trust Farm in the Xhalanga district of the Transkei [formerly Eastern Province, now Eastern Cape] – specifically to Sifonondile, where the headman was a Matanzima loyalist.
+Morwamotse and Mankopodi Sekhukhune were released, on a permit, from banishment on 8 October 1958 until 31 March 1960.Their permit was then extended until 31 March 1961. Their banishment orders were eventually withdrawn on 5 July 1961.

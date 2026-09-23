@@ -1,0 +1,5 @@
+# article-6121
+
+Michael Hathorn was born in Pietermaritzburg, Natal in 1922. After schooling, he went to Wits University in Johannesburg, and qualified with a BSc in Mining Engineering. He then volunteered for service for three years in the SA Air Force during WW2. In 1943 he married Margaret Cormack, a medical Student at Wits, and after the war, decided to do medicine as well.
+He and Margaret worked at the Alexandra Health Centre & University Clinic from 1952 to 1955, and then both moved to work at the Durban Medical School. After his detention in the Durban Central Prison in 1960, they decided to escape from South Africa (he was unable to obtain a passport). They got jobs in Ghana; Margaret as a Medical Officer at the University Hospital, and Michael as a medical researcher into heart disease, diabetes and sickle cell anaemia.
+In 1965, they got British citizenship and moved to London. Margaret qualified and worked in psychiatry, while Michael taught at a London Medical School and did research into breathing problems in the newborn infant.  Margaret retired in 1982, andMichael retired in 1987.

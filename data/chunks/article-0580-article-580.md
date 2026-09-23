@@ -1,0 +1,15 @@
+# article-580
+
+John Beaver (JB) Marks was born on 21 March 1903, Ventersdorp, Western Transvaal (now North West Province). His father was a railway worker and his mother, a midwife. His father was a staunch supporter of the African National Congress (ANC).
+In 1919, his parents succeeded in getting him enrolled at the Kilnerton Teachers` Training College in Pretoria where he received a diploma in teaching. Marks participated in a strike with other students because conditions were not good at his college. They were not allowed time off to go visiting, punished very frequently, and the food supply was very poor. This strike led to his expulsion from school.
+A political activist and trade unionist, he joined the African National Congress (ANC) and became the President of the Transvaal Branch of the ANC.
+After listening to the late S. P. Bunting addressing a meeting of workers at the mine where he was employed, J. B. Marks joined the Communist Party of South Africa (CPSA) in 1928 and devoted himself to the fight for national and social emancipation. He narrowly escaped assassination in 1929 when a fascist opened fire on the platform he was speaking from. The incident served only to steel his determination. He was elected to the Central Committee of the Communist Party in 1932 and eventually became Chairman of the SACP.
+In 1931 he was barred from teaching because of his political activity.
+In 1942, he was elected to the presidency of the Transvaal Council of non-European trade unions, and in the same year became the President of the African Mine Workers Union (AMU), which grew to a membership of over 50,000.
+On 12 August 1946, over 100,000 miners struck work. They were joined by workers from other industries. Soldiers bludgeoned the workers back into the mine shafts after they were out on strike for about a week and hundreds of miners were killed. Marks and other leaders of the strike were arrested and charged with sedition.
+One of the leaders of the 1952 Defiance Campaign, Marks was banned under the Suppression of Communism Act. He nevertheless took part in the Defiance Campaign and served a prison sentence for breaking a banning order.
+After he was banned, Marks continued to be active. He was a founding member of the South African Congress of Trade Unions (SACTU) which he had to do illegally.
+He was listed as a co-conspirator in the Rivonia Trial. Marks left South Africa in 1963 when the ANC’s National Executive Committee (NEC) asked him to leave. He came to Tanzania through Bechuanaland (now Botswana), from where he operated.
+Marks was struck down by a severe illness in 1971 while on active duty as Treasurer-General at the headquarters of the ANC External Mission in Tanzania. When he had recovered sufficiently to travel, he was sent to Russia for medical treatment. He suffered a fatal heart attack and died on 1 August 1972 in Moscow, Russia.
+In 1999, the South African Government conferred the Order for Meritorious Service, Class I: Gold, posthumously, on Marks.
+Following negotiations with the Russian authorities, the Russian government repatriated JB Marks’ remains to South Africa on 1 March 2015.

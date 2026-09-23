@@ -1,0 +1,9 @@
+# article-10127
+
+There was conflict in the Tokazi location in the Usutu Area, Nongoma District, Natal [now Kwazulu-Natal], around Bantu Affairs (BA), betterment and the role played by Paramount Chief (PC) Cyprian Dinizulu.
+The PC was initially reluctant to take a stand against BA and requested three indunas (headmen) to speak to the community regarding these matters. Despite this, the community rejected the BA. There was also opposition to betterment-related resettlement. Initially opposition to relocation was total, but “the government retaliated by denying the community the right to plough their arable allotments.”
+PC Dinizulu then accepted betterment and the community was obligated to move to a new area. However, “so intense was the resistance in Zululand that King Cyprian, who had accepted the system, had to flee to Swaziland when Zulu peasants from the Thomas district of Nongoma threatened to kill him for siding with the BA.”
+Arising from this conflict, banishment orders were issued on 11 December 1959 for Phikinkani Zulu and his cousin Nelson Zulu. Documentation related to their banishment orders, from Usutu Area, Nongoma District, Natal [now Kwazulu-Natal], described them asopposed tobetterment, convening regular meetings in which they conspired to act against these measures and encouraged other people to do so, and lacking regard for the Chief’s orders. Their activities and attitudes also questioned the Chief’s authority.
+However,the cousins were nowhere to be found and the banishment orders could not be served on them.
+New orders were prepared and it was noted thatsince it was possible that they might disappear again, the new orders were such that lengthy court processes could be avoided. Phikinkani Zulu was banished to Driefontein Native Trust Farm, Vryburg District, [then Northern Cape, now North West Province].
+Phikinkani Zulu’s order was revoked on 1 January 1973.

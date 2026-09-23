@@ -1,0 +1,4 @@
+# article-95
+
+Born in Patatsrivier, Carnarvon District, Cape, 1865 and died in Cape Town in 1950. D.C. Boonzaier was a SASA member, but there is no surviving record of his participation in any of its exhibitions. He most likely saw no need to exhibit since his work appeared in the Press on a regular basis. He joined Die Burger in Cape Town, where he remained as cartoonist from 1915 to 1940. Boonzaier played a key role in the careers of many early SASA members. He was the father of Gregoire Boonzaier (qv.) and the friend and patron of many artists, especially Pieter Wenning (qv.) and Moses Kottler (qv.). Berman notes that his home was "a haven of culture in Cape Town" (1983: 67). Among the many cartoons that he drew are some that capture the personalities of important SASA members.
+Exhibitor on SASA-related exhibitions c.1898 ”¢ 1950: No mention in surviving catalogues.

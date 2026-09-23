@@ -1,0 +1,4 @@
+# article-5848
+
+Pieter Dirk Uys was born in Cape Town in 1945. He studied drama at UCT from 1965 to 1965 before going to study at the London Film School. During the 1970s and 1980s he was associated with the Space Theatre in Cape Town and the Johannesburg Market Theatre. He has become an award winning novelist and playwright and has written more than 20 plays and over 30 revues in the 40 years that he has been in the theatre industry. Uys writes, directs, performs and produces his own work. A creative writer, he has written in many genres. One his books, Trekking to Teema, became the first internet book in 2000.
+Uys is also well-known as his alter ego Evita Bezuidenhout, whom he describes as ‘the most famous white woman in South Africa’, and about whom he has written a biography. Uys, either as himself or his flamboyant alter ego, has been very vocal in his activist capacity, often using satire to address pressing social and political issues

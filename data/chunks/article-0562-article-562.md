@@ -1,0 +1,8 @@
+# article-562
+
+Ernest Methuen Mancoba was born in Turffontein, Johannesburg, Transvaal (Gauteng) on 29 August 1904. From 1920 to 1924 Mancoba trained as a teacher at the Diocesan Training College, Grace Dieu near Pietersburg (now Polokwane, Limpopo) and received early guidance in wood carving there from Sister Pauline CR. On completion of his course, he remained at the College teaching Zulu until 1929.
+In 1933, Mancoba enrolled as a student at the University of Fort Hare. During this time, he served as the chairperson of the Literary and Debating Societies there. In 1936, he was the caretaker of a block of flats in Cape Town. In the following year, Mancoba was completed a BA degree through UNISA and began teaching English at Khaiso Secondary School in Pietersburg. His colleagues included Louis Makenna, Nimrod Ndebele and Gerard Sekoto.
+Although he never received formal art training, he was greatly inspired by two fellow artists namely Lippy Lipshitz ( 1903 - 1980) and Irma Stern ( 1894 - 1966 ). He loved sculpting and completed various commission works for different churches. In 1938, he left South Africa to study art in Paris.
+In Paris he met Danish artist Sonja Ferlov ( 1911 - 1984 ) who he later married. He preferred to work in watercolour and only did his first oil painting in 1940. In 1952, he stopped producing sculptures and concentrated on painting. In 1961, he became a French citizen and in 1994 after an absence of 56 years, he visited South Africa for the first time for his Retrospective exhibition in Johannesburg.
+His works found in various collections and private collections worldwide.
+Mancoba passed away on 25 October 2002.

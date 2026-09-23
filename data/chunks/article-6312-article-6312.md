@@ -1,0 +1,4 @@
+# article-6312
+
+Little is known of his background except that he was Xhosa-speaking and born about 1900. About 1924 he enrolled in the Communist Party of South Africa (CPSA) night school in Ferreirastown, Johannesburg and soon joined the Young Communist League as one of its first African recruits. When Clements Kadalie began to establish the Industrial and Commercial Workers' Union (ICU) in the Transvaal in late 1924, Mbeki became one of his principal lieutenants, serving for a time as Transvaal provincial secretary. According to Kadalie, he was a courageous and energetic leader, despite his youth, and “it was a treat to hear him address big audiences.” When members of the Communist Party were expelled from the ICU executive in 1926, Mbeki chose to stay in the ICU.
+He remained loyal to Kadalie in subsequent disputes in the union, but he lost his effectiveness as a leader when he became an alcoholic. He died in the early 1940s.

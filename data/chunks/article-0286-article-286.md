@@ -1,0 +1,4 @@
+# article-286
+
+Franks studied at the University of the Witwatersrand and was a member of the first Student Representative Council of the University. In 1925 she was the second woman to graduate in medicine at the University, being preceded by Susan Blake only on account of the alphabet. She was the first female ophthalmologist in South Africa.
+Blake became concerned about blindness and got involved in the work of SANCB in the 1930s. She paid particular attention to the plight of rural blacks and realised that many cases of blindness could be prevented with some medical care. A section of SANCB was formed to concentrate on these rural cases, and Franks was elected to the first committee of this section. In 1972 Franks was chosen as Woman of the Year by readers of The Star in Johannesburg for her work with rural blacks.

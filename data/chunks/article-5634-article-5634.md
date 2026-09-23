@@ -1,0 +1,6 @@
+# article-5634
+
+Kwena Matlala, born in 1920, was the first daughter of Chief Sekgwari Matlala and Mme Makwena Matlala. She married Nelson Ngakana Moabelo, the ntona of Madietane village, who was related to the royal family, and after his death, she became the ntona of Madietane. She was originally a resident at Matlala's Location, Pietersburg District, Northern Transvaal [now Polokwane, Limpopo Province]. Kwena Matlala’s name appeared on the order that banished the Seopa family on 21 July 1953
+She ‘was allocated arondavel’ some three kilometresfrom the Seopa family abode inDavhana, Tabaans Location (Louis Trichardt [Makhado]), Sibasa District, [Tshivhase], Northern Transvaal.She, however, learnt that the police were looking for her and, according to her daughter, who was born in banishment,‘went into hiding in the nearby mountains and later escaped to Pretoria.’
+Kwena Matlala was banished because she‘strived to protect the institution of bogoÅ¡i (kingship) at ga-Matlala”¦She was opposed to any regent who was not destined by tradition to become an acting or permanent kgoÅ¡i (king).’ She was also opposed to the ‘government of the Boers and its oppressive laws.’
+Kwena Matlala was released from banishment in 1963.

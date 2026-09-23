@@ -1,0 +1,10 @@
+# article-1272
+
+Abner S. Mtimkulu was born in Natal, Mtimkulu was ordained a minister in the Wesleyan Methodist Church but left it later to join the independent Bantu Methodist Church, of which he became president. In the interwar period, he testified before two parliamentary select committees and was a leading participant at many conferences, including the December 1935 conference of the All African Convention (AAC). He served on the Africans' Claims committee and was senior chaplain of the African National Congress (ANC) at the time A. B. Xuma became president-general. Long an associate ofJohn L. Dube, Mtimkulu had been active in the Natal Native Congress before the formation of the ANC, and he later served as Dube's deputy in Natal, acting as provincial president during Dube's long final illness in the 1940s. Under Dube and Mtimkulu, the Natal Congress attempted to maintain a degree of independence from the national ANC. When Dube died in 1946, Mtimkulu became embroiled in a political struggle that led to his defeat for the Natal presidency by A. W. G. Champion, who enjoyed the political backing of the national ANC. Natal thereafter drew closer to the national fold. Mtimkulu was the father of Lionel Mtimkulu, an attorney and legal advisor to the ANC in the 1940s, and Donald Mtimkulu, a distinguished educator.
+South African History Online. (2011, September 11). Abner S. Mtimkulu . South African History Online. https://sahistory.org.za/ref/B-0068152
+South African History Online (2011) 'Abner S. Mtimkulu ', South African History Online, 11 September. Available at: https://sahistory.org.za/ref/B-0068152 (Accessed: 11 September 2026).
+South African History Online, Abner S. Mtimkulu [website], https://sahistory.org.za/ref/B-0068152, (accessed 11 September 2026).
+"Abner S. Mtimkulu ." South African History Online, 11 Sept. 2011, https://sahistory.org.za/ref/B-0068152. Accessed 11 Sept. 2026.
+South African History Online. "Abner S. Mtimkulu ." South African History Online. September 11, 2011. https://sahistory.org.za/ref/B-0068152.
+Further reading
+SAHO is free because readers fund it. Donate →

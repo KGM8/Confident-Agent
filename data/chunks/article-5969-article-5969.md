@@ -1,0 +1,10 @@
+# article-5969
+
+Lucy Buyaphi Mvubelo (née Twala) was born in 1920 in Johannesburg, Transvaal (now Gauteng). She started her education at the Doornfontein School of the American Board of Missions and then went on to the Inanda Seminary, a private girls’ school in Natal (now kwaZulu-Natal), where she completed standard eight (grade ten).
+At the age of eighteen, she began teaching. Six months later she married McKenzie Mvubelo, also a teacher. In March 1942, Mvubelo left the teaching profession because of the low salaries that teachers were paid and entered the clothing industry.
+Mvubelo’s father had belonged to the Industrial and Commercial Workers’ Union (ICU), which was organised by Clements Kadalie. At the time, the ICU was the most influential Black union in the 1920s. She became involved with the Garment Workers’ Union in 1946 and was one of the first Black women to be elected to the National Executive Council of the Trade Union Council of South Africa (TUCSA). She went on to become General Secretary of the National Union of Clothing Workers in 1962, with a membership of 21,000 workers.
+Mvubelo was criticised by some Blacks for her call for continued investment in the country in the 1980s. Her political stance put her in conflict with South Africans opposing Apartheid, among whom she was regarded as a government “stooge”. This resulted in her house being bombed in July 1984.
+Mvubelo was also a member of the Management Committee of the United States-South African Leader Exchange Program, which gave Black people mid-career training in South Africa and America.
+Apart from this, Mvubelo was co-chairman of “Women for Peace”, an organisation comprised primarily of Black and Afrikaans speaking White women, modeled on the movement by the same name in Northern Ireland.
+Mvubelo received many awards for her outstanding contribution to the advancement of clothing workers. In 1973, she was the World Woman of the Year and in 1979, she won the Star Woman of the Year Award.
+Lucy Buyaphi Mvubelo died on 30 October 2000 at the age of eighty.

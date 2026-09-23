@@ -1,0 +1,10 @@
+# article-1270
+
+Mavuso (Walter) Msimang was stationed and trained primarily in central Tanzania, at Kongwa, an ANC military base in the 1960s. He became a leading member of the MK high command and in 1967 he was MK’s Chief of Communications’ during the Wankie Campaign (July - September 1967).
+He holds a BSc (entomology/biology) from the University of Zambia and was also educated in the United States at the International University in San Diego, California and holds a Masters degree in Business Administration.
+Msimang started his career as a UN volunteer for health and refugee programmes in Zambia, and then worked for the World Food Programme in Kenya. He was Care International's country director in Kenya, and in charge of Unicef's emergency programmes in Ethiopia. He has worked for the UN World Food Programme from 1977 to 1984 in Zambia and in Kenya. From 1984 to 1987 he was Country Director for the World University Service of Canada and served in both Ethiopia and Canada.
+Post 1994, Msimang moved to Durban and worked as a business consultant. He was later appointed executive director of the South African Tourism Board. From 1997, he was CEO of SA National Parks, where he oversaw the transformation of the organisation into a commercial entity. He has also served as Chief Executive of KZN Tourism and was a non-Executive Director of Robben Island.
+Subsequently, he has held directorships in numerous organisations. Msimang has extensive corporate experience, having served on the boards of Grintek, Massmart, Exxaro and the SA Tourism Board.
+Msimang was the CEO at the State Information Technology Agency (Sita) from October 2003 and left the Agency to pursue other interests in 2007. Between 2003 and 2007, Msimang was CEO of the State Information Technology Agency, overseeing the use of technology by government.
+In 2006 he was embroiled in a controversy when a personal assistant sued him for sexual harassment in the Pretoria High Court.
+Mavuso Msimang was appointed as Director-General of the Department of Home Affairs in 2007.

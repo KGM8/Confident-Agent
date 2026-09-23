@@ -1,0 +1,5 @@
+# article-10144
+
+Molomo Ntwampe, Ramonkung Mpihleng and Setswiki Matabata from Sekhukhuneland, Lydenburg District, [Northern Transvaal, now Limpopo Province], were allegedly supporters of Motodi Ntwampe and were all banished in terms of an order issued on 8 November 1961.
+It is said that Molomo Ntwampedisappeared before the order could be served. However, a subsequent order states that he was indeed at Native Trust Farm Delville, Xhalanga District [Eastern Province, now Eastern Cape]. Tthe order notes that he was banished to the Native Trust Farm Cala Pass [Eastern Province, now Eastern Cape] and that he was subsequently given a permit to move to Delville on 17 June 1964. The order further notes that the Delville farm was to be transferred to the Transkei government and that it was undesirable for the banished to remain on the farm. Molomo Ntwampewas then moved to a trust farm, Pirie Main, King William's Town District, [Eastern Province, now Eastern Cape] on 8 July 1965.
+Molomo Ntwampe’s order was withdrawn on 24 February 1975.

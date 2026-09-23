@@ -1,0 +1,8 @@
+# article-5789
+
+Laurence Neil Nathan was born in Cape Town, Western Province (now Western Cape) in 1959 to Jewish South African parents. He grew up in Sea Point where he attended Weitzman Primary School and then went to South African College High School (SACS).
+Nathan holds a B.Bus.Sc./LLB from the University of Cape Town (UCT) and a MPhil from the School of Peace Studies Bradford University, United Kingdom. He has published a number of books and articles on South Africa’s security forces and has served on several security and defence advisory committees. He participated in the Cameron Commission of Enquiry into Armscor.
+At UCT, he was involved in the National Union of South African Students (NUSAS), which contributed to his political awareness. Nathan was elected President of NUSAS and served in this capacity from 1981 to 1982.
+He was involved with the End Conscription Campaign (ECC), where he held the position of national organiser from 1985 to 1986. When the Government began a crackdown on ECC members, Nathan went underground, staying in safe houses for 18 months.
+Subsequently, he was consultant for the Institute for a Democratic Alternative for South Africa (IDASA) in 1989; senior researcher and co-ordinator of the Project on Peace and Security Centre for Intergroup Studies in 1991-1992 and Executive Director of the Centre for Conflict Resolution in Cape Town from 1992. Nathan is presently the Director of the Centre for Mediation in Africa at the University of Pretoria.
+Although Nathan participated in the ECC for political and not pacifist reasons, his personal philosophy is one of nonviolence.

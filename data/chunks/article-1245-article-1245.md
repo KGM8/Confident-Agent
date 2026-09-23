@@ -1,0 +1,4 @@
+# article-1245
+
+Kate Dinkwetsi Molale was born in 1928 and died in 1980 after a car accident. In 1954 she was elected as Secretary General of the Sophiatown branch of the African National Congress (ANC). She was actively involved in various campaigns and in the organisation of campaigns. Molale was involved in the drawing up of the 1955 Freedom Charter, and in its adoption. She also participated in the Alexandra bus boycott of 1957.
+In 1970 Molale was given the task of representing the Women’s Section in the Women’s International Democratic Federation (WIDF). She kept this position until 1975. In 1978 she joined the delegation under Oliver Tambo to Cuba. Molale spent her last years in Tanzania, where she looked after children while their mothers were busy with activities connected to the struggle.

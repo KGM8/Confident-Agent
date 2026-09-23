@@ -1,0 +1,8 @@
+# article-10096
+
+Vuyani Goniwe, also known as Jorissen (his MK name), from Ntselamanzi Location, Alice in the Eastern Cape, left South Africa in 1977 together with Bandile Ketelo and Mgcini Mali to join the African National Congress’s (ANC) military wing, uMkhonto weSizwe (MK).
+He underwent military training in Angola. Thereafter he was deployed to Botswana where he joined a MK reconnaissance unit. The unit infiltrated South Africa from Botswana on foot near the Ramatlabama border post and walked through the night.
+On the morning of 27 October 1978 they were spotted by a helicopter and confronted by members of the Bophutatswana National Guard at Masutle village. Goniwe and fellow unit member Bheki Cyprian Hlatshwayo (MK name, Bismark), died from gunshot wounds and grenade explosions in the skirmish that followed. The third unit member, Tladitsagae Moses “Moss” Molefe (MK name, Ncosi), was shot in the leg and captured the following day.
+The Missing Persons Task Team at the National Prosecuting Authority (NPA) opened twelve sites in the Old Mmabatho cemetery in Mahikeng and ultimately located a grave containing two young males with multiple traumatic injuries buried in a single coffin. The bodies were exhumed in July 2012. One of the bodies’ remains was that of Goniwe. His remains were identified through DNA tests in 2013.
+Goniwe’s remains were handed to his family at an official ceremony on 8 March 2014 in the East London City Hall by the Minister of Justice and Constitutional Development, Jeffrey Thamsanqa Radebe and the Deputy Minister of Defence, Thabang Makwetla.
+Vuyani Goniwe’s remains will be reburied in Alice, Eastern Cape on 22 March 2014.

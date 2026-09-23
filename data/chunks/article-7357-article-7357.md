@@ -1,0 +1,9 @@
+# article-7357
+
+South African History Online. (2019, August 22). Discipline Nkonyani. South African History Online. https://sahistory.org.za/ref/B-0145875
+South African History Online (2019) 'Discipline Nkonyani', South African History Online, 22 August. Available at: https://sahistory.org.za/ref/B-0145875 (Accessed: 11 September 2026).
+South African History Online, Discipline Nkonyani [website], https://sahistory.org.za/ref/B-0145875, (accessed 11 September 2026).
+"Discipline Nkonyani." South African History Online, 22 Aug. 2019, https://sahistory.org.za/ref/B-0145875. Accessed 11 Sept. 2026.
+South African History Online. "Discipline Nkonyani." South African History Online. August 22, 2019. https://sahistory.org.za/ref/B-0145875.
+Further reading
+SAHO is free because readers fund it. Donate →

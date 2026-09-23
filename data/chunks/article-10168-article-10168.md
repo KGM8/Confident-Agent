@@ -1,0 +1,5 @@
+# article-10168
+
+It was alleged that in 1958 Alexander Kgobe alias Malemane, from La Pucella, Potgietersrus District, Transvaal [now Mokopane, in Limpopo Province] wrote threatening letters to the principal of the La Pucella school, insisted that he was the headman of La Pucella and interfered in NAD [Native Affairs Department] affairs and school issues. He was also accused of being active in the African National Congress (ANC), and despite warnings continued his activities. The NC [Native Commissioner] of Pietersburg [Polokwane, Limpopo Province] called for Kgobe’s relocation to Matlala Location, also in Pietersburg.
+However, he returned in early 1959 and continued his activities, including undermining the administration of the school at La Pucella. He allegedly urged his supporters to refuse the NAD order to destroy alien plant species and to kill the headman, Samuel Matlala. He was banished to Qhudeni, Nkandla District, Natal [now KwaZulu-Natal] on 6 March 1963.
+Alexander Kgobe’s order was withdrawn on 8 February 1964.

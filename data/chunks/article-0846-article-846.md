@@ -1,0 +1,6 @@
+# article-846
+
+Vincent Oliphant was born on 8 April 1954 in Alicedale, a small Eastern Cape town close to Port Elizabeth.
+He completed his primary education at the Alicedale Methodist Primary School, and his secondary education in Uitenhage and the Hoërskool (High School) Patterson in Port Elizabeth, where he matriculated. He then went to the University of the Western Cape, where he did a B.Sc. degree with Mathematics and Physics as his majors. During this time, he expressed his love for writing by joining a campus writing circle. He completed his further education with B.Ed. and M.Ed. degrees at Rhodes University.
+Oliphant's first book of poems, Bloed vloei in stilte (Blood flows in silence), was published in 1981, and comprised personal poems. In 1995 he received the second prize in a poetry competition held by Concept, a Belgian cultural organisation. In 1996 he was invited to take part in the annual Poetry International Festival in Rotterdam. His second book of poetry, Die sagte vlees (The soft flesh), was published in 1998. The poems in this book were more varied than those in his first book and included socio-political as well as personal (specifically, love) poems. The book was generally well received among critics as well as the public.
+Apart from his love for writing, Oliphant also have a passion for teaching mathematics.

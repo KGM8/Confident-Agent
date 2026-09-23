@@ -1,0 +1,8 @@
+# article-129
+
+Butelezi was educated at the Wesleyan Methodist School, Volks rust where he received drawing lessons. He then attended Kinlinton Training School in Pretoria where painting was included in the curriculum. In 1930 he was working in a sweet factory in Durban. Later he opened a studio at 169 Clauon Road, supplementing his income by doing odd sign-writing jobs, He painted 'native studies' and landscapes and was apparently able to support himself from the sale of his art.
+It is highly possible that the watercolour portraits painted by Arthur Butelezi were of people that he knew very well. This would distinguish them to some extent from the colonial ‘native studies’ by most white artists at that time which usually lacked a direct relationship with the sitter. Like the great pioneer of western art in West Africa, Aina Onabolu (1882–1963), Butelezi wanted to abolish notions that: ‘”¦ no African – not even a culturally Europeanised one – was endowed with the creative ability to produce art like white people’.
+The sensitivity with which the people are depicted in Butelezi’s works often contrasts with the titles that they have been given by their white owners; titles that seem too non-specific to have any meaningful relationship with the subject. The ‘colonial studies’ produced by most white artists differ from Butelezi’s art; they reveal the way that white artists tended to view black people – as subjects for superficial scrutiny rather than people with deeper identities and personalities. Between 1948 and 1951 he appears to have suffered from a severe mental illness.
+Curriculum Vitae
+Collections:
+KC

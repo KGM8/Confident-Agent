@@ -1,0 +1,18 @@
+# article-3046
+
+Incarceration
+- Prison
+- Robben Island
+- Prisoner no.
+- 38/0814
+- Admitted
+- 18 December 1986
+- Released
+- 9 June 1990
+South African History Online. (2012, March 15). Kevin Lionel Curtis . South African History Online. https://sahistory.org.za/ref/B-0077714
+South African History Online (2012) 'Kevin Lionel Curtis ', South African History Online, 15 March. Available at: https://sahistory.org.za/ref/B-0077714 (Accessed: 11 September 2026).
+South African History Online, Kevin Lionel Curtis [website], https://sahistory.org.za/ref/B-0077714, (accessed 11 September 2026).
+"Kevin Lionel Curtis ." South African History Online, 15 Mar. 2012, https://sahistory.org.za/ref/B-0077714. Accessed 11 Sept. 2026.
+South African History Online. "Kevin Lionel Curtis ." South African History Online. March 15, 2012. https://sahistory.org.za/ref/B-0077714.
+Further reading
+SAHO is free because readers fund it. Donate →

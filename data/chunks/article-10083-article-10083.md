@@ -1,0 +1,7 @@
+# article-10083
+
+Julia Nicol worked actively as an anti-apartheid activist in the late 1980s and early 90s, particularly concerned with the anti-discrimination rights for LGBTQI+ (lesbian, gay, bisexual, transexual, queer, and intersex) people.
+Nicol trained as a librarian, and played an integral role in LGBTQI+ politics in pre-democratic South Africa. She, along with fellow comrades Simon Nkoli, Ivan Toms and her partner Sheila Lapinksy, lobbied for the recognition of LGBTQI+ rights to be constitutionalized.
+Nicol and Lapinsky were active members of a number of Cape Town based LGBTQI+ organizations, and founding members of Lesbians and Gays against Oppression/Organization of Lesbian and Gay Action (LAGO/OLGA). Together, the partners were instrumental in ensuring the rights of the LGBTQI+ community did not go unnoticed in the midst of the freedom movement, particularly within the African National Congress (ANC).
+Nicol was involved in the drafting of a an influential proposal to the ANC Constitutional Committee in 1990. This proposal called for the rights of LGBTQI+ individuals to be recognized and constitutionally protected. This highly influential proposal was adopted as a part of the Constitutional Committee’s draft constitution in 1991, and eventually ratified in 1992.
+Nicol passed away on April 3, 2019. She leaves behind a lifetime of LGBTQI+ activism which has proved foundational to the constitutional rights of the LGBTQI+ community in South Africa today.

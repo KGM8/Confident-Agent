@@ -1,0 +1,5 @@
+# article-1432
+
+Ilse Naude was born in 1913 and grew up on the Moravian mission in Genadendal near Caledon. After completing secondary education she received a bursary and went to study for a BSc at University of Stellenbosch. Illse proceeded to study for her Masters Degree in Maths and Education which she successfully completed.
+In 1940, Illse and Beyers Naude got married at Genadendal a mission station in the Western Cape. Illse and her husband then spent time moving to different parishes as they carried out their work. They started in Wellington in the Western Cape and moved to Loxton in the Karoo. Later they moved Pretoria and finally settled in Johannesburg.
+In 2004, Illse’s husband, Beyers Naude whom she had been with for 64 years passed away. Then in December 2011 she was admitted to hospital and underwent a hip operation but she did not fully recuperate. Illse Naude passed away on 31 December 2011. She is survived by four children, four grand children and three great grandchildren.

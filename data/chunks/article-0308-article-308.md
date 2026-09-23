@@ -1,0 +1,4 @@
+# article-308
+
+John Gomas was born in Cape Town. He was a tailor by profession and a member of the Garment Workers' Union. He served as secretary of the Cape Town branch of the Communist Party of South Africa (CP) in the late 1920s and was elected to the CPSA political bureau in 1933. He was the western Cape provincial secretary of the Industrial and Commercial Workers' Union (ICU) until December 1926 when he was expelled from the ICU in its clash with the CPSA.
+In 1928 he was elected vice-president of the western Cape African National Congress (ANC), and he became a leader of the short-lived independent ANC in that area in 1930. With Cissie Gool and James La Guma, he founded the National Liberation League in 1935. In the 1940s he was secretary of the Tin Workers' Union and continued to be active in the Communist Party.

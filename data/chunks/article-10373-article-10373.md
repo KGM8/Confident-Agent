@@ -1,0 +1,8 @@
+# article-10373
+
+Manasseh Tebatso Moerane was born in 1913 to an educated Sotho parents in the Transkei, he attended Adams College and obtained bachelor's degrees from Fort Hare and the University of Natal and a B.Com. degree from the University of South Africa. On graduation from Fort Hare, he took up teaching in Natal in 1935 and the same year joined the African National Congress (ANC), of which his father had also been a member. Several years later, he and Jordan Ngubane made an abortive attempt to establish a National Union of African Youth in Natal.
+In 1943 he participated in the Atlantic Charter Committee that drew up Africans' Claims.
+Pressure for a political youth organization revived in 1943, and Moerane helped launch the ANC Youth League in Natal in 1944 in the face of strong opposition from A. W. G. Champion. He remained a Youth Leaguer in spite of criticism from the provincial department of education but gradually became less active.
+In 1948 he became principal of Ohlange High School near Durban, and throughout the 1940s and early 1950s he played a prominent role in the Natal African Teachers' Union. For five years he was president of the African Teachers' Federation of South Africa. He left teaching in 1955 and accepted an invitation to travel abroad for Moral Re-Armament. Except for one brief trip to South Africa in 1962, he was abroad with MRA from 1955 to 1963.
+In June 1963 he became editor of The World, a white-owned newspaper for Africans.
+In the late 1960s he became president of the Association for the Educational and Cultural Advancement of African People of South Africa (ASSECA), and in the early 1970s he helped to found the black People's Convention.

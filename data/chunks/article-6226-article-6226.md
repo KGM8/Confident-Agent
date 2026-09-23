@@ -1,0 +1,28 @@
+# article-6226
+
+Mmusi Aloysias Maimane was born in Krugersdorp, Transvaal (now Gauteng) on 6 June 1980 to Ethel and Simon Maimane but grew up in Dobsonville, Soweto, Transvaal (now Gauteng).
+The eldest of four children, Maimane attended Allen Glen High School, where he matriculated in 1997.
+He graduated from the University of South Africa, with a BA degree in Psychology, the University of the Witwatersrand, with a Masters in Public Administration, and Bangor University, Wales, with a Masters in Theology.
+Maimane ran his own business management consultancy and lectured at the Gordon Institute of Business Science in Johannesburg, before he applied to run as a Democratic Alliance (DA) candidate for the Johannesburg City Council. Maimane entered the politics relatively late, joining the Democratic Alliance (DA) in 2009.
+In 2011, he applied to run as the DA’s candidate for the position of Mayor of Johannesburg. Maimane defeated contender Vasco da Gama to be elected as the DA mayoral candidate for Johannesburg. In 2011 he was selected as DA National Spokesperson.
+However, the DA achieved just 34.6% of the vote in the 2011 Local Government Elections in Johannesburg – the mayoral seat was won by the African National Congress (ANC). However, not all was lost; the DA had made impressive gains – Maimane led a caucus of 90 members of the 260 seats in Johannesburg City Council, and was now the Leader of the Official Opposition in Johannesburg.
+Maimane, who had proven his propensity for intellectual debate and administrative prowess, was elected as Deputy Federal Chairperson, ahead of eight other candidates, at the 2012 DA Federal Congress.
+In August 2013, Maimane was elected the DA’s Gauteng Premier Candidate. This position afforded him a platform to showcase his campaigning skills.
+In the run-up to the 2014 General Elections, Maimane deployed a customised “Believe Bus” which travelled to over 350 locations in the nine-month campaign period.
+The DA grew its share of the vote in Gauteng substantially in the 2014 election with Maimane at the helm, but the ANC retained control of the province.
+Despite a hard-fought campaign, the ANC managed to pip the DA to the premier post in Gauteng, with David Makhura was inaugurated as Gauteng’s premier as a result of the 2014 General Elections.
+While the DA made good gains in the elections, specifically in Gauteng, Maimane opted against serving in the provincial legislature and instead chose to be sworn in as a member of the National Assembly in Cape Town. This move catapulted Maimane to the helm of the official opposition party.
+The DA’s parliamentary caucus elected Maimane as Leader of the Opposition in the National Assembly in May 2014 – making him the first black male to hold the position in South Africa’s history.
+A year later, Maimane was elected leader of the DA at the party’s 2015 Federal Congress. Maimane succeeded Helen Zille as leader of the party and became the first black South African to lead the DA.
+A few months after being elected as party leader, Maimane faced staunch criticism for his handling of an internal DA disciplinary which centred on the party’s Shadow Minister of Police, Dianne Kohler Barnard, and her controversial Facebook post.
+Barnard had a shared a post from suggesting that life in South Africa was better under former apartheid President PW Botha. Despite deleting the post and apologising publicly, pressure fell on Maimane to act without prejudice.
+Maimane inaction with regards to the scandal hurt public perception surround the DA. Although Maimane tried to explain that the DA needed to treat Kohler Barnard fairly, the issue damaged public relations along with inter-party ties.
+According to political analysts, this was the first sign of Maimane’s weakness, which has subsequently marred his tenure as leader of the DA.
+In an attempt to rebrand the DA and avoid further contention, in 2016, Maimane set out a charter on racism that all new DA members would have to undertake upon joining the party. While the racial policies adopted by the DA as a result of Maimane’s leadership have been welcomed, some voters feel as though the party has been dismissive of the importance of the ‘white vote’.
+In 2015, Maimane was chased from the University of Cape Town campus after attempting to address students protesting for free education. He was subsequently lambasted by the youth wing of his own party for failing to engage with the real issues presented by protesting students.
+Maimane’s trip to Israel in 2017 also came under scrutiny from political parties and civil rights groups who had chosen to boycott the country for its ‘apartheid-like’ regime embattling Palestine.
+Maimane faced his biggest internal political dispute later that same year when he was forced to act against the DA’s matriarch, Helen Zille, who had tweeted about the legacy of colonialism having some positives. The Western Cape Premier apologised and added that her opinions weren’t meant to outrage the public.
+Maimane referred the matter to a DA disciplinary process, despite public calls for Maimane, as leader of the DA, to axe Zille. Since the fallout, Maimane has admitted that his relationship with Zille had been strained.
+Maimane is a devout Christian and preached at the Discovery Church in Randburg prior to being elected as the DA’s leader. He also preached at the Liberty Church.
+In the run up to the 2014 national elections, Maimane appeared in a political advert titled “Ayisafani” which was subsequently banned by the South African Broadcasting Corporation (SABC) for “inciting violence”. The DA challenged the ruling and the advert was reinstated.
+Mmusi Maimane is married to Natalie and they have two children.

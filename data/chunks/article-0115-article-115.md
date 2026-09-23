@@ -1,0 +1,8 @@
+# article-115
+
+Brink is a distinguished South African novelist, playwright, literary critic and academic who challenged the apartheid government. He is now Professor of English at the University of Cape Town.
+André Philippus Brink was born on 29 May 1935, in Vrede one of the small towns in Orange Free State. His writing began at the age of nine with a poem, A little Terrible Thing.
+In 1958 he wrote Meul teen die hang. Together with Die gebondenes, one of his earlier works these earned him literary fame. He became well known for his prose style, which has been used by authors such as L.P. Boon a Dutch author and Lawrence Durrell, an Anglo-Irish author. From 1963 – 1965 he became the principal member of the editorial board of the periodical Sestiger.
+His early writing is mostly in Afrikaans, but by 1964 he began to write in English as well. His reflections on justice and human rights issues led to the banning of some his works. In 1973 his novel Looking on Darkness was banned, this was followed by the banning of another Kennis van die Aand the following year. His powerful novel A Dry White Season (1982), set in South Africa in 1976 and focussing on the death in detention of a black activist was also banned. This novel was turned into a film starring actors such as Donald Sutherland, Thoko Ntshinga, and Zakes Mokae.
+Brink’s challenge of the South African government continued right through the 1980s when the government announced that all white males between the age of 18 and 55 would be conscripted into the army. In a statement that was published in Grassroots, a widely read newspaper in the 1980s, Brink stated, “I won’t serve in the SADF”.
+Brink passed away on 6 February 2015.

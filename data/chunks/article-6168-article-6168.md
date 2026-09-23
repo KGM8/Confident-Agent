@@ -1,0 +1,12 @@
+# article-6168
+
+Juda Ngwenya began his career with The Star newspaper in Johannesburg, Transvaal (now Gauteng). Before he was even two years in the employ of the newspaper, he was approached by the renowned news wire services, Reuters to join the organisation.
+In a career spanning over two and half decades, Ngwenya has covered some of South Africa’s hotspots and also travelled extensively doing different assignments.
+Ngwenya covered conflict in Liberia and Nigeria, violent land seizures in Zimbabwe and natural disasters like the flooding in Mozambique, as well as other major news worthy stories in Africa.
+Ngwenya also worked at The World and The Daily Mail, among other newspapers. 
+His pictures have appeared in front pages of newspapers such as London Times, The Observer as well as magazines such Time Magazine and Newsweek.
+Ngwenya photographed conflict during South Africa's apartheid years as well as times of great hope, including the iconic image of when Nelson Mandela voted in the first democratic elections on April 27, 1994 at Inanda, Natal (now Kwazulu-Natal). Mandela was elected president and Ngwenya later gave him a framed photograph of the moment when the anti-apartheid leader stood, beaming and raising his right arm, after casting his ballot.
+After retiring from Reuters after twenty years of work, he worked as a freelance photographer and took images for the Nelson Mandela Foundation. He participated in the Foundation’s exhibition Between States of Emergency in 2015, which was a tribute to photographers who sacrificed a great deal in order to tell the world of the brutal realities and injustices of South Africa during the states of emergency in South Africa in the 1980s. The work of 40 photographers were on display, with images from 21 July 1985 to 7 June 1990, when a series of states of emergency were imposed to clamp down on anti-apartheid protests in South Africa.
+On 14 October 2016 Ngwenya suffered a massive stroke at his Leondale home, Ekurhuleni and was admitted to the Thelle Mogoerane Hospital in Vosloorus where he passed away five days later at the age of 65. A memorial service was held on 26 October 2016 at the Rhema Bible Church in Johannesburg.
+Juda Ngwenya is survived by his widow Mwelase and five children, Vusi, Bathabile, Sibusiso, Ntombikayise and Nkanyezi.
+Reuters set up a photojournalist scholarship fund at the Wits University School of Journalism for in honour of Ngwenya.

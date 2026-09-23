@@ -1,0 +1,10 @@
+# article-133
+
+Butshingi was born in Engcobo, Transkei on 28 February 1906, the second child of Valelo James Butshingi and Angeline Nokwenjenje (nee Thuswa). He attended school at Cwecweni, a Transkei school situated between Engcobo and Idutywa. He moved to the Transvaal in 1925 to become an insurance company agent and later became the director of an investment trust.
+In the 1940s, he became involved in the Transvaal worker’s unions. However, it is not known how or when this involvement came about.
+From 1941-1944, he was assistant secretary for the African Commercial and Distributive Workers Union, which had a membership of 10 000. In 1944, he was one of the delegates sent to represent the African Explosives Workers Union in a request for better working conditions.
+From 1945-1953, he was a member of the Publishing and Newspapers Distributors African Workers Union. As secretary for the union, he was involved in negotiations for better wages and working conditions. From June 1948, until his retirement from the union, he was involved in negotiations with the government.
+Butshingi was an active member of the community and a keen athlete. He was President of the Dube Bowling Club, and President of the South African Cricket Board from 1956-1970 when he relinquished his presidency. A horse-race enthusiast, Butshingi spent his leisure time at the race-course.
+Butshingi was also involved in civic matters, and was a leader of the Orlando West Vigilance Association. He was also a member of the defunct Urban Bantu Council before he became a Soweto City Councillor, and the vice-chairperson of the Joint Advisory Boards of Johannesburg.
+As a devout Christian, he was actively involved in the Bantu Methodist Church. He served as a member of the Church Conational Trust Properties Committee, and as a member of the synod of the Transvaal and Bechuanaland District Church. 
+Butshingi died on his birthday in 1980 at his home in Orlando West, Soweto. He was buried in Avalon Cemetery on 8 March. He was survived by his second wife, Priscilla, and three children from his first marriage.

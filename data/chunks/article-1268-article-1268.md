@@ -1,0 +1,7 @@
+# article-1268
+
+Oscar Mpetha was born at Mount Fletcher in the Transkei in 1909 and in 1934 sought work in Cape Town, where he was employed as a dock worker, waiter, hospital orderly, road worker, and later as a factory worker. In the late 1940s he helped to organise the African Food and Canning Workers' Union and in 1951 became its general secretary. He joined the African National Congress ANC in 1951 and in 1958 was chosen president of the Cape ANC in a disputed election. He was subject to bans from 1954 into the 1960s and was detained during the 1960 state of emergency.
+In 1983 he was convicted of terrorism and of inciting a riot at a squatter camp in August 1980 during which two whites were killed. He was sentenced to five years in prison. While he was making an unsuccessful appeal of his sentence, he was selected to be one of three co-presidents of the United Democratic Front (UDF), an anti-apartheid body that incorporated many anti-apartheid organisations.
+Oscar was only released in October 1989 with other Rivonia political prisoners.
+He spent most of his sentence under armed guard at Groote Schuur Hospital. He was an ill man who had both his legs amputated and moved around in a wheelchair with the aid of his private nurses. Comrade Oscar was happy his wish to see freedom in his lifetime was fulfilled. He voted in South Africa’s first democratic elections in April 1994 to win a government free of race and sex discrimination.
+Comrade Oscar died on 15 November 1994 at his Gugulethu home.

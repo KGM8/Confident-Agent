@@ -1,0 +1,6 @@
+# article-10165
+
+Gibson Magwaza, from Nongoma District, Natal [now KwaZulu-Natal] was banished for coming into conflict with Chief Cyprian Dinizulu and the state. A document on his banishment noted thatMagwaza was a senior induna [headman] who was very influential, and in 1957 played an important role in opposing the implementation ofstate policies.
+He was accused of disregarding an instruction from the NC [Native Commissioner] and charged R30 or six weeks in prison. In 1958, he was active in breaking up a meeting of the chief in Mhashini. Referring to ‘confidential information,’ it was alleged that Magwaza was the organiser of the protests that occurred in Tokazi in November 1960 in which 24 huts were burnt down and two people were killed. Reference was made to agitators in the background - he was said to visit Johannesburg and Durban on a regular basis and to meet with various lawyers. Finally, it was observed that Magwaza’s house was on the main national road between Nongoma and Vryheid [both areas in KwaZulu-Natal] and it was easy for him to meet with ‘leftists.’
+Magwaza was banished from Nongoma district to the Kalkspruit Native Trust Farm No. 812, Pietersburg District, [Northern Transvaal, now Limpopo Province] on 23 May 1961.
+Gibson Magwaza was given a temporary permit to return to Nongoma, and his banishment order was revoked in 1966.

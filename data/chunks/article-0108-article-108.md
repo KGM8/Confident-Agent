@@ -1,0 +1,4 @@
+# article-108
+
+Richard Bourke was born on 4 May 1777 in Dublin, Ireland. During his army career he was promoted to Major-General and proved himself as an excellent and impartial administrator. Bourke was subsequently sent to the Cape Colony from 1826-28 as an acting Governor. His main task was to re - work the civil and judicial establishment of the Cape Colony. In 1828 he issued Ordinance 50, which now allowed Hottentots to move freely without carrying passes and in law had equal status with the Whites and could also acquire ownership of land. Hottentots could acquire land. The Ordinance was not going to repealed without the consent of the British government. The result of this law was shortage of labour as well as robbery, especially round the Hottentot settlement on the Kat River. From 1831 to 1837 he was appointed governor of New South Wales.
+Richard Bourke died on 13 August 1855 near Limerick in Ireland.

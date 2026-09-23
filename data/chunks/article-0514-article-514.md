@@ -1,0 +1,10 @@
+# article-514
+
+Enos Mabuza was born on 6 June 1939 at the Sheba Gold Mine. He attended the Sheba Mine School until Std 4 and moved to Barberton Community School until Std 6. He then attended the Emjindini secondary School and got his Junior Certificate in 1957. He went on to obtain a Primary Teacher’s Certificate at the Evangelical Teacher’s Training College in Vryheid. He later completed his matric in 1964 and registered for a BA degree in 1966, which he completed in 1969 with Zulu and Psychology as majors. In 1974 he completed his Honours degree in Psychology.
+From 1960 he lectured at the Evangelical Teacher’s Training College, and went on the next year to teach at the Magwenya Higher Primary School in White River, moving to the Ngwane Higher Primary School in Barberton in 1963. He returned to Emjindini secondary School, his high school, as Deputy Headmaster in 1964, and by 1968 was appointed Headmaster of Khumbula High School in White River.
+He was appointed Inspector of Education in 1972, to become one of the youngest Black educationists in his country. He became a one of the first authors of Siswato books outside Swaziland, and wrote A Grammar of the Swazi Language with Unisa Professor Dirk Ziervogel.
+Mabuza now entered a period of political activity within the homeland system. In April 1976 he was elected to the Swazi Territorial Authority, to become Chief Executive Councillor of the Kangwane Legislative Assembly the next year.
+After the Legislative Assembly was dissolved, he was re-elected to the second assembly, a position he retained after being re-elected in 1983.
+In 1978 he founded the party that became the most powerful party in Kangwane, the Inyandza National Movement. In 1986 he led a 21-person delegation to meet with the ANC in Lusaka. He resigned as Chief Minister of Kangwane and as President of INM in 1991 and entered the corporate world.
+In May 1993 the University of Grahamstown conferred on him the Doctorate of Law.
+He died in Johannesburg in December 1997.

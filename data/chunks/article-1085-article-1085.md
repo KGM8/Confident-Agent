@@ -1,0 +1,4 @@
+# article-1085
+
+Van der Gucht moved to South Africa in 1939 and took up a position at the Grahamstown Training College where she started a career in speech and drama education. In 1942 she was offered a position as assistant in speech training at the University of Cape Town (UCT), which she accepted. She soon found herself directing many performances. In 1946 she was promoted to head of the Speech and Drama Department at UCT, where she continued to inspire and lead people. She proposed changes in the department, such as a Performer’s Diploma and a chair for drama.
+Aside from teaching, Van der Gucht also began other projects, including Theatre for Youth in Cape Town in 1956. She retired in 1971 and continued directing and travelling until her death in 1985. Van de Gucht was awarded numerous awards such as the Three Leaf Award for Best Director, the AA Mutual Life for Best Director and the AA Vita Award.

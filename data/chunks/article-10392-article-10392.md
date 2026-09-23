@@ -1,0 +1,12 @@
+# article-10392
+
+Deseni Soobben was 10 when her grandfather, a businessman returned from a trip to Japan and gave her a Kodak lnstamatic camera.
+Soobben matriculated from Isipingo High School and went on to enrol in Photography at the Natal Technikon, (now known as the Durban University of Technology). While a student, she would take pictures of soccer matches at Currie’s Fountain, becoming a familiar face and having her pictures published in The Graphic.
+She then began contributing to Afrapix Photo Agency. Her work with Afrapix included documenting the emerging UDF, violence torn KZN Midlands and civil protest action which were distributed across the world. She photographed trade union gatherings, End Conscription Campaign meetings and the funerals of anti-apartheid activists amongst others. Soobben also contributed towards the ‘Between States of Emergency’ exhibition.
+When S’bu Mngadi asked her to freelance for City Press she spent three years accompanying him and Fred Khumalo, covering vast areas of KwaZulu-Natal. She would go on to lecture at DUT when it was still known as ML Sultan. Soobben has been teaching in the Department of Journalism at the Durban University of Technology since 1995. Her specialist areas of interest are photography, media, culture and gender, and, to this end, has written a paper on the photographic representation of women in the print media. She holds a National Higher Diploma in Journalism from ML Sultan Technikon, a BA (Hons) in Media & Cultural Studies obtained from the University of Natal, and a MA (Media, Culture & Communication) from UKZN.
+Her photographic exhibition alongside Cedric Nunn and Rafs Mayet, entitled Lights, Camera, Fire, was held at artSPACE Gallery in 2013.
+South African History Online. (2019, September 14). Deseni Soobben. South African History Online. https://sahistory.org.za/ref/B-0149599
+South African History Online (2019) 'Deseni Soobben', South African History Online, 14 September. Available at: https://sahistory.org.za/ref/B-0149599 (Accessed: 10 September 2026).
+South African History Online, Deseni Soobben [website], https://sahistory.org.za/ref/B-0149599, (accessed 10 September 2026).
+"Deseni Soobben." South African History Online, 14 Sept. 2019, https://sahistory.org.za/ref/B-0149599. Accessed 10 Sept. 2026.
+South African History Online. "Deseni Soobben." South African History Online. September 14, 2019. https://sahistory.org.za/ref/B-0149599.

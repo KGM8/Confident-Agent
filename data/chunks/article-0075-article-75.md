@@ -1,0 +1,6 @@
+# article-75
+
+During the 1960s, at the height of the forced removals with the introduction of the Native Law Amendment Act, there was great panic and confusion within the community. Women, children and the aged were being taken away from urban areas to barren places where there were no schools, clinics and jobs.
+Husbands remained behind to work as migrant labourers. It was during this time also that the Group Areas Act was implemented, dividing the people in urban area into tribal groups so that they lived in separate townships.
+Mama Beshenga threw her weight behind opposing these inhuman laws urging women to join in the demonstrations to Parliament and refused to be bundled into trucks taken to barren areas where they had never lived. Many were arrested for defying and were kept for long periods in detention. Men suffered great frustration and as would be expected, many went all out drinking all their meagre wages they earned. Children were left starving. Mama and her colleagues vigorously fought against the men, drawing their attention to how they are adding to the problems.
+Mama encouraged women to attend court trials to give moral support to those arrested and visited families of detainees to make sure life continued as best as possible. As a trade unionist she also helped to raise funds for the Wilson Round Tree Organisation.

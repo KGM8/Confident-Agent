@@ -1,0 +1,7 @@
+# article-6051
+
+Ndeutala Hishongwa was born in 1952 in Okalili, northwest Namibia. She trained as a nurse and in 1974 joined SWAPO-in-exile in Zambia. She was sent to Sweden to study on scholarship from the Lutheran World Federation and studied at the University of Stockholm and Växjö University.
+Hishongwa wrote Marrying Apartheid, a novel about a newlywed couple in northern Namibia and the toll that South African rule has on their marriage. It depicts the ways that the violence of the apartheid regime manifests as violence within a household, and centralizes the role of SWAPO within the liberation struggle. In 1986, it was published and distributed through solidarity networks originating in Australia. She was in Australia as a post-graduate student at the Centre for Comparative and International Studies in Education at La Trobe University (Melbourne, Australia). Her husband, Hadino Hishongwa, was the SWAPO representative for Australia and the Pacific Islands.
+In 1988, Hishongwa completed her PhD at La Trobe University. Her thesis is entitled Comparative Study on Women’s Education in Namibia.
+Hishongwa was one of the first exiles to return to Namibia in 1989. She arrived with her two children, which had thus-far been raised in Australia, and her husband, who was to lead SWAPO's election campaign in northern Namibia.
+She has also published The Contract Labour System and its Effects on Family and Social Life in Namibia: A Historical Perspective and Women of Namibia: The Changing Role of Namibian Women from Traditional Precolonial Times to the Present.

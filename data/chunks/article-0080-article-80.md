@@ -1,0 +1,10 @@
+# article-80
+
+Gerard Bhengu was born on 6 September 1910 in Outstation of Mariannhill Mission Station, Centecow, Bulwer district, Southern Natal. Bhengu received his early education at the Roman Catholic Mission School of Esibomvwini at Centecow, in the Creighton region of Natal. From 1926 - 31 Bhengu produced 150 drawings for Dr Max Kohler as documentation of rural tribal life in Centecow. Kohler used some of these drawings to illustrate his ethnographic and medical publications. In 1932 and 1933 the artist lived in Ixopo, Mariannhill where he was commissioned by Bishop Fleischer to paint a number of pictures with religious themes. From 1934 to 1937 he attended Edendale Training College under the sponsorship of Dr D. M. Malcolm, Chief Inspector of Native Education in Natal and Mr S. R. Dent, Inspector of Native Education. He was taught by Reverend Nixon.
+The Department of Native Affairs commissioned Bhengu to paint a mural for the Empire Exhibition which was to depict the development of blacks 'from village to university''. Bhengu never completed the mural and was dismissed by Malcom and Dent. He nevertheless attended the Empire exhibition in Johannesburg. From 1940 to 1949 he painted scenes of everyday black life as well as portraits of black people which were sold in Payne Brothers Department Store in West Street in Durban. Throughout his career Bhengu received encouragement from H.I.E. Dhlomo. Bhengu was patronised by Killie Campbell as well as the herbalist Edward Gwazindoda Tembe who commissioned two large murals for his shop in Durban.
+From 1959 the artist lived in Cato Manor until it was demolished, when he moved to Umlazi Township, Durban. In the 1960s he illustrated a book on his life and work written by Phyllis Savory. He died in 1990.
+Curriculum Vitae
+Commissions:
+1942: Frieze consisting of ten murals in the recreation room for black volunteer recruits at the Wesleyan Methodist Institute in Grey Street Durban (commission organised by Killie-Campbell) Four 'Feast of the first fruits' pictures commissioned by Killie Campbell (two completed).
+Collections:
+AFRICANA; KC; UFH. Click here to read more on Gerard Bhengu.

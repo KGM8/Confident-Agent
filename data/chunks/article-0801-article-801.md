@@ -1,0 +1,15 @@
+# article-801
+
+Joseph (Joe) Mbuku Nhlanhla was born on 4 December 1936 in Sophiatown. He was one of the five children of Christina Toli (born Buhali) and Samuel Nhlanhla. Both parents were originally from the Free State Province (formerly known as Orange Free State).
+His father moved the family out of Free State after the racism in the area they were living became intolerable, eventually settling in Sophiatown. Victims of the infamous Sophiatown forced removals, the Nhlanhla family settled in Alexandra township. He attended school at the local school, Ikage Primary School, before enrolling at Kilnerton High School where he matriculated in 1956.
+Nhlanhla joined the ANC and its youth wing the ANC Youth League in 1957 and was elected onto the ANCYL's Transvaal executive a year later. During this period he was also involved in the anti-pass campaign as well as the 1957 bus and potato boycotts.
+He was arrested during the 1960 state of emergency and was detained on 28 March that year. On his release a few days before the lifting of the emergency, he was 'restricted' and confined to the magisterial area of Johannesburg.
+In early 1964, he left the country for the Soviet Union where he completed a Master's Degree in Economics in Moscow in 1969.
+That same year he was appointed head of the ANC's youth and student headquarters in Tanzania, a post he served in for five years before being chosen as the organisation's chief representative in Egypt and the Middle East in 1973.
+In 1978, the ANC posted him to its Lusaka headquarters as national administrative secretary. Three years later he was elected a member of the ANC National Executive Committee.
+In 1986, he joined the organisation's intelligence directorate after serving a three-year stint as secretary to the Political Military Council. He was appointed ANC intelligence chief in July 1987, a post he still held in 1989 when he was a member of the four-man ANC group headed by Thabo Mbeki which made contact with the apartheid government.
+From 1990, he served on the ANC team tasked with removing obstacles to negotiations. He served on the National Preparatory Committee which prepared for the return of the ANC to South Africa and was part of the ANC delegation at the Groote Schuur talks in May 1990, which opened negotiations with the South African Government. He sat on the interim government sub-committee at the Codesa talks.
+In 1994, he was elected a member of the Constituent Assembly and on February 22 the following year, he was appointed Deputy Minister of Intelligence Services. Nhlanhla was appointed by President Thabo Mbeki as Minister for Intelligence Services in 1999, a position he held until he was no longer able to due to ill health.
+In recognition of his role, Mbeki bestowed Joe Nhlanhla with the Order of Luthuli in June 2004, quoting Franz Fanon, who said:
+"Each generation must out of relative obscurity discover its mission, fulfil it, or betray it."
+Joe Nhlanhla died at the Milpark Hospital, Johannesburg, on 2 July 2008, age 72.

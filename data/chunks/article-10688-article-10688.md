@@ -1,0 +1,6 @@
+# article-10688
+
+Cheryl Ellen Gillwald was born in Welkom in the Orange Free State (now Free State Province) on 13 December 1956. She matriculated in 1974 at Roedean in Johannesburg, Transvaal (now Gauteng). Thereafter she attended Washington High School in Wisconsin, United States of America (USA) as an American Field Service exchange student, for one year. Gillwald completed a Bachelor of Commerce degree at the University of the Free State.
+As a young woman, Gillwald was involved in community work in Intabazwe Township where she also helped start the Fundisanani Community Trust, built a centre for street children, and organised winter schools where she enlisted the services of student teachers from the University of the Free State to help township matriculation students with their mathematics and science.
+Gillwald served in various companies as a public relations officer and director of finance and administration until 1994. She joined the African National Congress (ANC) when it was unbanned and in 1994 was called to Parliament to serve in the Senate and then the National Council of Provinces, which replaced the Senate. In 1997, the ANC appointed her to the National Assembly. She was appointed as Deputy Minister of Justice in 1999, and of Correctional Services in 2004.
+On 27 July 2010, Cheryl Ellen Gillwald passed away at the age of 53 from cancer.

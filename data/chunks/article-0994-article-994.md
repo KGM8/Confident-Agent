@@ -1,0 +1,9 @@
+# article-994
+
+South African History Online. (2011, February 17). William Henry Simpson. South African History Online. https://sahistory.org.za/ref/B-0009060
+South African History Online (2011) 'William Henry Simpson', South African History Online, 17 February. Available at: https://sahistory.org.za/ref/B-0009060 (Accessed: 11 September 2026).
+South African History Online, William Henry Simpson [website], https://sahistory.org.za/ref/B-0009060, (accessed 11 September 2026).
+"William Henry Simpson." South African History Online, 17 Feb. 2011, https://sahistory.org.za/ref/B-0009060. Accessed 11 Sept. 2026.
+South African History Online. "William Henry Simpson." South African History Online. February 17, 2011. https://sahistory.org.za/ref/B-0009060.
+Further reading
+SAHO is free because readers fund it. Donate →

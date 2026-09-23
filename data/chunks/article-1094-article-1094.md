@@ -1,0 +1,9 @@
+# article-1094
+
+Vlachakis is a professional photojournalist who has been involved in the local newspaper and magazine industry since 1995. His work has been published both locally and internationally. He is currently a contributor to the highly regarded South African photojournalism agency "South Photographs".
+He matriculated in 1988 and obtained a National Diploma in Photography from the Technikon of Pretoria. He did his third year Specialization and thesis in area of documentary photography, " Mafefe Village, issues of development."
+In 1994 he started as a freelance photographic assistant in the commercial photographic industry before starting to do fulltime freelance work from 1995-1997 for The Star Newspaper. His work appeared in all of the Newspapers associated with the Independent Group of Newspapers, as well as being syndicated internationally through news agencies Associated Press and Reuters.
+In 1997-1998 he was promoted to the position of staff photographer for The Star Newspaper and in 1988 he became a senior Photographer for The Star Newspaper. In 2000 he resigned from The Star in order to pursue full time freelancing. He spent six months traveling around the Indian subcontinent completing a personal photographic portrait of the country.
+In 2001 he returned to South Africa and Joined South Photographs as a contributor. He is currently freelancing, generating stories for the local and international magazine market. Stories published this year include the flying doctor program of the Northern Cape Health Department, the Hindu fire walking festival held in Durban, as well as a piece on the brutal cage fighting spectacle held at the Wembly Arena in Turfontein.
+AWARDS
+Runner up Press Photographer of the year in the Fuji Photo Press Awards 2000. Numerous Highly Commended awards in the areas News and Feature at the Fuji Photo Press Awards in the years 1997-1999.

@@ -1,0 +1,7 @@
+# article-5855
+
+Edward Webster was born on 29 March 1942 and educated at Selborne College. He obtained a BA Honours degree and University Education Diploma from Rhodes University, an MA in Politics, Philosophy and Economics from Oxford University, and a Bachelor of Philosophy from York University. He obtained his PhD from the University of the Witwatersrand.
+Professor Webster established the Society, Work and Development Institute at Wits. He was recognised locally and internationally for his significant contribution to scholarship, especially in the field of Industrial Sociology. His book Cast in a Racial Mould (1985), showing how changes in the labour process shaped the labour movement in South Africa, remains a classic.
+His book with Rob Lambert and Andries Bezuidenhout, Grounding Globalisation: Labour in the Age of Insecurity, was awarded the prestigious American Sociological Association award for the best scholarly monograph published on labour in 2008.
+He pioneered the academic study of the sociology of work and labour in South Africa. As Head of the Department of Sociology at Wits University for ten years (1988 - 1995; 2000 -2002), he focused on the transformation of the curriculum and staff development (particularly of young, African scholars). Webster transformed it into the leading department of sociology in Africa.
+Professor Eddie Webster passed away on 5 March 2024.

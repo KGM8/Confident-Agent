@@ -1,0 +1,7 @@
+# article-10364
+
+Audrey Coleman was born in 1933. When she was twenty years old she married businessman Max Coleman. They had four sons, and became active members of the Detainees Parents Support Committee (DPSC) when their sons were arrested and detained. Coleman became an informal ambassador for the organization, travelling all over the world publicizing detention issues, and particularly, the detention of children.
+Coleman was educated politically by her brother, a member of the Congress of Democrats (COD) in Cape Town. Although not participating actively in politics while bringing up her sons, she later joined the Black Sash, eventually becoming national secretary.
+In 1986, while away on a campaign in Europe she was threatened with a restriction order (the new term for a banning order) by the South African government. Refusing to be intimidated, she spoke openly to everyone that she met about the government’s efforts to prevent her from carrying on with her work. The government didn’t follow through with its threat to ban her.
+Her involvement in the Free The Children Campaign resulted in the Apartheid government refusing to renew of her passport in 1987 and it took the intervention of Senator Edward Kennedy and the Ambassador to the United States in South Africa to get her permission to attend her son’s wedding in the USA “on compassionate grounds” in 1989.
+In 1997 she testified to the Truth and Reconciliation Commission (TRC) on the work the detention and death of people under the Apartheid government.

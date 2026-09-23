@@ -1,0 +1,9 @@
+# article-10046
+
+Professor Stanislaus (Stan) Skumbuzo Mzilankatha Sangweni was born on 13 September 1933 in Natal, (now kwaZulu-Natal). He studied at some of the best universities in the world to become a rural sociologist.
+At the age of 18 he left home, and became the first in his community to study outside the country - first at Roma College in Lesotho, then at the Cody Institute in Nova Scotia and finally at Cornell University in the USA. He earned two Masters Degrees and had to look for a country that would take him in, since his he couldn’t return to South Africa. After 30 years as an exile living in Holland, Swaziland, Zambia, Kenya and Ethiopia, he finally returned home in 1993.
+The Sangweni’s home was at the centre of the South African exile communities in Zambia and Kenya in the 1970s and 1980s. They sheltered many of the children of 1976 who passed through Lusaka and Nairobi.
+From 1974 to 1981, Professor Sangweni was Acting Director of the United Nations Economic Commission for Africa, based in Lusaka, Zambia. From 1982 – 1991, he was Senior Programme Officer for the United Nations Environment Programme in Nairobi, Kenya.
+From 1992 until 1994, Professor Sangweni was the Director of the School of Rural Community Development at the University of kwaZulu-Natal, Pietermaritzburg Campus. During this same period, he was the African National Congress (ANC) Spokesperson on Environmental Affairs.
+Professor Sangweni and his wife set up the Stan and Angela Sangweni Bursary which has supported children from poor families in the communities around Newcastle, kwaZulu-Natal. For his 80th birthday celebrations, Professor Sangweni requested that guests contribute money to the bursary fund, rather than gifts.
+Professor Sangweni retired as chair of the Public Service Commission in 2009, a position he held since 1994.

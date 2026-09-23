@@ -1,0 +1,6 @@
+# article-608
+
+Florence Matomela was born on 1st of January ,in 1910 and worked as a teacher while raising five children. In 1950, angered by new influx control regulations in Port Elizabeth, she led a demonstration that ended in the burning of permits.
+She was one of the first women volunteers in the 1952 Defiance Campaign, and spent six weeks in prison for civil disobedience. She was later tried with the Cape leaders of the campaign and given a nine month suspended sentence.
+In the mid-1950s, Florence was the Cape provincial organiser of the African National Congress Women's League (ANCWL) and vice-president of the Federation of South African Women (FEDSAW). She was among the original 156 defendants in the Treason Trial, but charges against her were later withdrawn.
+She was banned and restricted to Port Elizabeth in 1962 and was subsequently given a five-year sentence for furthering the aims of the banned African National Congress (ANC). While she was in prison, her health deteriorated badly, as she was sometimes deprived of much-needed medical attention, such as the insulin injections for her diabetes. Soon after her release, Florence was banned again, and died under banning orders in 1969.

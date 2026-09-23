@@ -1,0 +1,7 @@
+# article-6012
+
+Elijah Thomas Zondi was born on 22 October 1917 in Pietermaritzburg to Thomas Zondi, an evangelist and Bellinah Mchunu. He attended the Burnside Community School in Dundee from 1921 to 1926. From 1931 to 1932, he then attended the Dundee Intermediate School.
+“You’re never going to get a picture with that,” his father told the nine-year-old Zondi when he triumphantly brought home an old box camera that he had dug out of a Dundee dumping lot. On his thirteenth birthday he received a new box camera as a gift. This camera saw him through the next two decades until in 1950 he became the first Black professional photographer in Natal.. An Indian commercial photographer and then a White photographer taught him the finer techniques of photography.
+From 1933 to 1935 he worked as a labourer at the Burnside Collieries in Dundee. He worked various jobs from 1936 to 1950. He came to Durban in 1951 where he began work as a freelance photographer until 1971. In 1971, he began to work as a photographer at the isiZulu language newspaper Ilanga until 1976. From 1976, he worked as a photographer at the Natal Mercury. As a photographer, he travelled to Lesotho to cover the Independence Celebrations of that country.
+He worked for Umafrika, Ilanga, the Natal Mercury and the Daily News as a photographer. He supplemented his income with wedding photography.
+In July 1940, he married Anah Nkosi but they divorced in March 1969. He then married Angeline Hlomuka in December 1969.

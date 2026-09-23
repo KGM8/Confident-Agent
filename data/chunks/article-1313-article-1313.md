@@ -1,0 +1,10 @@
+# article-1313
+
+Matthew Nkoana was born about 1930 in the rural northern Transvaal near Pietersburg. After completing elementary school he took a job selling newspapers. In 1952 he came to Johannesburg and got a job on the Bantu World, working his way up to political columnist, in which capacity he became a supporter of the Africanist faction within the African National Congress (ANC). Arrested in March 1960 for participating in the Pan Africanist Congress' (PAC) antipass campaign, he emerged as a spokesman for the rank and file PAC defendants standing trial apart from the campaign's leaders. He served part of his sentence and subsequently was appointed Witwatersrand regional chairman of the underground PAC. In 1961 he produced the PAC pamphlet Mafube ("The Dawn"). Threatened with a new prison sentence, he fled South Africa in 1962 and later represented the PAC in Bechuanaland and Cairo. In the mid-1960s, as the PAC split into disputing factions, he became one of the leading opponents of P. K. Leballo's leadership. Much of his lengthy pamphlet. Crisis in the Revolution: A Special Report on the Pan-Africanist Congress of South Africa, published in the mid-1960s, is an attack on Leballo. He now lives in London and has contributed to various publications, including New African and Africa and the World.
+South African History Online. (2011, September 26). Matthew Nkoana. South African History Online. https://sahistory.org.za/ref/B-0068268
+South African History Online (2011) 'Matthew Nkoana', South African History Online, 26 September. Available at: https://sahistory.org.za/ref/B-0068268 (Accessed: 10 September 2026).
+South African History Online, Matthew Nkoana [website], https://sahistory.org.za/ref/B-0068268, (accessed 10 September 2026).
+"Matthew Nkoana." South African History Online, 26 Sept. 2011, https://sahistory.org.za/ref/B-0068268. Accessed 10 Sept. 2026.
+South African History Online. "Matthew Nkoana." South African History Online. September 26, 2011. https://sahistory.org.za/ref/B-0068268.
+Further reading
+SAHO is free because readers fund it. Donate →

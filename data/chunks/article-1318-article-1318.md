@@ -1,0 +1,10 @@
+# article-1318
+
+Jacob Dumdum Nyaose was born about 1920 at Port Shepstone in Natal, the son of a Zulu seaman who belonged to the Industrial and Commercial Workers' Union. After studying first for a diploma in agriculture at Adams College and then beginning the study of law, he went to Johannesburg about 1941 and took a job as organising secretary for the African Bakers and Confectioners Union. During World War II, he led his union through a number of successful strikes. During the 1940s he served with Gana Makabeni as an official of the Transvaal Council of Non-European Trade Unions. Nyaose opposed the formation of the left-wing South African Congress of Trade Unions in the mid-1950s, and eventually in 1959 he formed the Federation of Free African Trade Unions of South Africa as an all-African non-Communist union organisation, affiliated to the International Confederation of Free Trade Unions. POFATUSA was loosely allied with the Pan Africanist Congress (PAC) and was formed shortly after Nyaose was elected secretary for labour in the PAC's national executive committee in April 1959. It never became a strong organisation, but it survived into the early 1960s after Nyaose had been jailed for his part in the PAC's antipass campaign. He was released in 1962, after serving a two-year sentence, and eventually made his way via Swaziland to East Africa.
+South African History Online. (2011, September 26). Jacob Dumdum Nyaose. South African History Online. https://sahistory.org.za/ref/B-0068294
+South African History Online (2011) 'Jacob Dumdum Nyaose', South African History Online, 26 September. Available at: https://sahistory.org.za/ref/B-0068294 (Accessed: 10 September 2026).
+South African History Online, Jacob Dumdum Nyaose [website], https://sahistory.org.za/ref/B-0068294, (accessed 10 September 2026).
+"Jacob Dumdum Nyaose." South African History Online, 26 Sept. 2011, https://sahistory.org.za/ref/B-0068294. Accessed 10 Sept. 2026.
+South African History Online. "Jacob Dumdum Nyaose." South African History Online. September 26, 2011. https://sahistory.org.za/ref/B-0068294.
+Further reading
+SAHO is free because readers fund it. Donate →

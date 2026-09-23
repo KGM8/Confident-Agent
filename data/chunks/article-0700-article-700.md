@@ -1,0 +1,4 @@
+# article-700
+
+Born in Johannesburg in 1925, he grew up in Alexandra Township and attended schools in Basutoland, Johannesburg, and Kimberley until matriculation. He was one of the first activists of the African National Congress (ANC) to die as a guerrilla fighter.
+He ran a gymnasium in the Western Native Township in Johannesburg and later worked as a clerk for the Public Utility Transport Company (PUTCO). He was active in the ANC Youth League and served as its Transvaal treasurer and assistant secretary in the mid-1950s and in July 1959 he was elected its national president. He was one of the first-string accused in the Treason Trial, and after his acquittal in 1961 he worked in the sales department of a mineral water factory. He later offered himself as a volunteer for military training, left South Africa, and was killed in action in 1968 while serving with a guerrilla team in Southern Rhodesia.

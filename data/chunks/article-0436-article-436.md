@@ -1,0 +1,6 @@
+# article-436
+
+Born in 1922, Jerry Dibanhlele Khumalo was a clothing designer and cutter. He served prison sentences as a volunteer in the 1952 Defiance Campaign in Germiston and Wolmaransstad. He was active in the African National Congress (ANC) as a Freedom Volunteer in 1954-1956 and an ANC organiser at the Congress of the People in Kliptown June 1955.
+After being released from detention in the 1956 Treason Trial, Khumalo moved to work in Durban, Natal (now KwaZulu-Natal) and continued as an organiser for a textile union and as member of the ANC. He became a resident of Clermont Township in Durban.
+He held numerous positions in the Durban structures of the ANC, including being Branch Chairman of the Durban branch; in the same branch as the late Archie Gumede. He was married to Phyllis Luthuli, a close relative of ANC President Chief Albert Luthuli.
+He was detained numerous times during Durban worker strikes and during the 1963 Rivonia Trial, until he came out with a kidney failure from detention after a 180 days spell of detention. His children were hounded by the security police. He passed away on 31 December 1976 after a kidney failure, whilst one of his sons was in detention connected to the 1976 Soweto Students Riots. Jerry Dibanhlele Khumalo was buried in Clermont in Durban.

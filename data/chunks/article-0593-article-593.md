@@ -1,0 +1,16 @@
+# article-593
+
+Emma Thandi Mashinini was born in Rosettenville, Johannesburg in 1929. In the early 1930s, she and her family were forcibly removed to Orlando in Soweto; however her parents managed to relocate to Sophiatown. In Sophiatown, Mashinini attended the Bantu Secondary School, however it was not long after their arrival that their homes were flattened by bulldozers and people were forcibly moved back to Soweto.
+Her parents separated when Mashinini was 14, and she was forced to drop out of school and go to work. At age 17, she married, and went on to give birth to six children, three of whom died in infancy.
+When her youngest child was two years of age, Mashinini took on a full-time job working in Henochsberg's clothing factory, and joined the Garment Workers’ Union (GWU), which was headed by Lucy Mbuvelo at the time. Mashinini was also present at the Congress of the People in Kliptown in 1955.
+At the factory, her co-workers elected her as a shop steward, and she was later appointed floor supervisor by management. She worked to reduce the long working hours from 45 to 40 hours, and after months of strikes and go-slows, she won the right for workers to have unemployment insurance.
+After the Sharpeville Massacre in 1960, political organisations were banned and many union leaders were forced to go underground or into exile. During this time, Mashinini was elected to the national executive committee of the National Union of Clothing Workers (NUCW), the highest body of the GWU.
+Mashinini was thus placed in a position of considerable importance. She remained a member of the committee for the next 12 years, and during this time she met and married her second husband, Tom Mashinini.
+In 1975, Mashinini left Henochsberg's and took up a position as president of a new union, the Commercial, Catering and Allied Worker's Union of South Africa (CCAWUSA) that she had to set up. Her union grew slowly the first year, but by 1977 there were 1000 members.
+Mashinini was arrested in November 1981 under Section 6 of the Terrorism Act and spent the next six months in solitary confinement at Pretoria Central Prison. After her release from prison in 1982, she defied advice to live abroad and instead she resumed her post at CCAWUSA for another four years.
+Mashinini wrote a book, Strikes have Followed me all my Life, about her experiences in Pretoria Central Prison, Jeppe police station and her interrogation at John Vorster Square.
+In 1985, Mashinini was involved in the formation of the Congress of South African Trade Unions (COSATU), a body that united trade unions across the country. However, she resigned from her position as president of CCAVMSA in 1986.
+In 1986, she was appointed director of the Anglican Church’s Department of Justice and Reconciliation. In this role, she dealt closely with the families of detainees, who had been incarcerated during the state of emergency.
+In the early 1990s, she became the president of the Mediation and Conciliation Centre in Johannesburg and was appointed commissioner for the Restitution of Land Rights in 1995.
+Mashinini was awarded the National Order of Luthuli in Bronze for her contribution to the building of the trade union movement.
+Mashinini currently resides in Monument Park, Pretoria.

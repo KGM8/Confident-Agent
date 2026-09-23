@@ -1,0 +1,4 @@
+# article-800
+
+Johnson Ngwevela was a longtime activist in the African National Congress (ANC) and the Communist Party of South Africa (CPSA) in the Western Cape, and in the late 1940s he served on the CPSA district committee for Cape Town. He was one of the first leaders banned under the Suppression of Communism Act in 1952, at which time he was chairman of the Cape western region ofthe ANC.
+He defied the prohibition on attending meetings and was convicted of breaking his ban but successfully appealed on the grounds that he had been denied a legal hearing at the time of the original ban. Persons similarly banned were thus free until Parliament closed the loophole in early 1954. Ngwevela, whose occupations at various times included peddler and laborer, was a secretary and interpreter for Sam Kahn and in the early 1950s served as a campaign manager for several white left-wing parliamentary candidates. He died on 27 July 1987.

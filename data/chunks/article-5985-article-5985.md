@@ -1,0 +1,5 @@
+# article-5985
+
+Faith Dikeledi Pansy Tlakula grew up in the township of Everton in the Vaal area. She obtained her undergraduate degree in law at the Turfloop University (now University of the North). She then went on to study further at Wits, where she got her LLB and later Harvard, where she obtained her Masters.
+From 1995, Tlakula has held high profile positions in several organisations including commissioner of the South African Human Rights Commission from 1995 to 2002 and member of the African Commission for Human and People’s rights. She was also Independent Non Executive Director of the Bidvest Group Limited. Tlakula is currently director of Lehotsa Holdings and Chief Electoral Officer of the Independent Electoral Commission (IEC).
+Tlakula is an avid advocate for women empowerment. In 1997, while speaking at a Washington University she stressed the patriarchal system that still persists in South Africa, where a large number of women still live under African customary law and treated like minors rather than adults. She married into the royal Tlakula family of Elim in Limpopo.

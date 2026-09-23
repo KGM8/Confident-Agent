@@ -1,0 +1,9 @@
+# article-6171
+
+Siva Pillay was a B.Sc. student at university in Durban, Natal (now KwaZulu-Natal), when he joined uMkhonto we Sizwe (MK), the African National Congress’s military wing.
+The Natal MK Regional Technical Committee included Ronnie Kasrils, Bruno Mtolo, Natoo Babenia, Ebrahim Ebrahim, Billy Nair, Ganesan “Coetsee” Naicker, and Siva Pillay. They provided training in making and using explosives and other materials for sabotage and participated in the first MK attack in Natal on 16 December 1961. 
+However, due to one of their members (Bruno Mtolo), a police spy, the group of 19 was betrayed and subsequently charged under the 1962 Sabotage Act on 21 October 1963. They were accused of acting in common purpose to obtain explosives to violently damage the property of other persons and the State, and were charged with carrying out attacks using petrol bombs, pipe bombs, dynamite, and cutting instruments.
+Sentence was handed down on 28 February 1964 and accused No. 19, Siva Pillay, was sentenced to eight years on Robben Island, which he, like other political prisoners, served with no remission from the State. Following his release from prison, Pillay was banned, in terms of the Suppression of Communism Act No. 44 of 1950 Sec. 9 (1).  
+Sedick Isaacs, a fellow prisoner on Robben Island says in his book, Surviving in the Apartheid Prison: Robben Island: Flash Backs of an earlier life:
+Siva Pillay learnt to play the guitar quite well and in the quiet of the early evening he would softly strum a popular tune that was very relaxing. Somebody had to keep an eye on the warder patrols since if caught he would be charged with making a noise and refusing to sleep.
+After serving his full sentence, Siva Pillay went into exile to East Germany where he qualified as a civil engineer.

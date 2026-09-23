@@ -1,0 +1,4 @@
+# article-1350
+
+Sekonyela was born in 1804 in Harrismith next to the Wilge River. He was born in the royal family and later became the Chief of the Batlokwa people. His father was Mantatisi, who was expelled by King Shaka Zulu from the area he had conquered. In 1821 his father attacked a small Hlubi tribe and killed their headman and retaliation followed by the Amahlubi from Natal. The Batlokwa people fled taking along small tribes to Barolong in Kuruman, where they were stopped by the Griquas under Waterboer in 1823. In the early 1830s Sekonyela became the Chief of Batlokwa people and settled along the Caledon River.
+Moshoeshoe and Batlokwa. In 1853 Sekonyela’s eldest son, Makitikiti was slain and he himself escaped with sixty men to Winburg. Sir George Clerk allowed him to live in the Wittebergen Reserve, in the Herschel district, where he died on 20 July 1856.

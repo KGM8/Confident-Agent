@@ -1,0 +1,6 @@
+# article-1202
+
+Towards the end of 1929, the Minister of Justice, Oswald Pirow, announced a new bill, an amendment to the Riotous Assemblies Act, which would give him the power, without reference to the Courts, to banish any individual from any part of the country, to forbid any individual from attending any meeting, etc. the Bill was eventually passed in May 1930.
+As a result, huge demonstrations against the Act were held on Dingaan’s Day, 1929, (16 December – now Day of Reconciliation) in Johannesburg, Cape Town and in other centres.
+On 16 December 1929, White civilians attacked such a Communist Party meeting in Potchefstroom with revolvers. Hermanus Lethebe, a member of the Communist Party of South Africa, (CPSA), was killed and Edwin Mofutsanyana and JB Marks, members of the CPSA, escaped unscathed. Lethebe was buried on 28 December 1929, where Sydney Percival Bunting delivered the funeral oration.
+Six weeks later, one Joseph Weeks was tried for murder before a visiting judge and an all White jury at Potchefstroom. The evidence led showed that Weeks had discharged his firearm and no one else had done so. A Detective Claasens had arrested him whilst he was reloading his firearm. Nonetheless, Weeks was found not guilty.

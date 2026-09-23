@@ -1,0 +1,5 @@
+# article-10557
+
+Robert Mokwena, also known by his guerrilla name as George Sello, was born on 4 April 1952 in White City Jabavu, Soweto in the Transvaal (now known as Gauteng Province). He attended school at Mohlakaneng in Pietersburg now Polokwane, dropping in standard 5 (grade 7). After dropping out of school, he worked as a mechanic until September 1976. He got involved in politics and trained as an uMkhonto we Sizwe (MK) guerrilla and became a unit commander several months later in the Eastern Transvaal (now Mpumalanga).
+On 10 May 1981, Sello was killed. It was reported that the South African security forces apprehended him after finding out that he was going to bomb the Bushbuckridge railway station. According to the Truth and Reconciliation Commission (TRC) report, while inside the police minibus, Sello took a hand grenade out his pocket and it exploded, killing him and a police officer. However, his autopsy indicated that he was shot in the head.
+On 20 March 1998, Sello’s remains were exhumed at the Pienaar Cemetery in Nelspruit, Mpumalanga. He was 31 years old when he died.

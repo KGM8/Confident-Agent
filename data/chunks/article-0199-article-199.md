@@ -1,0 +1,5 @@
+# article-199
+
+As a girl she had developed an interest in the arts, and in the 1950s married an up-and-coming actor, David de Keyser, a marriage that lasted 10 years. She went to Britain to study further, and it was there that she learned of the detention of her adored elder brother, Jack Tarshish, during the state of emergency, which followed the Sharpeville and Langa massacres of 1960. Jack had become politicised by his experiences in the air force in the Second World War, and by his discovery of the horrors of the concentration camps.
+Ethel immediately returned home, and found herself being asked to run messages and help with underground work for the African National Congress. It was then that she got to know many of the younger ANC members who were to become the prominent leaders of the future.
+Activists were being picked up and detained or jailed, and, when the ANC and other political organisations were banned, many had to leave the country to escape imprisonment and keep the organisation alive abroad. de Keyser found herself helping to organise some of these escapes, including that of Chris Hani.

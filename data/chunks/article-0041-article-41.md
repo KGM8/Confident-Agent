@@ -1,0 +1,8 @@
+# article-41
+
+Balindlela was born on 28 November 1949 in the Western Cape at Hermanus, after which her family was forcibly moved to Middledrift in the Eastern Cape.
+She matriculated at Middledrift and obtained a Junior Secondary Teaching Diploma at Lovedale Teachers College. Balindlela taught in 1973-74 at Gasela Secondary School, and from 1975–77 at Lovedale Teacher's College. She graduated in 1976 with a BA from Fort Hare University, and in 1979 from Columbia University Teachers College with a Masters degree in Early Childhood Education.
+In 1981-82 she founded and directed an Early Learning Centre, and from 1982-83 was at the University of Fort Hare lecturing Educational Psychology. Balindlela became politically active in the 1980s, joining the United Democratic Front when it was formed. Her political activism led to her dismissal from some of the schools at which she worked. She lectured in 1984 at the Cape Teacher's College, and in 1985-87 at the University of Transkei Department of Educational Psychology. In 1988-91 she headed the Junior Primary Department at the Dr. W.B. Rubusana College of Education. In 1992 Balindlela completed a short course on Distance Education at the Institute of Education at London University.
+Thereafter until 1994 she was a member of Department of Adult Basic Education, University of Fort Hare.
+Balindlela has been an Eastern Cape Province Member of the Executive Council (MEC) since 1994: from 1994 to 1999 as MEC for Education and Culture, and from 1999 to 2004 as MEC: Sport, Recreation, Arts and Culture.
+An Honorary Doctorate was conferred on her in 2002 by the University of Fort Hare.

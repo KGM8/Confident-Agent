@@ -1,0 +1,5 @@
+# article-259
+
+Rosamund Everard-Steenkamp was born in Carolina, Mpumalanga, 1907. She was a daughter of Bertha Everard, had a brief career cut short by her death in a Spitfire accident in England. She received most of her art training from her mother and a period spent in avantgarde circles in Paris. Her work was shown on the First Annual Exhibition of Contemporary National Art staged by the SA Art Gallery (SANG) in co-operation with SASA in 1931. Her painting Kamei-Doorn in Winter provoked snide comment from art critic Bernard Lewis, who dismissed it as a "poster", which by "no stretch of charitable intention could be called a picture" (The Cape, 18.12.31). Flowers on a Window Sill (1930), with its flattened areas of colour, would have elicited a similar response. Although at times highly critical of SASA itself, Lewis reflected the conservative tastes of the time. After this skirmish with him, Everard-Steenkamp later joined the New Group in 1938. She died in 1946 in England.
+CV:
+Exhibitor on SASA-related exhibitions c.1898 - 1950: 1931: 1st annual Exh. of Contemp. National Art, SAAG fSANG) with SASA, 7 Dec. - 31 Mar. 1932.

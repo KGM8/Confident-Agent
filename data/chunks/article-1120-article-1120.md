@@ -1,0 +1,8 @@
+# article-1120
+
+Dorothy Joan Wright was born in Pretoria in 1911. Wright was the daughter of Dorothy Kay and studied under Francis Pickford-Marriott at the Port Elizabeth Technical Art School from 1929 to 1932. Thereafter she trained in London at the Regent Polytechnic and the Heatherley School of Art. She lived in Johannesburg and also Malawi, but returned to Port Elizabeth after she was widowed in 1939. She followed a career in teaching at the same School where she had first trained.
+She was a SASA member and showed on its exhibitions in Cape Town in the 1940s. Wright was influenced strongly in the direction of realism in her painting, which was in no small measure due to the influence of her mother's thinking on art. However, she evolved an individual style and mood, and her interest in graphic art led her finally to break with Kay's influence. Rondo Capriccioso, a work slightly out of the period under review in this exhibition, shows Wright's growing interest in objects, which she used as a departure-point for the generation of new images. She died in Port Elizabeth, 1991.
+Exhibitor on SASA-related exhibitions
+c.1898 - 1950: 1944: 41st Annual Exh. OfSA Contemp. Art, org. by SASA with other Societies, SANG, 25 Feb. 1946: 43rd Annual Exh. of Contemp. SA Art, car. by SASA with NSA, MMG, 5 - 23 Apr. 1949: SASA 46th Annual Exh., MMG, 22 Apr. - 7 May. 1949: SASA Members' Annual Exh. MMG, 14-27 Sep.
+Exhibitor on SASA-related exhibitions
+c.1898 - 1950: 1917: SASA Art Exh., MH, City Hall, Darling St., 7 Feb. 1918: SASA Art Exh., MH, City Hall, Darling St., 6 Feb. 1918: SASA Winter Exh. (venue not stated) 7 - 24 Aug. 1919: SASA Art Exh., MH, City Hall, Darling St., 6 Feb. 1920: SASA Annual Exh., RH, City Hall, DariingSt., 23 Jan.

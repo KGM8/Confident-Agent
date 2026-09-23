@@ -1,0 +1,5 @@
+# article-10232
+
+Michael (‘Mikia’) Matlala took part in Wold War 1. According to his family, he was banished, from Matlala's Location, Pietersburg District, Northern Transvaal [now Polokwane, Limpopo Province] in June 1953, to haMatonzi near the Shingwedzi area of the Kruger National Park. However, since they indicated that one Mbata was also at GaMatonziit is likely that he was at Boltman Native Trust Farm in the Sibasa District, [Tshivhase], [Northern] Transvaal, [now Limpopo].
+A family member described the area of banishment as ‘a dense forest with a lot of wild animals,’ as it was near Kruger National Park. During his banishment, Michael Matlala was employed as an agricultural officer. His partner and two young children joined him in banishment in December 1953. Food items were purchased at a shop near Shingwezi Secondary School, and the Matlala children attended local schools. Some family members died in banishment and were buried in GaMatonzi.
+His order was revoked on 9 February 1966.

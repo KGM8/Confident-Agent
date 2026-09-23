@@ -1,0 +1,14 @@
+# article-1302
+
+Lillian Masediba Ngoyi was born in Pretoria, Transvaal (now Gauteng), in 1911. She enrolled in a nursing training course, but eventually took up work as a machinist in a clothing factory, where she worked from 1945 to 1956.
+Ngoyi joined the Garment Workers Union (GWU) under Solly Sachs, and soon became one of its leading figures. Impressed by the spirit of African National Congress (ANC) volunteers, she joined the ANC during the 1950 Defiance Campaign, and was arrested for using facilities in a post office that were reserved for white people.
+Her gift as a public speaker won her rapid recognition, and within a year of joining the ANC she was elected as president of the ANC Women's League (ANCWL). When the Federation of South African Women (FEDSAW) was formed in 1954, she became one of its national vice-presidents, and in 1956 she was elected president.
+In 1955, Ngoyi travelled to Europe as a delegate to a conference called by the Women's International Democratic Federation, and was invited by socialist delegates to tour Russia, China and other eastern bloc countries. Elected a member of the Transvaal ANC executive in 1955, she became the first woman ever elected to the ANC national executive committee in December 1956.
+Ngoyi gained wide recognition overseas as a radical opponent of apartheid. Together with Dora Tamana, she was arrested while trying to board a ship to a conference in Switzerland without a passport. She addressed protest meetings against apartheid in several world centres, including London's Trafalgar Square.
+On the 9th of August 1956, together with Helen Joseph, Rahima Moosa and Sophia Theresa Williams de Bruyn, she led the women's anti-pass march to the Union Buildings in Pretoria, one of the largest demonstrations staged in South African history. Holding thousands of petitions in one hand, Ngoyi was the one who knocked on Prime Minister Strijdom’s door to hand over the petitions.
+In December 1956, Ngoyi was arrested for high treason along with 156 other leading figures, and stood trial until 1961 as one of the accused in the four–year-long Treason Trial. While the trial was still on and the accused out on bail, Ngoyi was imprisoned for five months under the 1960 state of emergency. She spent much of this time in solitary confinement.
+Lillian Ngoyi known as the "Mother of the Black resistance" in South Africa. Image source
+She was first issued banning orders in October 1962, which confined her to Orlando Township in Johannesburg, and was forbidden to attend any gatherings.
+In the mid-1960s, she was jailed under the 90-day detention act and spent 71 days in solitary confinement.
+Her banning orders lapsed in 1972, but were renewed for a new five-year period in 1975. During her banning, Ngoyi struggled to earn a decent living.
+Lillian Masediba Ngoyi passed away on 13 March 1980.

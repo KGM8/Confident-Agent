@@ -1,0 +1,12 @@
+# article-10727
+
+Siphiwe Tshabalala was born on 25 September 1984 in Soweto and went on to become one of the most well-loved and best soccer players in South Africa. After spells with Phiri Arsenal and Phiri Movers, he joined the prestigious Kaizer Chiefs academy. He finished off his youth career at Mamelodi Sundowns before beginning his professional career in 2003.
+Siphiwe Tshabalala left the Kaizer Chiefs academy to join Alexandra United, where he played just one season before joining Free State Stars. After scoring 31 goals in just 64 games he earned a move back to the club that he is most well-known for – Kaizer Chiefs.
+Siphiwe Tshabalala made his debut for Kaizer Chiefs in August 2007 and scored his first goal for the Johannesburg club at the end of that year. He also won his major honor that season in the Telkom Knockout.
+Tshabalala really developed the next season, winning the Player of the Year and the Players’ Player of the Year awards at the club. He continued to become one the most important and valued players at the club for the next ten years, winning two league titles, the MTN 8 Cup, the Nedbank Cup, further glory in the Telkom Knockout – as well as other lesser honors.
+He was also named the South African Footballer of the Year in 2010.
+After a season away at Turkish side BB Erzurumspor, Tshabalala returned to South Africa to play for AmaZulu. He initially signed a one-year contract with the option of a second year. But he was released in August 2021 and is currently unattached.
+Although Tshabalala played the majority of his career in his home country, he did spend a season in Turkey.
+Siphiwe Tshabalala shocked South African football fans in 2018 by signing for Turkish side BB Erzurumspor of the Super Lig – the top tier in Turkey. His time with the club was brief, however, and after just one season he returned to South Africa.
+Tshabalala is probably most well known outside of South Africa for scoring his nation’s first goal at the 2010 World Cup played on home soil. He scored the only goal in the draw against Mexico, sparking huge celebrations.
+He had made his debut for the national team back in 2006 though – and was part of the squad for 2006, 2008, and 2013 Africa Cup of Nations, as well as the Confederations Cup in 2011. After a break of three years, Tshabalala was recalled in 2017 to play in two World Cup qualifying matches against Senegal. All in all, he played 91 times for his country, scoring 12 goals.

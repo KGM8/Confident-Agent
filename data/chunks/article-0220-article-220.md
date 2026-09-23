@@ -1,0 +1,6 @@
+# article-220
+
+Leng Dixon was born in 1916 in Cape Town. He joined the New Group after his return from the Camberwell School of Art in London from 1937 to 1938 and a period in Paris in 1939. He subsequently became its Vice-President. Despite the hostilities between the latter and SASA, there is evidence that he opted to show on two SASA exhibitions in 1946 and 1948. His keen observation, translated into elemental, yet animated line combined with washes of watercolour and infillings of gouache, have seen him defined as "primarily an illustrator" (Berman 1983:115). Even though his reputation was such, he was considered important enough to be included on the large exhibition of South African art held at London's Tate Gallery in 1948. His work appeared in many publications and he held many solo exhibitions This view of the Bo-Kaap in Cape Town typifies his picturesque renderings of this area and what Berman calls his "light-hearted cameos of local colour" (1938:115). He died in Cape Town in 1968.
+Curriculum Vitae
+Exhibitor on SASA-related exhibitions
+c.1898 - 1950: 1946: 43 rd Annual Exh. of Contemp. SA Art, an-, by SASA with NSA, MMG, 5 – 23 Apr. 1948: SASA 45th Annual Exh., MMG, 20 Apr. - I May.

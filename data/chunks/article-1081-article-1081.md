@@ -1,0 +1,10 @@
+# article-1081
+
+Mbuyiselo Stanley Vanqa was born in 1923. Inspired to join the African National Congress by the Defiance Campaign. Took an active part in subsequent Congress Campaigns such as the Bantu Education Boycott. Arrested in 1955 after leading a procession in Korsten.
+South African History Online. (2011, February 17). Mbuyiselo Stanley Vanqa. South African History Online. https://sahistory.org.za/ref/B-0009191
+South African History Online (2011) 'Mbuyiselo Stanley Vanqa', South African History Online, 17 February. Available at: https://sahistory.org.za/ref/B-0009191 (Accessed: 11 September 2026).
+South African History Online, Mbuyiselo Stanley Vanqa [website], https://sahistory.org.za/ref/B-0009191, (accessed 11 September 2026).
+"Mbuyiselo Stanley Vanqa." South African History Online, 17 Feb. 2011, https://sahistory.org.za/ref/B-0009191. Accessed 11 Sept. 2026.
+South African History Online. "Mbuyiselo Stanley Vanqa." South African History Online. February 17, 2011. https://sahistory.org.za/ref/B-0009191.
+Further reading
+SAHO is free because readers fund it. Donate →

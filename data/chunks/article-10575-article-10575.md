@@ -1,0 +1,48 @@
+# article-10575
+
+Motlotlehi – His Majesty King Constantine Bereng Seeiso Moshoeshoe II of Lesotho
+Born
+2 May 1938
+Died
+1996
+Updated
+14 Jul 2020
+B-0150335
+Summary
+His Majesty, King Moshoeshoe II of Lesotho
+His Majesty, King Constantine Bereng Seeiso Moshoeshoe II was born on 2 May 1938, in the Village of Salang in the Mountain District of Mokhotlong in the British Protectorate of Basutoland (now known as the Kingdom of Lesotho). He was the second child and eldest son of the late Paramount Chief Simeone Seeiso Griffith and his second wife Mofumahali ‘M’ abereng (Sekhothali) Seeiso.
+When Paramount Seeiso died in 1870, the young Prince from the age of four was brought up by his uncles under the Regency of Mofumahali ‘Mantsebo who was Regent from 1940 up to 1960 when the Young Prince was installed on the 12 March 1960 as the Paramount Chief. King Moshoeshoe II is a direct descendant of His Majesty, King Moshoeshoe I, the founder – King of the Basotho Nation, who died in 1870.
+He started his primary education in Mokhotlong and continued at Roma Primary School through to secondary school at Roma College (now Christ the King High School) from 1948 to 1954.
+From 1954 to 1957, His Majesty studied at the Benedictine College of Ample forth, Yorkshire, in the United Kingdom. He then entered Corpus Christi College, Oxford University in 1957 to study Politics, Philosophy and Economics (PPE). After nearly three years at Oxford, he returned to Lesotho at the end of 1959. Shortly afterwards he was installed as Paramount Chief of Lesotho.
+In the early seventies, His Majesty resumed his studies with Corpus Christi College, Oxford to complete his Degree in Politics, Philosophy and Economics (PPE). He studied for another Bachelor of Arts degree in Law at the same college.
+When he was installed Paramount Chief of the Basotho nation on 12 March 1960, he was proclaimed “Motlotlehi” by the nation and later he was given the “English title” of “King”, in 1966, when Lesotho’s independence was finally restored by the British Queen. He remained a Constitutional Head of State; was exiled from Lesotho in April 1970 but returned from exile in December 1970.
+With the change of Government in 1986, the King had both Executive and Legislative Powers in Lesotho in accordance with the provision of the 1986 Lesotho Order No.1.
+On 23 August 1962, King Moshoeshoe II married Princess Tabitha ‘M’asentle Lerotholi Mojela in a Roman Catholic wedding which was held at the Cathedral in Maseru, the daughter of the late Principal Chief Thabo Lerothoil Mojela, a veteran of the First World War. Her Majesty Queen “M” amohato Bereng Seeiso was born in 1902 at Mafeteng District, she died in 1964 not long after the 1960 installation.
+They have three children, Crown Prince Letsie David Mohato, Principal – Chief – Designate of Matsieng and heir to throne, born on 17 July1963; Prince Simeone born 16 April 1966 and Princess Christina ‘M’ aseeiso born on 24 December 1969.
+Early in his reign, Leabua Jonathan became Prime Minister of Lesotho and gained control of the government. Jonathan deposed Moshoeshoe in 1970 in order to re-establish his control in the country after his party lost the election. Moshoeshoe went into temporary exile in the Netherlands in the 1970. A few months later, when he gained control, Jonathan allowed Moshoeshoe to reassume the title of king. Jonathan was deposed in 1986 and the king gained power, but he was deposed again in 1990, while his son Letsie III was forced to take his place as king. Moshoeshoe went to exile again this time in the United Kingdom.
+He was able to become king again on 25 January 1995. The following year on the 15th January1996 he was killed in a car accident on a mountain road at the age of 57, and Letsie became king again a month later. The car he was travelling in rolled down a cliff on a mountain road on the way to Maseru, the capital city of Lesotho. After four months of investigations the police reported that the King's driver was under the influence of alcohol and that caused him to lose control of the vehicle.
+His Majesty had travelled widely, having visited West Germany, Botswana, Swaziland, Nigeria, Ghana, Ethiopia, Kenya, Zambia, Tanzania, Zaire, Liberia, Sweden, the United States of America, China and Bahamas.
+He attended conferences starting in 1958, when he attended the first constitutional conference in London, which granted self – government to Lesotho, the second constitutional conference in 1964 which granted Pre – Independence Responsible Government, and the 1966 Independence Talks which resulted in the restoration of full independence of the Kingdom of Lesotho in 1966. His Majesty has addressed the then Organisation of African Unity (OAU – now known as the African Union - AU) and the United Nations Security Council on various issues including the problems between the Kingdom of Lesotho and her neighbour, South Africa.
+His Majesty’s interests are wide – ranging from tennis, squash to horse – riding. He had owned and was a breeder of race – horses. Like most Basotho, His Majesty enjoyed mixed farming. He kept cattle, sheep and goats.
+His Majesty was interested in the welfare of the Basotho people and had great interest in education and social issues which he considered the key to the development and progress of his people. In the early 1970s, he established the Mohato Scholarship Fund financed by him to aid needy Basotho youngsters to further their education.
+His Majesty established a high school named after himself in 1965. Moshoeshoe II High School in Matsieng was built to meet the problems of students who had to travel long distances for placement in schools, many times with little success. He maintained active links with the school and its development.
+He was the Chancellor of the University of Botswana, Lesotho and Swaziland in rotation with other Heads of States of Botswana and Swaziland, a Chancellor of the National University of Lesotho (NUL), with which he maintained both formal and informal contact and followed its development with keen interest.
+In 1975 His Majesty established the Matsieng Development Trust, a body whose main purpose was to encourage and promote rural development on the lines of self – help and self – reliance.
+His Majesty was Patron to several charitable organisation s like the Red Cross of Lesotho, the Lesotho Save the Children Fund, to name a few. Whenever possible, he participated in charity walks and other activities to fund raise for special social and development projects and programmes.
+How we know this
+01Bernard Leeman, Lesotho and the Struggle for Azania vol I and II (University of Azania, 1985) p. 86.
+Department of Information – Maseru. LEKALA LA PHATLALATSO EA LITABA – MASERU. Motlotlehi – His Majesty King (Constantine Bereng Seeiso) Moshoeshoe II of Lesotho. Letter from The Palace, P.O. Box 524, Maseru 100. Tell: 322170.
+Melissa, A; Thinley, Z, B; Grace, Y. eds (2020) Moshoeshoe II King of Lesotho. [Online] Available at: Encyclopaedia Britannica.: https://www.britannica.com/biography/Moshoeshoe-II [Accessed on 15 May 2020]
+Machobane, B, B; Stephan. (1800-1966). Page 274. Government and Change in Lesotho: A Study of Political Institutions. .[Online] Available at: https://books.google.co.za/books?id=bWKxCwAAQBAJ&pg=PA274&lpg=PA274&dq=Motlotlehi+%E2%80%93+His+Majesty+King+(Constantine+Bereng+Seeiso)+Moshoeshoe+II+of+Lesotho&source=bl&ots=dZHWQagCCa&sig=ACfU3U3XNm0H2sAG3AqgBRgLyuIR2j7BiA&hl=en&sa=X&ved=2ahUKEwi0moHFyM3pAhX_aRUIHdRtBKkQ6AEwGXoECA8QAQ#v=onepage&q=Motlotlehi%20%E2%80%93%20His%20Majesty%20King%20(Constantine%20Bereng%20Seeiso)%20Moshoeshoe%20II%20of%20Lesotho&f=false [Accessed on 10 May 2020]
+Richard Weisfelder, ‘The Basotho Monarchy’, ed. René Lemarchand, African Kingdoms in Perspective (Plymouth, USA 1977) p. 176
+The Presidency Republic of South Africa. (1938-1996). Home
+02King Moshoeshoe II (1938 - 1996). King Moshoeshoe II. [ Online] Available at: http://www.thepresidency.gov.za/national-: orders/recipient/king-moshoeshoe-ii-1938-1996 [Accessed on 05 May 2020]
+Kalley, J.A; Schoeman, E. & Andor, L.E. eds (1999) Southern African Political History: a chronology of key political events from independence to mid-1997 Westport: Greenwood. Britannica Moshoeshoe II [Online] Available at: global.britannica.com [Accessed on 05 May 2020]
+The Washington Post. KING MOSHOESHOE II DIES AT 57[Online] Available at: https://www.washingtonpost.com/archive/local/1996/01/16/king-moshoeshoe-ii-dies-at-57/8734198f-b7db-4c18-a9c0-ce0efc1cc147/ [Accessed on 10 May 2020]
+Last updated · 14 Jul 2020
+Cite this entry
+South African History Online. (2020, July 14). Motlotlehi – His Majesty King Constantine Bereng Seeiso Moshoeshoe II of Lesotho. South African History Online. https://sahistory.org.za/ref/B-0150335
+South African History Online (2020) 'Motlotlehi – His Majesty King Constantine Bereng Seeiso Moshoeshoe II of Lesotho', South African History Online, 14 July. Available at: https://sahistory.org.za/ref/B-0150335 (Accessed: 10 September 2026).
+South African History Online, Motlotlehi – His Majesty King Constantine Bereng Seeiso Moshoeshoe II of Lesotho [website], https://sahistory.org.za/ref/B-0150335, (accessed 10 September 2026).
+"Motlotlehi – His Majesty King Constantine Bereng Seeiso Moshoeshoe II of Lesotho." South African History Online, 14 July 2020, https://sahistory.org.za/ref/B-0150335. Accessed 10 Sept. 2026.
+South African History Online. "Motlotlehi – His Majesty King Constantine Bereng Seeiso Moshoeshoe II of Lesotho." South African History Online. July 14, 2020. https://sahistory.org.za/ref/B-0150335.

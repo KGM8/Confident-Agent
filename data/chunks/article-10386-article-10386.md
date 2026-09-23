@@ -1,0 +1,7 @@
+# article-10386
+
+Nomhle Nkonyeni was born on 9 April 1942 in New Brighton, Port Elizabeth, Eastern Cape. She started her acting career at the age of 19 years. In 2002, she received her Master’s degree in Theatre for Development in the United Kingdom from the King Alfred College.
+Nkonyeni was the first black actress in theatre during the apartheid era in South Africa. She performed with different stage groups such as the Serpent Drama group. She understood the importance of education in her career. In 1999 she received a Diploma in Conflict Management from Lewisham College in London, United Kingdom (UK).
+Moreover, Nkonyeni was known for her appearance on television in numerous platforms such as Tsha-Tsha, Gaz lam, Scandal and recently on Igazi. In 2016, she received a lifetime Achievement award from SAFilm and Television Awards. Nkonyeni’s dream was to leave a legacy behind for young artists to carry it to the next generation.
+Nkonyeni was a legend in the performance arts industry and she touched so many souls with her contribution. One of the streets in New Brighton where she grew up was named in her honour. On her interview with Move, Nkonyeni share her love for acting  and said “my love for acting is burning even more”.
+Early in 2019, Nkonyeni’s work was recognized by President Cyril Ramaphosa when she was honoured with National Order of Ikhamanga. On 10 July 2019, Nkonyeni passed away at a Port Elizabeth hospital,after a short illness.

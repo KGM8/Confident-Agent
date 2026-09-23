@@ -1,0 +1,7 @@
+# article-914
+
+Jonathan Neil Rhodes, better known as Jonty, was born in Pietermaritzburg, KwaZulu-Natal on 27 July 1969. He grew up in the picturesque Pietermaritzburg town and excelled in cricket from an early age.
+In 1992, Rhodes shot to cricket stardom when he ran out Pakistani batsman Inzamam Ul-Haq after a magnificent catch during the Cricket World Cup. He became an overnight sensation and is lauded by his peers and cricket lovers all over the world.
+Rhodes is an especially skilled fielder and his acrobatics in pursuit of the ball are renowned. He seems to be able to successfully execute the nearly impossible catches with agility and speed. His skills are not limited to fielding, he is also a proficient bowler and batsman.
+After his landmark catch in 1992, Rhodes mentioned his status as an epileptic during an interview. He forged a relationship with Epilepsy South Africa and publicised his own hardships. This brave step drew attention to the much-maligned disorder and, according to Kathryn Pahl, National Director of Epilepsy South Africa, “Jonty is one of the most prominent figures world wide who openly acknowledges his epilepsy. He has helped us tremendously by creating a public profile for epilepsy, as well as by acting as a role model to which youngsters with epilepsy can aspire" (http://www.epilepsy.org.za/did.html).
+In February 2003, Rhodes announced his resignation from South African class A cricket to play in Gloucestershire, England for six months from April 2003. He confirmed that he would not be returning to international cricket.

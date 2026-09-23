@@ -1,0 +1,10 @@
+# article-626
+
+J. Congress M. Mbata was born in Johannesburg in 1919 and studied at St. Peter's Secondary School, at Fort Hare, and at the University of the Witwatersrand. In 1940 he joined the faculty of St. Peter's and subsequently became secretary of the Transvaal African Teachers' Association. In 1943 he was on the committee that drew up Africans' Claims and began meeting with the group of young intellectuals who formally organized the ANC Youth League in 1944. When Anton Lembede became Youth League president, Mbata was chosen acting secretary. He soon took up the headmastership of a school in Vereeniging, however, and dropped out of active politics. Following the 1960 emergency, he was involved in organizing the African leadership conference of December 1960 but later withdrew from the continuation committee during the controversy over plans for the March 1961 follow-up conference in Pietermaritzburg. In the mid-1960s he left South Africa and has since held teaching posts at Northwestern and Cornell Universities in the United States. His writings include "Race and Resistance in South Africa," in J. Paden and E. Soja (eds.). The African Experience (1970), and "Profile of Change: The Cumulative Significance of Changes among Africans," in L. Thompson and J. Butler (eds.),Change in Contemporary South Africa (1975).
+South African History Online. (2011, February 17). J. Congress M. Mbata. South African History Online. https://sahistory.org.za/ref/B-0008509
+South African History Online (2011) 'J. Congress M. Mbata', South African History Online, 17 February. Available at: https://sahistory.org.za/ref/B-0008509 (Accessed: 10 September 2026).
+South African History Online, J. Congress M. Mbata [website], https://sahistory.org.za/ref/B-0008509, (accessed 10 September 2026).
+"J. Congress M. Mbata." South African History Online, 17 Feb. 2011, https://sahistory.org.za/ref/B-0008509. Accessed 10 Sept. 2026.
+South African History Online. "J. Congress M. Mbata." South African History Online. February 17, 2011. https://sahistory.org.za/ref/B-0008509.
+Further reading
+SAHO is free because readers fund it. Donate →

@@ -1,0 +1,6 @@
+# article-300
+
+Herschelle Gibbs, multi-talented South African cricketer, was born at Green Point in Cape Town on 23 February 1974. He completed his secondary education at Diocesan College where he played soccer and rugby, but cricket soon became his first choice. His career began at the early age of 16 when he debuted for the national cricket team, the Proteas, at the Eden Gardens in Calcutta in the 1996/97 seasons. Since then Gibbs has cemented his position in the national team. He established himself as a hard hitting and quick scoring righthand batsman.
+Gibbs' timing is exceptional and he is a highly dangerous bowler. And often partners with Allan Donald. Though he has enjoyed success Gibbs has experienced some controversy. In 1999 it was alleged that he was involved in match fixing scandal with the former South African captain, the late Hansie Cronje. He was also allegedly caught smoking marijuana with team-mates on a tour to West Indies. In 2000 he was slapped with a six-months ban for testing positive for substance abuse.
+Gibbs featured for the Proteas in two consecutive Cricket World Cup competitions. The first was held in Australia in 1999 and the other in 2003 in South Africa. He has won man of the match award 14 times.
+Outside Links

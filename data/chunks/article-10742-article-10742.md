@@ -1,0 +1,11 @@
+# article-10742
+
+Edson Sithole was born in what was then Southern Rhodesia in 1935. He was the first black person in Southern Africa to obtain a Doctor of Laws degree. He was the second black person in the country (which became Zimbabwe in 1980) to qualify as a lawyer, and co-founded Rhodesia’s African Bar Association in 1973.
+Sithole was an anti-colonial nationalist. He “disappeared” alongside his secretary, Miriam Mhlanga, in downtown Salisbury (present-day Harare) 50 years ago.
+He was one of the most prominent pan-African nationalists who had not gone into exile, a major legal and intellectual force behind multiple Zimbabwean liberation movements.
+Despite his important intellectual and organisational contributions to Zimbabwe’s independence struggle, he is best remembered today for the sensational nature of his elimination from the political scene. He left the Rhodesian press club at a downtown hotel in Salisbury on 15 October 1975, and was never seen again.
+Sithole was an executive member of four Zimbabwean liberation movements. In 1964, he became the publicity secretary of Zanu-PF, Zimbabwe’s current ruling party, then known as the Zimbabwe African National Union. He was that party’s chief spokesperson when the colony’s small white minority unilaterally declared its independence from Britain.
+Sithole co-founded the African National Council (ANC) in December 1971. Its opposition to the tentative accord forced the British government to abandon that effort to reconcile with their settler “kith and kin” in Rhodesia.
+He completed a master’s degree in law from the University of London via correspondence during that first stint of restriction. During a second period of imprisonment, he completed most of his work toward a Doctor of Laws from the University of South Africa.
+On Sithole’s last day as an independent man – 15 October 1975 – he visited the Ambassador Hotel, which Sithole left around 7pm, where a witness outside saw him met by two white and two black men who identified themselves as belonging to Rhodesia’s Special Branch. They escorted Sithole and his secretary into a grey Mazda van, a make typically associated with the renegade state’s security apparatus.
+Sithole was never seen again, although persistent rumours claimed that he had been seen in various government detention centres.

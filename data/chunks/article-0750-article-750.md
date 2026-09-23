@@ -1,0 +1,11 @@
+# article-750
+
+Gordon Mulholland was born in Cape Town on 30 April 1921. His mother, Nell, a Cockney from the east end of London, was the breadwinner at home. She worked as an usherette at the Alhambra Theatre in Cape Town, doing three shifts a day. Mulholland was sent to Nazareth House, a Catholic home for orphans and children whose parents couldn't afford to keep them. One of five siblings, Mulholland was the only one to survive childhood. He then attended Marist Brothers College in Rondebosch. He left school without matriculating.
+At the outbreak of World War II he joined the entertainment corps and spent the war years singing and doing stand-up comedy for the troops in North Africa and Italy. Two close colleagues and friends were Sid James and Laurence Harvey, who both subsequently became world-famous film stars. He wound up at The Windmill in the West End as a comic, keeping the audience entertained during scene changes.
+One of Mulholland's girlfriends at the time was the academy award winning actress, Audrey Hepburn, who starred in My Fair Lady. At the time, Hepburn was an unknown actress. According to Mulholland, her mother was a baroness who didn't encourage the liaison.
+Mulholland married Hope Calvert, a dancer who became Mulholland's first wife. They were married for eight years. Mulholland married his second wife, the actress Diane Wilson, in 1963.
+	Mulholland worked his way into the film industry through small parts on British films, including the role of a pirate in Disney’s version of Treasure Island, the first film Disney made using real people.
+He moved to South Africa in 1967 and started a successful career in theatre and radio. In 1986 Mulholland starred alongside Jonathan Rands in the movie version of Jock of the Bushveld, about a dog that becomes a trusted companion of an Irish adventurer named Percy Fitzpatrick. He also gained fame through South African soap opera The Villagers.
+	He acted in many of the biggest stage productions of the time, including the musicals Fiddler on the Roof and My Fair Lady, and did numerous farces with Rex Garner.  
+	The last film he played in was Traitor’s Heart in 1999 starring Scott and Gavin Hood. 
+Mulholland's health deteriorated after he suffered a stroke in 2009. Gordon Mulholland passed away on 30 June 2010.

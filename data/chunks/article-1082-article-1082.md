@@ -1,0 +1,6 @@
+# article-1082
+
+Anton van Wouw was born in Driedergen, Netherlands on 20 November 1862. He is regarded as the father of South African sculpture. He decided to move to the developing city of Pretoria at the age of 28 and waited for ten years to receive his first commission. This was from financier Sammy Marks to create a monumental statue of Church Square.
+During his time spent in the wilderness he developed a great admiration for the Boer nation. This also influenced his artistic development a great deal. He identified with the struggles and hopes of these people and this commitment was reflected in his work.
+A great deal of his work, although representational, captures the rugged and emotional essence of his subjects. One of his most notable pieces of work is the figure of a woman used in the Women’s Monument near Bloemfontein. He collaborated on this with the architect Frans Soff. He was also responsible for the less successful figure of a woman incorporated into the Voortrekker Monument near Pretoria, a powerful bust of General Christiaan de Wet and the statue of Louis Botha in Durban.
+He also portrayed indigenous peoples and among these smaller sculptures some of his finest work can be found. They are much less formal than his larger work and are appealing in their vivid and lifelike facial expressions.

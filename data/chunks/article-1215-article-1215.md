@@ -1,0 +1,4 @@
+# article-1215
+
+Daniel Koza was born 1912 near Pietersburg and in the mid-1930s came Johannesburg where his path somehow crossed Gordon's.Drawn into trade union work and the philosophical framework of Gordon's Trotskyism,Koza became deputy secretary of the African Commercial and Distributive Workers' Union (ACDWU) in 1936,later assuming the union's top position and growing its membership to about 10,000 in the early 1940s.Koza mastered the bureaucratic procedures of the government Wage Board but also approved strikes when circumstances seemed favorable.
+Associated with the trade union movement from the early 1930s, he was known as a Trotskyist in his political leanings. In the 1940s he was associated with the All African Convention AAC) and the short-lived African Democratic Party. He died in 1964.

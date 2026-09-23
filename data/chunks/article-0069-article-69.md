@@ -1,0 +1,5 @@
+# article-69
+
+Hyacinth Joseph Bill Bhengu was on 7th of September in 1919 Ixopo distric in Natal.He attended school in Catholic mission and then he went to study private to finish his matriculation exams.He was a farm worker,domestic servant,policeman,cleck and interpreter while obtaining a bachelor's degree in 1952 the University of Natal and bachelor of law degree in 1959 from the University of the Witwatersrand,he institute a law practice in 1961 Durban.His political activities started when he got a membership of the African National Congress Youth League(ANCYL).
+In 1953 Bhengu the Liberal Party and became the vice-president from 1957 to 1963.After the 1960 state of emergency Bhengu got involve inn organizing the Consultative Conference in December.He was arrested with other members of the planning committee and convicted unders the Suppession of Communism Act.
+In 1963 he received a banning order in November.In 1973 he went to the UN on an exchange program and served as the national chairperson of Black Community Programmes from 1974 until it was banned in 1977.

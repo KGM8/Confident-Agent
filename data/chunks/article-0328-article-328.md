@@ -1,0 +1,5 @@
+# article-328
+
+He was born and died at Ndwedwe, Natal. He attended school in the Ndwedwe district, excelling at craftwork. He went to Amanzimtoti Training College to train as a teacher.
+While there he received a bursary to train as an art teacher at the Ndaleni Teacher Training College. He took up the bursary in 1977.After qualifying from Ndaleni he taught at Ntuzuma Training College before resuming studies at the UFH where he gained his BA(FA) (Hons) degree in 1988. He was a founding member of the Zasha Art Group in Durban. He won the Maize Bread Competition in 1977 as well as the Fort Hare Award for Imaginative Work in 1985.
+He was a printmaker and sculptor of wood. He admired the work of Michael Zondi and said that Surrealism influenced his own development. He participated in group exhibitions throughout South Africa and held solo exhibitions in Durban. He is represented in the Campbell Collections of the University of Natal and those of the Durban Art Gallery and Tatham Art Gallery.

@@ -1,0 +1,8 @@
+# article-5979
+
+Margaret Gazo was born on 1 January 1918. She was one of the organisers of the Women's March to the Union Buildings. The women were protesting against the extension of the pass laws to women in 1956. At the time, Gazo lived in Payneville, Springs, east of Johannesburg, Transvaal (now Gauteng).
+More than 20 000 women from different races and diverse backgrounds, brought together by their resentment of unjust laws such as the pass law, spoke with one voice that day as they marched to the Union Buildings on 9 August 1956. The intention was to present a petition to then Prime Minister JG Strijdom against the carrying of passes by women. Although the prime minister was not there to receive the petition, the women’s voices were heard.
+Gazo led the march from Payneville and as they approached town, soldiers and police started shooting at the women. Fearing for their lives, some of the protesters decided to abandon the march, but Gazo and a small group continued to the Union Buildings to be counted among the multitudes who gathered there that day.
+She spent five years in prison for political activism for leading a local anti-pass demonstration and helping to organise the bigger national march.
+Margaret Gazo, a stalwart of the African National Congress Women’s League (ANCWL), died on 8 April 1974 of natural causes.
+In 2011, the South African Government conferred The Order of Luthuli in Bronze to Gazo for leading the Women’s March to the Union Buildings and for her outstanding leadership and commitment to the ideals of democracy and her contribution to human rights and the struggle against Apartheid.

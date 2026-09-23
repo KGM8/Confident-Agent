@@ -1,0 +1,5 @@
+# article-473
+
+Laurie was born in Zimbabwe, where her father was a missionary doctor. Shortly after her birth, the family was forced to leave the country because of the civil war. Since then her family has moved to Botswana, England, back to Botswana, to Bloemfontein, Vanderbijlpark and Kimberley. Anneke has lived in the Vaal Triangle since she was 15 and have recently completed her B-tech in photography at the Vaal Triangle Technikon. She is currently working on her M-tech. Since 1999 she has also taught photographic subjects at the Technikon.
+Laurie has a passion for photography in general, especially documentary photography and has specialised in documentary photography since her third year of study. It has always been important to her to involve her subjects.
+"Documentary photography is very enriching to me as a person. It is a great privilege to me to be able to use my photography to investigate my country and its people. I find it motivating that my photographs might have a positive influence."

@@ -1,0 +1,5 @@
+# article-1283
+
+David ‘Andy’ Anderson was born in Kwazulu-Natal. He began his editorial cartooning career in 1977, submitting work for the Natal Witness. He went on to do work for most of the big newspapers in the country, including The Rand Daily Mail, Pretoria News, The Sunday Times and The Star. His cartoons were politically loaded, and served the purpose of some of the publications at the time, one of them being Drum Magazine.
+Anderson left with his family for Canada, in 1990. He still does freelance work for magazines and advertisements, while also taking private commissions. His work abroad has been published in several publications, including the Boston Globe and the international magazine, Time.
+Anderson is two-time winner of the Standard Bank Cartoon of the Year Award. He has published several books, one of them a collection of his cartoons, aptly named The Cartoons of Andy, and two children’s books. His contribution to the illustration and writing industry has been widely recognised, leading to his work being syndicated worldwide.

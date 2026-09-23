@@ -1,0 +1,7 @@
+# article-10145
+
+Mkhubo Mngomezulu, from the Ingwavuma District, Natal [now KwaZulu-Natal], was accused of being one of the ringleaders responsible for unrest in the area. He was an induna [headman] and was accused of following Ntunja Mngomezulu to Swaziland and later returning.
+Ntunja Mngomezulu was appointed chief of the Mngomezulu community in the Ingwavuma District, Natal [now KwaZulu-Natal], after which unrest followed. An inquiry found that Ntunja was not the rightful heir. Ntunja fled to Swaziland and had since then terrorized the community from his base in Swaziland. There was an attack on the Chief, which left him paralysed for life. No one was willing to testify for fear of his or her lives, which made legal action difficult. The administration had fallen apart due to the fact that no one was also willing to be acting Chief.
+Mkhubo Mngomezulu allegedly gave money for Sondeza Lugogo Mngomezulu’s trial (for attacking a Chief) and signed the petition to the head of the KwaZulu executive council in which “half truths“ were used to petition for Ntunja Mngomezulu reinstatement.
+He was banished to Corridor Block, Port Shepstone District, Natal [now KwaZulu-Natal] on 19 August 1974.
+On 2 February 1981 the Acting Magistrate of Ingwavuma stated in a confidential note that Mkhubo Mngomezulu had died on 12 January 1981 and that there had been a large burial ceremony. However, it was later discovered that he was still alive and the Director-General of the Department of Co-operation and Development requested an inquiry into the matter.

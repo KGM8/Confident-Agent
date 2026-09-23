@@ -1,0 +1,4 @@
+# article-10736
+
+Dikkie Mxolisi Johannes Jacobs, an active member of a youth organisation in Upington, Northern Cape, was detained on 15 June 1986 during a wider pre-June 16, 1976 security crackdown under the state of emergency. The prison authorities stated that he was found hanged in his prison cell on 22 October 1986, after 129 days in detention. Fellow detainees said that Jacobs had been strong and in good spirits when they last saw him seven hours before his death. His aunt said that she could not accept the circumstances of his death.” At the court case, prison warders apparently gave conflicting evidence. The official cause of death was found to be suicide by hanging.
+In October 1996, Mxolisi’s grandfather, Johannes Jacobs, together with his daughters, appeared before the Truth and Reconciliation Commission (TRC) in Upington, Northern Cape Province, to give evidence on the events that led to Dikkie Mxolisi Johannes Jacob's death.

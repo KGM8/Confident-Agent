@@ -1,0 +1,12 @@
+# article-190
+
+Lionel Bazil Davis was born in Cape Town in 1936. He was arrested in 1964 and sentenced to seven years on Robben Island between for committing acts of sabotage. It was during his prison years on Robben Island that he completed his Senior Certificate. After his release he was restricted under a banning order and house arrest until 1976. In 1968, while still on Robben Island he received a school leaver’s Senior Certificate. At the Evangelical Art and Craft Centre at Rorke’s Drift in 1980 he worked toward a Diploma in Fine Arts. His interest in art led him to complete a BA Fine Art degree with the University of Cape Town in 1994.
+In 1978 and 1990 he worked as assistant organiser at the Community Arts Project (CAP) in Cape Town. Davis has contributed to literary magazines, books on education, poetry anthologies and calendars. He produced cartoons for a children’s magazine and taught screen-printing at CAP. He participated in the Triangle Workshop in New York and the Thupelo Workshop in Johannesburg. In 1988 he was deeply involved in community-based children’s education. He exhibited several times from 1981 to 1987, also in Gaborone, Botswana and Pine Plains, New York, USA. In 1995 he worked for the South African National Art Gallery as a part time art educator.
+After spending seven years imprisoned on Robben Island, Davis now lives there with his family as an employee of the Robben Island Museum, where he first worked as a tour guide and later moved to the Island Education Department as an Education Officer. His work includes developing education materials on prisoners and political imprisonment on the Island. On the Island he is better known as 'uncle' Lionel.
+He is married to Barbara Davis and they have three children, Sandra, Basil and Leon.
+Curriculum vitae
+Exhibitions:
+1981: UZ (African Arts Festival). 1982: National Museum and Art Gallery, Gaborone, Botswana (Art Toward Social Development An Exhibition of SA Art). 1984: (Second Carnegie Enquiry into Poverty' in SA). 1986: Cape Town (Art in our Time). WITS (Thupelo Workshop Exhibition). 1987: Johannesburg Art Foundation; NSA, Durban; National Museum and Art Gallery, Gaborone, Botswana (Thupeic Workshop Exhibition). Pine Plains, New York, USA (Triangle Workshop Exhibition).
+Collections:
+Johannesburg Art Foundation; National Museum and Art Gallery, Gaborone, Botswana.
+See also Lionel Davis at the South African Art Initiative

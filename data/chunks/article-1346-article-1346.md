@@ -1,0 +1,8 @@
+# article-1346
+
+William Philip Schreiner, Prime Minister of the Cape Colony, anti-British imperialist, and a proponent for the integration of all ‘civilised men' including ‘civilised Africans'.
+William Philip Schreiner was born in 30 October 1857. He was the tenth child of Gottlob and Rebekah Schreiner. He studied at the South African College, Cape Town and furthered his studies at Downing College, Cambridge. After completing his tertiary studies he practiced as a lawyer for a brief period.
+He joined the Cape Parliament as representative of Kimberley. He was later appointed Attorney General by Cecil John Rhodes, but was forced to resign after the failed Jameson Raid in 1896. He returned to Parliament in 1898 and became Prime Minister of the Cape Colony the same year. Unlike Rhodes, Schreiner was deeply anti-imperialists and against the Second Anglo Boer War, or South African War.
+As Prime Minister at the start of the South African War, he summarised the pressure his government has been brought to bear on the Zuid Afrikaansche Republic (ZAR), or Transvaal, in an article that appeared in the South African News, and stressed, “We are at liberty to say that the Government regards these (Kruger's) proposals as adequate, satisfactory and as such should secure a peaceful settlement”. He was hoping to secure peace through this, but his anti-war stance finally led him to resign as Prime Minister and Parliamentarian.
+He returned to politics again in 1908. His new policy under the new dispensation was integration and equality of all civilised men, educated Black people included.
+William P Schreiner died on 28 June 1919. He was married to a sister of President F W Reitz.

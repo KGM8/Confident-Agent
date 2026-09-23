@@ -1,0 +1,10 @@
+# article-893
+
+Gaur Radebe was born in 1908 and completed about seven years of schooling. As an activist in both the Communist Party of South Africa and the African National Congress (ANC), he first made his mark in 1941 when, as secretary for mines in the Transvaal ANC, he was among the founders of the African Mineworkers' Union. Expelled from the Communist Party of South Africa (CPSA) in 1942, he was associated with Paul Mosaka's efforts to launch the African Democratic Party in 1943. His name was again in the news when he helped lead the Alexandra bus boycotts of 1943 and 1944. From the Alexandra branch of the ANC, Radebe moved into the Transvaal executive committee and in 1949 was elected to the ANC national executive committee. He opposed the election of J. B. Marks to the Transvaal presidency of the ANC in 1950 and joined Selope Thema in forming the National-minded Bloc the following year. By the late 1950s, Radebe had moved into the Africanist camp, and in 1959 he became chairman of the Pan Africanist Congress (PAC) branch in Evaton. Making his way to East Africa after Sharpeville, he was named chief PAC representative in Dar-es-Salaam in 1961 and joined ANC leaders there in unsuccessful efforts to construct a United Front. In 1964 he left Tanzania to become assistant PAC representative in Zambia, where he now lives in retirement.
+South African History Online. (2011, February 17). Gaur Radebe. South African History Online. https://sahistory.org.za/ref/B-0008925
+South African History Online (2011) 'Gaur Radebe', South African History Online, 17 February. Available at: https://sahistory.org.za/ref/B-0008925 (Accessed: 10 September 2026).
+South African History Online, Gaur Radebe [website], https://sahistory.org.za/ref/B-0008925, (accessed 10 September 2026).
+"Gaur Radebe." South African History Online, 17 Feb. 2011, https://sahistory.org.za/ref/B-0008925. Accessed 10 Sept. 2026.
+South African History Online. "Gaur Radebe." South African History Online. February 17, 2011. https://sahistory.org.za/ref/B-0008925.
+Further reading
+SAHO is free because readers fund it. Donate →

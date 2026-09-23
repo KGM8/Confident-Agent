@@ -1,0 +1,9 @@
+# article-1242
+
+Peter Mokaba was born on 7 January 1959 in Polokwane, where he did both his primary and high school education. During the 1976 uprisings, Mokaba became a leader of school boycotts, which led to his expulsion from school. He nevertheless managed to complete matric on his own in 1978 and then went on to enrol with the University of the North in 1980.
+He was detained under the Terrorism Act in 1977 and again in 1982 and was convicted for a number of his underground activities as a member of Umkhonto we Sizwe and served his sentence on Robben Island. His sentence was suspended in 1984 and he went on to work for the United Democratic Front (UDF). He became the first president of the South African Youth Congress in 1987 (see note below), which later became the ANC Youth League again after the unbanning of the ANC in 1990.
+Mokaba became a Member of Parliament in 1994 and served as the deputy minister in the Department of Environmental Affairs and Tourism. He was also elected as a member of the National Executive Committee of the ANC in 1991, in 1994 and again in 1997. By the time he died he had been elected by the ANC to head their preparations for the 2004 election campaign.
+Mokaba received a lot of criticism for his "Kill the Boer, Kill the Farmer" slogan, but was revered by the youth who rose to his "Roar Young Lions, Roar" slogan during the tumultuous years of the eighties and early nineties.
+Peter Mokaba died on 9 June 2002.
+Note:
+The South African Youth Congress (SAYCO), launched in 1987 at the height of the State of Emergency, brought together the various youth organisations that had grown across the country. It became an important affiliate of the United Democratic Front (UDF). After the unbanning of the African National Congress (ANC) in 1990 SAYCO immediately began the process of re-establishing the African National Congress Youth League (ANCYL) and the ANC Youth Section.

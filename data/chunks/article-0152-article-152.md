@@ -1,0 +1,6 @@
+# article-152
+
+Jan Celliers was born on 12 January 1865 on the farm Wagenmakersvallei near Wellington. A few years later his family moved to Cape Town where he attended an English school. In 1874 the family moved to Pretoria, where his father had founded De Volksstem a year earlier. Here he first attended an English school and then Meneer Dely se skool op Kerkplein. It was closed down in 1877 when England annexed Pretoria. After one year's work at his father's newspaper he went on to school in Stellenbosch and Wellington.
+He first worked as a surveyor for one year. He then joined the Department of Education and after three years obtained the post as State Librarian in 1894. The second Boer war broke out, Jan Celliers fought near Colesberg to the bitter end. After the war he managed to slip through the enemy lines dressed in clothes of his wife. He moved with his family to Europe where he studied Literature.
+Back in South Africa in 1907 he was employed at the Department of Home affairs. For ten years he did mainly translations of utterly boring texts.
+Fortunately the University of Stellenbosch offered him the post of extraordinary professor in 1919. He stayed here until his retirement in 1929 when he moved to Cape Town. Jan Celliers died on 1 June 1940 in Johannesburg.

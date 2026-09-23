@@ -1,0 +1,6 @@
+# article-10302
+
+Yende was recruited into the PAC and APLA by Themba Phikwane in Alexandra Township, north of Johannesburg, in 1976. Phikwane, who had just returned from exile where he had received military training, trained Yende with firearms and explosives. After completing his training, Yende was commissioned to recruit and screen new members for underground activities and to distribute APLA and PAC literature in Alexandra Township.
+Yende fled the country via Transkei into Lesotho. From there he proceeded to Tanzania and later to Libya to receive further military training.
+In 1986, Yende, together with his mentor Phikwane and other APLA members, launched a series of attacks on members of the South African Defence Force (SADF) in Alexandra. On 16 December 1986, they attacked members of the SADF at the corner of John Brand Street and 16th Avenue, Alexandra Township. The second attack was executed on 1 January 1987 at the corner of John Brand Street and 1st Avenue, Alexandra Township and the last one was carried out at the end of January beginning February 1987, at the corner of Hofmeyer Street and 11th Avenue, Alexandra Township.
+Yende and Phikwane applied to the Truth and Reconciliation Commission (TRC) for amnesty regarding their three politically motivated attacks on SADF members and other offences, which the TRC Amnesty Committee granted to them.

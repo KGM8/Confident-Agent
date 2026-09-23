@@ -1,0 +1,9 @@
+# article-1100
+
+Moebien Wadee was born in Sophiatown in 1943. He schooled in the area before his family moved to Kliptown. He studied medicine at Glasgow University in Scotland, where he served his internship. He returned to South Africa and opened a general practice in Kliptown. Later he lived in Lenasia for a period of about two years.
+Wadee moved to Nelspruit in the late 1970s, practicing as a GP and serving as a forensic pathologist at the local hospital. When the apartheid government tried to establish the Tricameral Parliament in the early 80s, Wadee joined the United Democratic Front (UDF) and opposed the co-option of the Indians and Coloureds and their separation from the African majority.
+Together with his comrade, Yusuf Vawda, he organised boycotts of elections and state-sponsored events. He notes that their boycotts divided the Indian community into two more or less equal halves, one sector opposed to government policies and the other doing the government’s bidding.
+When local activists and students were detained, the pair organised a Detainees’ Parents’ Support Group, visiting detainees in prison, organising representation, dispensing medical treatment, providing clothing to the detainees and collecting donations to provide parents with financial help.
+Wadee and Vawda organised the first public protest march from Valencia to Nelspruit Prison in 1980s. The march saw trade unionists, UDF activists and supporters and ordinary members of the public mount a protest against the detention of scores of young and old activists.
+Wadee and Vawda were in constant contact with the UDF leaders, and acted as their points men in Nelspruit.
+After 1994, Wadee served on the Nelspruit City Council, and was sent on a trip to London to study the workings of English city councils.

@@ -1,0 +1,6 @@
+# article-5616
+
+Ellen Lambert was born on the 5th of March 1934 at Mount Frere in the Eastern Cape Province. She joined the African National Congress (ANC) at the age of 19 in 1953. She subsequently became one of the volunteers who campaigned for the Freedom Charter. Thus, she worked closely with many of the ANC leaders amongst whom were Walter Sisulu, Babla Saloojee, Ahmed Kathrada and several others in mobilising people.
+After the banning of the ANC, Lambert carried on her anti-apartheid political activity underground. Consequently, she was constantly harassed by the South African security police. Lambert was also instrumental in the formation of the United Democratic front (UDF), in which she also led a number of campaigns against the tri-cameral system of parliament. After the unbanning of the ANC and other proscribed organisations in the 1990, she became instrumental in setting up branches of the ANC in Reiger Park, Actoville, and Eldorado Park.
+Lambert continued to participate in campaigns that protested against the violation of others. For instance, she participated in a public protest against the attacks on women wearing miniskirts.
+Ellen Lambert passed away on 11 April 2012. She is survived by her seven children.

@@ -1,0 +1,8 @@
+# article-63
+
+Hyman M Basner was born in Russia in 1905, and moved to South Africa at an early age. Basner and his mother joined other family members in South Africa in 1912.In 1922 to 1927 he studied law at the University of Califonia in Los Angeles in the United States before coming to Johannesburg.He was a lawyer in Johannesburg and he established his own practice. he was a co-founder with Paul Ramotsoane Mosaka of the African Democratic Party in 1943 and a Natives' representative in the Senate for the Transvaal and Orange Free State from 1942 to 1948.
+In 1933 he became a member of the Communist Party of South Africa (CPSA) but resigned in 1939. In 1937 he campaigned as a CPSA Act but he was defeated by the conservative Rheinalt Jones .He often defended Africans in court and aided African leaders.In 1943 Basner with Paul Ramotsoane Mosaka and Dan Koza founded the African Democratic Party(ADP).
+In 1944 he was involve in the anti-pass campaign and Alexandra bus boycott. He went to the United States to help India's representatives at the United Nations prepare thei indictment of South Africa racial policies in 1946.
+In 1946 again he joined A. B. Xuma of the African National Congress (ANC) in lobbying at the United Nations on behalf of Africans.he went quiet in the 1950s with his politically activities.
+In 1952 Nelson Mandela worked for Basner for a little while when he was starting out as a lawyer in Johannesburg.In the 1960 Basner was detained of state emergency.In 1962 he eventually left South Africa to settle in Accra (Ghana) ,where he worked with the African Bureau.In 1968 he settle in Braitain with his family.
+He died in England in 1976.

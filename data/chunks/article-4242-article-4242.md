@@ -1,0 +1,18 @@
+# article-4242
+
+Incarceration
+- Prison
+- Johannesburg Female
+- Prisoner no.
+- 27/1049
+- Admitted
+- 27 December 1983
+- Released
+- 7 April 1986
+South African History Online. (2012, March 15). Patricia Elizabeth Hanekom. South African History Online. https://sahistory.org.za/ref/B-0079039
+South African History Online (2012) 'Patricia Elizabeth Hanekom', South African History Online, 15 March. Available at: https://sahistory.org.za/ref/B-0079039 (Accessed: 11 September 2026).
+South African History Online, Patricia Elizabeth Hanekom [website], https://sahistory.org.za/ref/B-0079039, (accessed 11 September 2026).
+"Patricia Elizabeth Hanekom." South African History Online, 15 Mar. 2012, https://sahistory.org.za/ref/B-0079039. Accessed 11 Sept. 2026.
+South African History Online. "Patricia Elizabeth Hanekom." South African History Online. March 15, 2012. https://sahistory.org.za/ref/B-0079039.
+Further reading
+SAHO is free because readers fund it. Donate →

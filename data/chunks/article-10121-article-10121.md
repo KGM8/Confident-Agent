@@ -1,0 +1,5 @@
+# article-10121
+
+Setswiki Matabata, Molomo Ntwampe and Ramonkung Mpihleng from Sekhukhuneland, Lydenburg District, [Northern Transvaal, now Limpopo Province],were said to be supporters of Motodi Ntwampe. Motodi Ntwampe was allegedly involved in a succession dispute following the death of a sub-Chief in Sekhukhuneland, with his campaign being championed by “leftist” supporters. He also apparently accused the acting chief,Diphale Ntwampe,of accepting Bantu Administration (BA) without the approval of the community and of threatening her with death and causing her to flee to the mountains. All of them were banished due to an order issued on 8 November 1961.
+Matabatawas banished to Native Trust Farm Delville, Xhalanga District [Eastern Province, now Eastern Cape] on 8 November 1961. The order further noted that the farm Delville was to be transferred to the Transkei government and that it was undesirable for the banished to remain on the farm. Matabata was then moved to a trust farm, Pirie Main, King William's Town District, [Eastern Province, now Eastern Cape] on 8 July 1965.
+Setswiki Matabata’s order was withdrawn on 24 February 1975.

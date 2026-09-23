@@ -1,0 +1,5 @@
+# article-32
+
+Autshumao also known as Herry the strandloper (beach walker), he was chief and interpreter of the Gorinhaikonas. In 1630 he was taken to Bantam by the English and returned to the Cape a year later. He had learned to speak Dutch and English, which made him very useful to his people, and the European settlers who were engaged in a trading relationship. As result of his position as chief and interpreter of the Gorinhaikonas, he became a rich man.
+1658 he waged war against the Dutch settlers. The war broke out when Autshomao reclaimed cattle that were unfairly taken from the Gorinhaikonas people by the Dutch. In 1659, after losing this war, he and his two followers, Simon Boubou and Khamy, became the first prisoners on Robben Island. They were banished by Jan Van Riebeck. The following year Autshumao and one other prisoner escaped by stealing a rowing boat, which got them to the mainland. Autshumao and his fellow escapees are the only people to successfully escape from Robben Island.
+Autshomao died in 1663. In 1713, Francois Valentyn recorded that the Goringhaikonas had disappeared from Cape Town. He attributed this to the small pox epidemic of 1713.
