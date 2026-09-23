@@ -1,0 +1,19 @@
+# biography-2381
+
+Student protests in democratic South Africa 
+
+South Africa has a long history of student protests going way back to the anti-Apartheid marches that predated South Africa’s democracy. Since 1994, when democracy was established, South African students had their own struggles. &nbsp;In recent years, there has been a wave of student protests action. The student protests at universities and universities of technology were led by the student organisation called the South African Students’ Congress (SASCO). One development is that as protests have increased so too has police brutality towards the students. Protesters often come up against heavily armed police leading to tragic outcomes. &nbsp;
+
+The major demands by protesting students across the country are similar. However, the main demand has been more financial support from National Student Financial Aid Scheme (NSFAS).NSFAS is the South African government student loan and bursary scheme. The scheme provides loans and bursaries to students at all 25 public universities and 50 public Further Education and Training (FET) colleges throughout South Africa.
+
+ UCT campus 2015  Image source
+
+Other demands by students include: quality accommodation and transports for students from student residence to campuses, tertiary institutions not to exclude students academically; demanded low accommodation and tuition fees. At other tertiary institutions such as University of Cape Town (UCT) and Stellenbosch University, and Cape Peninsula University of Technology (CPUT) student protested against the slow transformation process, language policy and other academic policies.
+
+The 2015 protest by UCT’s student was a historic moment. University of Cape Town’s students protested for the removal of Cecil John Rhodes’ statue. During the protests, students voiced their frustration over the slow transformation phase at the university. The protests sparked a debate on race relations, access and funding at the university. “Rhodes Must Fall”is a protest&nbsp;movement&nbsp;initially directed against a statue at the&nbsp;University of Cape Town, honouring&nbsp;Cecil Rhodes,&nbsp;which began on 9 March 2015. The campaign for the statue's removal received global attention and led to a wider movement to "decolonise" education across South Africa.&nbsp;The statue was removed on 9 April 2015, following a University of Cape Town’s Council vote. &nbsp;&nbsp;
+
+ Tshwane University of Technology students protest on January 29, 2014 in Pretoria, South Africa. Students were protesting over the lack of funding from the National Student Financial Aid Scheme (NSFAS). Photo: Gallo Images / Foto24 / Theana Breugem Image source
+
+The following institutions haveexperienced student protests concerning accommodation and National Student Financial Aid schemes (NSFAS) support, namely: University of Limpopo in 2009, 2011 and 2012, Mangosuthu University of Technology in Durban in 2009, Tshwane University of Technology (TUT) in 2012, and University of the Witwatersrand (Wits) in 2004 and 2015, Vaal University of Technology (VUT) in 2014,Walter Sisulu University of Technology in the Eastern Cape Province, two Western Cape FET Colleges: False Bay College and the College of Cape Town in 2012.
+
+Most of the protests turned violent, and have led to injuries and arrest. Students have caused significant damage to properties and threatened the safety of students and staff. Some Student Representative Council (SRC) members and students were arrested and faced disciplinary and criminal actions at some universities such as University of Limpopo, Durban University of Technology, Tshwane University of Technology and Vaal University of Technology. At the Technical Vocational Education and Training (TVET) College in Richards Bay, KwaZulu Natal Province, over 100 student protesters were arrested for public violence and malicious damage to property.&nbsp;

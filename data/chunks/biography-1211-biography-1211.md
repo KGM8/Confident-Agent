@@ -1,0 +1,3 @@
+# biography-1211
+
+Born: Soweto, 1966. Tshabangu has studied at a number of institutions, amongst them the Institute of Advancement for Journalism (1998) and at the Alexandra Community art centre in Johannesburg (1991). He was awarded a scholarship by the Gasworks Art Studios in London (1998) and taught photography at the Children?s Photography Workshop (1995) and at the Market Photo Workshop in Johannesburg (1998-1999). He has taken up residency in photography in London, Reunion and Nairobi. Achievements: finalist Daimler Chrysler photography award and Sasol Wax Award. His works form part of private and public collections. Tshabangu has participated and conducted workshops both locally and internationally.

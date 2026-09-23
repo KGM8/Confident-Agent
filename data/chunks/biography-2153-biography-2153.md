@@ -1,0 +1,6 @@
+# biography-2153
+
+In 1973, the Government appointed a select committee of parliament, the Schlebusch Commission, to investigate the objects, organisation, financing and activities of NUSAS, the University Christian Movement (UCM), the Christian Institute of Southern Africa (CI) and the South African Institute of Race Relations (SAIRR).
+The Commission laid the groundwork for a State clamp-down on these organisations. Numerous Cape-based people refused to testify and consequently faced legal action and banning orders. The Christian Institute was banned completely in 1977.
+The Schlebusch Commission concluded that, &lsquo;they [the leadership] wanted to transform NUSAS into a body which would prepare the way for a revolution in which the urban Bantu workers would have to take the lead&rsquo;.
+As a result, NUSAS was declared an Affected Organization. This meant that NUSAS could no longer receive funds from abroad. Furthermore, all its activities were to be closely scrutinised by a government representative. Eight leaders or former leaders of NUSAS were banned in terms of the Suppression of Communism Act of 1950, on 27 February 1973.&nbsp; In 1974, four senior NUSAS officials were detained.

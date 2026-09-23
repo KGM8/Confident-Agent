@@ -1,0 +1,21 @@
+# biography-1784
+
+Transport on water
+Ships and boats are as old as the desire to travel over and across water, and to fish. Boats are smaller than ships. They can be powered by people, animals or engines. There are different ways of propelling ships and boats. Some are moved forward (or propelled) by rowing with oars or paddles and steered with a setting pole. Others might have sails, so that the wind takes them forward and in a certain direction. Modern boats can have motors (engines).
+Rafts, canoes and reed boats
+The first kinds of boats were probably made by hollowing out tree trunks. Another type of primitive boat was the coracle. This was a round-shaped boat made from a basket of branches or twigs and then covered with animal skin or cloth coated with tar. Trimarans are another kind of boat from ancient times. This boat had three hulls (main bodies) and were built by Polynesians about 4 000 years ago.
+SAHO is still developing content for this section. If you have any content to send us or suggestions please click on &#39;contribute&#39;.
+The first sailing ships: Chinese junks, Arab dhows, caravels, British tall ships, clippers
+Then people attached sails to their boats. For many centuries, sailboats were the main kind of sea travel. At first, sea travel mainly involved fishing or travelling between islands within the same island group. As people began to explore the seas further, their sailing boats became bigger. For example, the Chinese Junk had been around for thousands of years. Long before the Europeans began their own explorations in around the 15th century, the Chinese had developed big junks that they used to explore the far corners of the planet.
+For more information visit: www.en.wikipedia.org
+The Greeks and Romans used big sailing ships to travel on the sea as well, especially the Mediterranean Sea. In most parts of the world some kind of sailing boat was developed, and these different boats all have their own characteristics. One of these is the dhow, originally from the Arabian Seas and then brought to Africa. Often, early ships were propelled by both sails and rowing.
+SAHO is still developing content for this section. If you have any content to send us or suggestions please click on &#39;contribute&#39;.
+A steamboat. Source: www.norwichct.org
+The first steam ships
+In the 19th century, steamships were invented. These ships used a steam engine instead of sails. The engine would drive a water wheel, which would move the ship forward. Coal and wood were used to make the steam in big boilers. Today, ships use petroleum engines. There are even ships, like submarines, that use nuclear power.
+Many of the primitive and traditional types of ships are still used today. In some countries like Mozambique and South Africa small fishermen use little rowing boats to go out to sea to fish. In parts of Africa people still use dhows to cross lagoons, lakes or rivers. Canoes, kayaks and small sailing boats are often used for sport and recreation. There are also a lot of very modern kinds of boats and ships. Motorboats are used on dams, rivers and even the sea. Submarines travel under the sea and are used by armies all over the world. Aircraft carriers are not only big enough to carry military planes, but have enough space for the planes to lift off and land. Tankers can carry large amounts of oil across the sea. Ships are also used today to transport other types of cargo and mail to other countries. It takes longer for ships to reach their overseas destination than via plane travel but it is much cheaper. Although the plane is now more popular for travelling overseas, holiday ships still carry passengers across the sea. These ships can be as big as whole hotels, including swimming pools, casinos, theatres and shops.
+Further reading: www.en.wikipedia.org/wiki/Steamboat
+Group Work Activity 
+	1. Divide into groups of 2-3. 
+	2. Find as many pictures as you can things we use to travel over water. You might find pictures in magazines and on the internet. 
+	3. On an A3 cardboard, use your pictures to make a collage. You could also do this activity for the other units in this topic i.e. land and air transport For another classroom exercise on water transport visit: http://www.abc.net.au/tveducation/juniors/pages/2000/transport/water/activity.htm

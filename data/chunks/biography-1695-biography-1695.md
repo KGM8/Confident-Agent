@@ -1,0 +1,4 @@
+# biography-1695
+
+The birth of the Industrial and Commercial Union of South Africa (ICU) came about after the ICU strike in Cape Town when African labour leader, H Selby Msimang convened a general meeting in Bloemfontein, with the blessing of the SANNC. Present at the meeting were delegates from the ICU, the Cape Town branch of the IWA and worker&rsquo;s movements in Port Elizabeth, East London and Aliwal North, and Charlotte Maxeke of the Bantu Women&rsquo;s League of South Africa.
+The delegates at the Bloemfontein conference resolved to form a nationwide Industrial and Commercial Workers Union of South Africa (ICWU). Sam Masabalala, who represented the Port Elizabeth Native Labour Union incorporated his union as a branch of the ICWU and soon they had a following of 4000 workers.&nbsp; Msimang played a vital role in the formation of this organization which was later known as the ICU.

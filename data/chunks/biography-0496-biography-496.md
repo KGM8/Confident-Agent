@@ -1,0 +1,3 @@
+# biography-496
+
+The aim of the African Women's Organisation is to rally African women under the banner of African Nationalism and to educate women socially, politically, and morally and to make them fully conscious of their conditions. The African Women's league was formed in April 1986 in Katlehong and has ever since played a significant role in campaigns such as the call for the release of Theresa Ramashamola, one of the Sharpeville Six. The organisation sees national oppression and sexual oppression as two sides of the same coin and is committed to fighting male domination and male chauvinism, alongside male comrades.

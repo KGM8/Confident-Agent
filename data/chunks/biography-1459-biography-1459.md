@@ -1,0 +1,3 @@
+# biography-1459
+
+Born in Nairobi, Kenya, 1972. Resides in Johannesburg. Studied at University of the Witwatersrand, International Institute of Journalism, Berlin, Kenya Polytechnic and the Market Photo Workshop. Has a BA(Hons) in Journalism and Diplomas in Photojournalism and Graphic Arts Communication. Awards: Award For Freedom Press Day 2002, Netherlands Embassy, Kenya; Special Mention-CNN Africa Awards 2004; Adobe Photo of the Year Award 2008. Granted a Residency at Tilburg Art School, Holland in 2003. Collections: Wedge Gallery in Toronto Canada; Agency for French Development in France. Founding member of Photo Multimedia Institute of East Africa (PMI-EA), which is a new photo resource centre to promote and enhance photography in the region.

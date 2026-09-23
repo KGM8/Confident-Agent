@@ -1,0 +1,5 @@
+# biography-2702
+
+Intersex South Africa (ISSA) is an organization founded in 2010 by late activist Sally Gross. According to ISSA’s manifesto, the goals of their mission include raising awareness of intersex issues in South Africa while advocating and supporting all intersex South Africans. They aim to fundamentally shift intersexed people’s rights, by way of national legislation to provide better care and service provision for intersexed people and their families. This leads ISSA to their primary goal; the eradication of non-consensual, unnecessary genital “correction” surgery of all intersex people upon being born.
+
+ISSA is responsible for creating open-discussions and workshops on intersexuality for various organisations throughout South Africa. In 2018, ISSA together with Iranti-Org, held a national dialogue in Johannesburg with the aim of breaking the silence around the treatment of intersex people, and to appeal to both the Department of Justice and Constitutional Development and The Foundation for Human Rights to reconsider the treatment of Intersex people in South Africa and Africa at large.

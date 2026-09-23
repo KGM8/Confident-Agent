@@ -1,0 +1,4 @@
+# biography-2066
+
+The Sweet Food and Allied Workers Union (SFAWU) was established in 1974 with the help of the Urban Training Project (UTP). Amongst its founder members wereMaggie Magubane and Skakes Sikhakhane. The latter was elected as its first secretary. It was based in Durban where it organised in the sugar, milling, biscuit, baking, dairy, brewing, sweet and chocolate industries.
+SFAWU had expanded into northern and southern Natal and the Transvaal by 1977. By 1982, it had succeeded in organizing 100 per cent of the workers in the factories that fell within its sector. SFAWU was one of two unionsof the Consultative Committee of Black Trade Unions(CCOBTU) that broke away and affiliated with the Federation of South African Trade Unions&nbsp;(FOSATU). In 1986 the Food and Canning Workers&rsquo; Union (FCWU) joined forces with the SFAWU to form the Food and Allied Workers Union (FAWU).

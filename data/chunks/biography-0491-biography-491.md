@@ -1,0 +1,4 @@
+# biography-491
+
+The English translation of this organization is Federation of Afrikaner Cultural Organisations.&nbsp; The Federasie of Afrikaanse Kultuur Vereniginge (FAK) was established in 1929 as a branch of the Afrikaner Broederbond, a secret Afrikaner organization which aimed to further the interests of the Afrikaner people. Although not primarily a women&#39;s organisation, the FAK did include the Suid Afrikaanse Vroue Federasie and the Afrikaanse Christelike Vroue Vereniging, which both encouraged Afrikaner women to teach their children about Afrikaner values and to do charity work to uplift and strengthen the Afrikaner cause.&nbsp;
+The FAK played a significant role in the development of Afrikaner nationalism.&nbsp; By 1937 it had over 300 affiliated organizations.&nbsp; The aims of the organization were to stimulate interest in Afrikaans literature and the arts, to help Afrikaners enter the business world and to promote Christian national education.

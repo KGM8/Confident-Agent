@@ -1,0 +1,7 @@
+# biography-163
+
+The Predecessor of this left-wing publication was The Guardian. The Guardian itself was founded in 1937 by trade unionists, university professors and some communists. It became a leading voice in the South African struggle against apartheid, especially in the 1940s. As a result of this newspaper's close ties to the ANC, it was banned twice, in 1952 and again in 1954. Each time it got a banning order, a replica of the publication would appear under a new title, and New Age was one of these.
+
+After the State of Emergency was declared in 1960, activists were being banned, jailed or had gone to exile, circulation was successfully stopped for about five months. This was the first for this newspaper that always managed to release their usual weekly supplement, banned or not. The ANC was banned, a move that affected the newspaper's system of correspondence (some staffers were ANC activists) and their financial backing (mainly from the Indians in Durban). When the New Age came back into circulation, it started doing coverage of ANC leaders abroad, they also openly supported the MK (the ANC's military wing) and their sabotage missions. After the Sharpeville massacre New Age reporters were regularly being detained. Financial strains however lead to the end of the publication, when it got banned again in 1962.
+
+Spark appeared after New Age but a few copies were printed so as to maintain the paper's registration status, the last volume appeared on the 28th of March 1963.

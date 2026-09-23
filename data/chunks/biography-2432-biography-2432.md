@@ -1,0 +1,22 @@
+# biography-2432
+
+&ldquo;District Six is a blot which the government has cleaned up and will continue to clear up.&rdquo;[i]  - P.W Botha
+The memory of District Six, also known as Kanaladorp [ii] (kanala is a Malay word meaning &lsquo;help one another&rsquo;), is marked by the event of 11 February 1966. On this day the district was declared a White area under the 1950 Group Areas Act of the Apartheid government. [iii]
+History
+The first occurrence of forced removals in District Six occurred in 1901, when the district&rsquo;s Black residents were moved to Uitvlugt (later named N&#39;dabeni). On this occasion the area was razed due to its alleged link to the outbreak of the Bubonic plague.[iv] The district was reconstructed and developed into one of the most multi-racial residential areas in South Africa.[v] An approximate 60&nbsp;000 people resided in District Six, the population being predominantly &lsquo;Coloured&rsquo; and Indian with smaller Black and White communities. Before the passing of the Group Areas Act, multiracial spaces such as District Six were not uncommon as residential areas were segregated on the basis &nbsp;of class rather than race.The aim of the Group Areas Act was to racialise space. [vi] 
+At the time of the proclamation 56% of the district&rsquo;s property was &lsquo;White&rsquo;-owned, 26% &lsquo;Coloured&rsquo; owned and 18% was Indian owned[vii]&nbsp;- therefore&nbsp;P.W Botha&rsquo;s 1966 announcement stating that District Six would be redeveloped for White occupation was met with widespread protest.[viii] &nbsp; However, for the residents of District Six, their fate was sealed. The first demolitions began in 1968, when homes and businesses were destroyed, and the only buildings left standing were places of worship. Over a period of 15 years, non-White members of the District Six community were forcibly moved, mainly to the Belhar township, Rylands Estate and Hanover Park on the Cape Flats.[ix] 
+In 1970 District six was renamed Zonnebloem, a name that makes reference to an 18th century colonial farm[x].&nbsp; In 1979 the Cape Technikon, a White technical university, was constructed[xi], and&nbsp;that same year a group of people consisting of religious groups and community figures established a community group calling themselves the &lsquo;Friends of District Six&rsquo;. The dominant view of Zonnebloem as &#39;tainted&#39; land ensured the failure of the Cape Town Municipality to re-develop a large part of the land. In 1987 the &lsquo;Hands off District Six (HODS)&#39; alliance was established, aimed at preventing the redevelopment of District Six[xii]  In a historic 1988 HODS conference held at at Zonnebloem College, a call was made for the establishment of a memory project or museum to honour the memory of District Six. This call was realised in 1989 through the creation of the District Six Museum Foundation, located in a hall on the Zonnebloem Estate.
+Today, empty patches of land echo silently in parts of the landscape that used to be District Six: a hollow residue of a displaced community.&nbsp;
+&nbsp;
+[i] University of Cape Town, District Six (Unpublished paper, 1980) pg5. &crarr;
+[ii] Vivian Bickford-Smith, The struggle for District Six: Past and Present (Cape Town: Buchu Books, 1990) p.36. &crarr;
+[iii] Crain Soudien, The struggle for District Six: Past and Present (Cape Town: Buchu Books, 1990) p.143. &crarr;
+[iv] CirajRassool, District Six Revisited (Bellville, South Africa: Department of History, University of Western Cape, 2013) p.1. &crarr;
+[v] University of Cape Town, District Six (Unpublished paper, 1980) p.5. &crarr;
+[vi] Zohra Bibi Dawood, Race and space: dispossession through the Group Areas Act(Athlone, South Africa :&nbsp;&nbsp; Surplus People Project,&nbsp;&nbsp; 1994) p.1. &crarr;
+[vii] University of Cape Town, District Six (Unpublished paper, 1980) p.2. &crarr;
+[viii] Crain Soudien, The struggle for District Six: Past and Present (Cape Town: Buchu Books, 1990) p.145. &crarr;
+[ix] Debora M. Hart, The struggle for District Six: Past and Present (Cape Town: Buchu Books, 1990) p.126. &crarr;
+[x] Ciraj Rassool, District Six Revisited (Bellville, South Africa: Department of History, University of Western Cape, 2013) p.4. &crarr;
+[xi] University of Cape Town, District Six (Unpublished paper, 1980) p.8. &crarr;
+[xii] Ciraj Rassool, District Six Revisited (Bellville, South Africa: Department of History, University of Western Cape, 2013) p.4. &crarr;

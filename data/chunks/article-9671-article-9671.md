@@ -1,0 +1,5 @@
+# article-9671
+
+He is originally from the Ndzundza-Mabhoko tribe. He married Nonhlanhla Zulu, sister of the Zulu King Goodwill Zwelithini which made him gain the title of Prince within the Zulu community.
+Because of his prominent position against the independence movement in the Bantustans, he was targeted as an enemy of the cause. He was also a good target because of his involvement in raids against vigilantes in KwaNdebele. His enemies also targeted attacks against his supporters and people who live under his chieftaincy.
+In 1984 he got elected he moved to KwaNdebele where he was elected to the Legislative assembly. His role as both a community leader and a traditional one led many to question on who’s side he was exactly. Yet, rumors were quickly dispelled because of his very strong stance against the homelands system. But this was not a long lived victory against his enemies because he was forced to flee the region and his job as an elected official after he was detained and attacked. He and his family had to move into hiding in KwaZulu in 1985 but he was murdered not long after by the same people who had attacked him.

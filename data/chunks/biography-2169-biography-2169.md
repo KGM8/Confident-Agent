@@ -1,0 +1,4 @@
+# biography-2169
+
+The South Africa Act passed by the British Parliament in 1909 combined the self-governing British colonies of the Natal, Cape, Transvaal and the Orange Free State into the Union of South Africa. The Act, which served as the Union&#39;s constitution until 1961, created a parliamentary government along the lines of the Westminster model, consisted of a directly elected House of Assembly and an indirectly elected Senate. However, the permission was largely restricted to White men. The Orange Free State (formerly the Orange River Colony) and the Transvaal denied all non-whites the right to vote. In Natal, nearly all non-whites were not allowed to vote. In the Cape Province, an important number of Black and Coloured men were allowed to vote under a &quot;color-blind&quot; permission based on property requirements. However, only white men could be elected to Parliament.&nbsp;
+Next &gt;&gt;

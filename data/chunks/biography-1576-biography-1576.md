@@ -1,0 +1,6 @@
+# biography-1576
+
+The discovery of a diamond on a farm in the British controlled Cape Colony in 1867 and of gold in the Afrikaner “Boer” controlled Transvaal Republic transformed the agricultural-based economy into a segregated White-controlled capitalist industrial society and over the next two decades into the economic powerhouse of Africa.&nbsp;
+It led to a scramble by the British colonial administration to expand their political control over all of Southern Africa through the use of war and conquest over Boer-controlled colonies and what was left of the African traditionally ruled African (Black) territories in Southern Africa.
+The capitalist and political expansion in Southern African brought in its wake the consolidation of a racially defined society in which Black people were disposed of their land and confined into Native reserves and forced to work in a system that confined them to segregated ghettoes, menial jobs and low wages.&nbsp; Coloured and Indians communities were likewise confined to segregated areas and also subject to colour bar or job reservations where they were barred from skilled jobs and received differential wages.
+Over the next 150 years South African society continues to remain a deeply divided society with wealth held by a minority of White and Black elite and the majority of it's people living in abject poverty.

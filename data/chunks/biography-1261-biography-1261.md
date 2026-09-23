@@ -1,0 +1,3 @@
+# biography-1261
+
+Schumann developed a passion for documentary photography while living in the Middle and South East Asia. This was followed by his first exhibition for which he hitchhiked from Cape Town to Ramallah, Palestine. Today Schumann is a professional photographer/artist specializing in work for Advocacy, Communications and Social Mobilization. His work has been recognized as a visual anthropological study and drawn the attention of Desmond Tutu; Bill Gates and top profiles in government and global organizations. Schumann has lectured on his work and methodology at Princeton University and the The Centre of Documentary Studies, Duke University.

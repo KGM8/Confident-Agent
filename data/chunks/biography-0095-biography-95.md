@@ -1,0 +1,87 @@
+# biography-95
+
+Introduction
+General Louis Botha headed the first government of the new Union of South Africa, with General Jan Smuts as his deputy. Their South African National Party, later known as the South African Party (SAP), followed a generally pro-British, White-unity line. The creation of the Union of South Africa was quickly followed by the launch of two important political movements. One was the South African Native National Congress (later ANC) formed in 1912, and the other made up of more radical Boers who split away from the SAP under the leadership of General Barry Hertzog, forming the National Party (NP) in 1914.
+The new Union had no place for Black people, despite their constituting over 75% of the population. The Act of Union denied them voting-rights in the Transvaal and Orange Free State areas, and in the Cape Province Blacks gained the vote only if they met a property-ownership qualification. Blacks saw the failure to grant the franchise to them, coming on the heels of British wartime propaganda promoting freedom from &quot;Boer slavery&quot;, as a blatant betrayal.
+In the first two decades of Union (1910-1930), the Governments of Louis Botha, Jan Smuts, and J. B. Hertzog promulgated a barrage of discriminatory laws and regulations that tightened state control over Black people. The most important law passed was the Natives&#39; Land Act of 1913. This law reserved 93% (revised to 87% in 1936) of the land in South Africa for whites; it prevented Africans&rdquo;&rdquo;two-thirds of the population at the time&rdquo;&rdquo;from freely buying land. The small African &#39;reserves&#39; created by the Land Act was a forerunner of the apartheid-era &#39;Bantustans&#39; or &#39;homelands.&#39; Denying the majority of South Africa&#39;s inhabitants, the right to own land had major socio-economic and political repercussions.
+The authorities evicted thousands of squatters from farms and forced them into increasingly overcrowded and impoverished reserves. Life in the rural reserves was harsh, with illnesses and malnutrition rife. For many Africans, especially young men and women, migration to wage-earning jobs in cities and mines became one of the only ways to pay colonial taxes and survive. &nbsp;With the hardening of White racism and segregation, more and more Blacks, Coloureds and Indians began to identify themselves as &#39;Africans&#39;, an &#39;African Nationlism&#39; began to emerge.
+
+	&nbsp;
+	
+		What is African Nationalism? 
+			Nationalism refers to an ideology, a form of culture, or a social movement that focuses on the nation. It emphasises the collective of a specific nation. As an ideology, nationalism holds that &#39;the people&#39; in the doctrine of popular sovereignty is the nation. &nbsp;Nationalism ultimately is based on supporting one&#39;s own nation.&nbsp; African nationalism is a political movement for the unification of Africa (Pan-Africanism) and for national self-determination... more &nbsp; 
+	
+
+&nbsp;
+The formation of the ANC
+
+	&nbsp;
+	
+		The South African Native National Congress delegation to England, June 1914. Left to right: Thomas Mapike, Rev Walter Rubusana, Rev John Dube, Saul Msane, Sol Plaatjie. The delegation tried to get the British Government to intervene against the Land Act but the outbreak of the First World War thwarted their hopes &copy; unknown
+	
+
+Since 1652, successive colonial administrations had systematically deprived Black communities of their land.&nbsp; The loss of this crucial resource was arguably the most important factor leading to the impoverishment and marginalization of African communities. It was also arguably the most important factor spurring on formative organized resistance.&nbsp;
+Preliminary drafts of the Natives&#39; Land Actwere debated in 1911 and the Mines and Works Act was passed in 1911. These laws and the formation of the Union were important factors leading to the formation of the South African Native National Congress on 8 January, 1912, in Bloemfontein, renamed the African National Congress in 1923. Land dispossession lies at the heart of South Africa&#39;s history and heritage of inequity.&nbsp; The new ANC was created against the backdrop of massive deprivation of Africans&#39; right to own land.
+
+	&nbsp;
+	
+		Land, Labour and Apartheid
+	
+
+Several hundred members of South Africa&#39;s educated African elite met at Bloemfontein on 8 January 1912 to establish a national organisation to protest against racial discrimination and to appeal for equal treatment before the law. The founding president was John L. Dube, a minister and schoolteacher who had studied in the United States. Dube was strongly influenced by the American educator and activist Booker T. Washington. Pixley Ka Isaka Seme, a lawyer and a prime mover in organising the meeting to establish the Congress, was appointed treasurer. Solomon T. Plaatje, a court translator, author, and newspaper editor who had worked in Kimberley and Johannesburg, became Secretary General. The meeting to establish the ANC opened and closed with the singing of the hymn &ldquo;Nkosi sikelel&#39;i Afrika&rdquo; (&ldquo;God Bless Africa&rdquo;), which had been composed at the end of the nineteenth century by a Xhosa poet. Today, it is half of independent South Africa&#39;s national anthem. (The other half is The Stem, the national anthem of the apartheid government which was adopted in the spirit of reconciliation.)
+Overall, the Congress was moderate in composition, tone, and practice. Its founders, all men, felt that British rule had brought considerable benefits, especially Christianity, education, and the rule of law, but they also considered that their careers as teachers, lawyers, and court translators were hindered by racial discrimination so deeply entrenched in South Africa. They called not for an end to British rule, but rather for respect of the concept of equality for all, irrespective of colour. They respected traditional authorities in African societies and made chiefs and kings office-holders within the Congress. They believed that they could best achieve their aims by dialogue with the British. As John Dube said, the Congress pursued a policy of &ldquo;hopeful reliance on the sense of common justice and love of freedom so innate in the British character.&rdquo; Such reliance, however, was proven unfounded by the adoption of the Natives Land Act in 1913 and the Mines and Works Act of 1911. The latter legislated that Black workers could only be engaged as cheap semi-skilled labourers, effectively prohibiting them from seeking skilled work. For these so-called &ldquo;unskilled&rdquo; workers, the political environment created by racist rule ensured that they worked under appalling conditions.
+Eligibility to vote was seen as a right belonging to Whites who granted it at their discretion as a privilege to non-whites. Suffice to say, electoral privileges were not extended to Blacks. Initially, the ANC provided feeble opposition to the White government, but became a more powerful force in later decades.
+The formation of the National Party
+The National Party (NP) was formed when a group of more radical Boers split away from the SAP under the leadership of General Barry Hertzog in 1914. The NP championed Afrikaner interests, advocating separate development for the two White groups and independence from Britain. The rise of Afrikaner nationalism during this period and through into the later 1920s and 1930s was a critical factor in the electoral victory of the National Party later in 1948. In addition to the NP, the Broederbond (Afrikaner Brotherhood) was formed in 1918.
+The Natives Land Act of 1913
+
+	&nbsp;
+	
+		Passive Resistance March in 1913, lead by MK Gandhi. &copy; Scan of a photocopy
+	
+
+Although the Colonial Government passed many discriminatory laws against Blacks, the most severe, the 1913 Natives&#39; Land Act, codified those injustices by preserving the large majority of the Union&#39;s land for the exclusive use of the white minority. The Act effectively meant that access to land and other resources depended upon a person&#39;s racial classification. This legislation caused endemic overcrowding, extreme pressure on the land, and poverty.
+The Act and the &pound;3 tax imposed on ex-indentured Indians prompted a protest march led by Mahatma Gandhi (Passive Resistance Campaign 1913-1914).&nbsp; Men and women took part in the protests and many arrests were made. During these protests between 4 000 and 5 000 miners also downed their tools to strike with the Satyagrahi&#39;s.
+At the same time, approximately 800 women were arrested in a related protest against pass laws (known as the Bloemfontein of Waaihoek anti-pass protests). Both the newly formed ANC and the African Political Organisation (APO) formed in 1902, under Abdurahman, gave encouragement to the efforts of the Waaihoek women. Abdurahman was a great admirer of Gandhi&#39;s passive resistance and he encouraged the women to invite arrest by defying the hated regulations. African people across the board felt bitter and disappointed about the Natives Land Act (1913), so tensions were high.
+On 28 May 1913 a mass meeting of women was held in Waaihoek and it was decided to adopt a passive resistance stance. They would refuse to carry residential permits. Two hundred angry women marched into town to see the mayor, but when he was eventually cornered he maintained that his hands were tied. The women promptly tore up their passes, shouted remarks at the policemen and generally provoked the authorities into arresting them. Eighty women were arrested. There was another march the next day which soon turned ugly, with sticks being brandished. The women reputedly shouted at the police: &#39;We have done with pleading. We now demand!&#39;
+Unrest spread to other towns throughout the province and hundreds of women were sent to prison. Civil disobedience and demonstrations continued sporadically for several years. Ultimately the permit requirement was withdrawn in 1918. One of the direct consequences of the Bloemfontein anti-pass campaign was the formation of early women&#39;s political movements. The Bantu Women&#39;s league (BWL) was formed in 1913/14 as a branch of the ANC under the leadership of Charlotte Maxeke, South Africa&#39;s first women graduate, who had been educated in the USA.
+Also at this time the ANC&#39;s dissatisfaction over the hated Natives Land Act culminated in them sending a deputation to London in 1914 to protest the act. However, the Colonial Secretary informed the delegation that there was nothing that he could do. This was the year the First World War broke out and the National Party was formed under Hertzog. A number of Africans were called upon to assist the Allied cause against Germany. Nevertheless, at the end of the war Africans continued to be accorded second-rate status and found it very difficult to access skilled jobs.
+In 1919 another deputation to London complained against the Natives Land Act. Although the delegation is said to have been &ldquo;received sympathetically&rdquo; by the then Prime Minister, Lloyd George, they came back more disgruntled than ever as the British Premier told them that their problems would have to be resolved in South Africa by the South African Government. Resistance against unjust laws such as the Land Act persisted.
+
+	&nbsp;
+	
+		The Bulhoek Massacre 
+			In 1921, a group of &#39;Israelites&#39; (a religious sect) refused to leave a squatters&#39; settlement at Bulhoek (now Whittlesea), near Queenstown in the Eastern Cape. Frustrated White authorities finally resorted to the use of force after the Israelite Sect, had repeatedly refused to move.&nbsp; On 24 May 1921, 163 people were killed, 129 wounded and 113 imprisoned when the South African Police (SAP) opened fire on the charging group of &#39;Israelites&#39;. This event bears testimony to the new brewing tension between Whites and other races in South Africa. This incident became known as the Bulhoek Massacre.&nbsp; It opened another chapter in South African history of Black people&#39;s defiance against the Native Land Act of 1913.... more
+	
+
+&nbsp;
+After WW1
+The signing of the Peace Treaty of Versailles, which ended World War 1 in 1919, (WW1) gave Black South Africans (Coloureds and Indians included) hope that Government policies towards them might change, as they had been called upon to assist the Allied cause against Germany. Nevertheless, at the end of the war Africans continued to be accorded second-rate status as the government enacted a series of legislations aimed at segregating Black people.
+
+	&nbsp;
+	
+		1919, Mineworkers pass strike. The strike slogan was &quot;Passes Prevent Money&quot; &copy; Museum Africa
+	
+
+Massive urbanisation was the most important social development between World War I and World War II. The number of city-dwelling Africans more than tripled in thirty years from 1904 to 1936. This urban growth occurred in a context of intensifying segregation. Africans in the cities lived in terrible conditions, with inadequate housing, poor health and transport services, and no electricity for many decades. Along with poverty came crime and fear for personal safety. Segregation also caused unprecedented gender imbalance, with more men working in urban areas than women.
+As more Blacks moved to urban areas, Whites came to view the city as &ldquo;a European area in which there is no place the redundant Native,&rdquo; in the words of the Native Affairs Commission of 1921. The 1923 Natives (Urban Areas) Act restricted African migration into towns, laying the foundations for urban residential segregation. Whites also sought to tighten control of black workers by passing laws in the 1920s that severely curtailed black economic freedom, including a prohibition on forming unions.
+Organisation of the working class, formation of Labour organisations
+During and shortly after WW1 Black and Coloured people who were absorbed by the emerging industries continued to receive paltry wages and were subjected to sub-standard housing and inferior sanitary facilities, prompting the formation of the first African trade union, the Industrial Workers of Africa, in 1917. After the end of the war in 1919 the Industrial and Commercial Workers&#39; Union (ICU) was formed by dockworkers, spearheaded by a prominent Malawian migrant worker and activist, Clements Kadalie.
+
+	&nbsp;
+	
+		ICU poster &copy; unknown
+	
+
+To a large extent the ICU largely overshadowed the African National Congress (ANC) as the ANC was, at the time short of funds and poorly organised. The ICU, founded in Cape Town, started out as a trade union for the Black and Coloured dockworkers in Cape Town.
+However, the ICU soon developed into a more general organisation, including in its membership skilled as well as unskilled workers from industry and the agricultural sector. Unlike the ANC, the ICU did not officially petition the authorities, but adopted a more active approach with a view to obtaining better working conditions and higher wages for its members. As a result, its membership increased rapidly - mainly because the ICU held out hope for immediate change within the existing socio-economic system. The trade union movement spread to other urban areas, such as Natal, where it found an effective provincial secretary in George Champion. Soon ICU branches were opened throughout South Africa, and in 1925 the union moved its headquarters to Johannesburg.
+The founding conference of the  Communist Party of South Africa (CPSA) took place in Cape Town from 30 July to 1 August 1921. It was founded mainly by radical White workers and socialists who had experienced workers&#39; struggles in Europe and were inspired by the first communist state which was founded in 1917 in Russia after the Bolshevik Revolution. The formation of the CPSA marked a decisive turning point in the evolution of labour politics in South Africa. Up until then the organised labour movement consisted mainly of white working class members. Throughout the 1920s the CPSA focussed on organising African workers around issues of trade union rights and national liberation demands, and by 1925 the CPSA had a majority of Black members. In 1928 the CPSA called for Black majority rule.
+The Rand Rebellion 1922
+During the post WW1 period the Chamber of Mines gave notice that it would be replacing 2,000 semi-skilled white men with cheaper Black labour.&nbsp; The miners in the Witwatersrand areas reacted strongly and embarked on the Rand Rebellion in February 1922. Their jobs and pay packets were threatened by the removal of the colour bar, and they feared the social encroachment on their lives that differences in colour, standards of living, and the cultural background of the Coloured races might make. After negotiations between the Chamber of Mines or Mine Owners and the South African Industrial Federation failed, sporadic strikes were launched in 1921, but these did not become widespread until the end of the year.
+
+	&nbsp;
+	
+		Read more about this rebellion and trade unions
+	
+
+Black labourers did not take part as they were not affected by the grievances tabled by the trade unions.&nbsp; &nbsp;Although they were neutral in the events leading to, and during, the Rand Rebellion they were also shot at as if they were part of the rebellion. When the Rebellion was halted 200 people, including policemen, had lost their lives.

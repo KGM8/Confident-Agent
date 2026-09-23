@@ -1,0 +1,3 @@
+# biography-1930
+
+Southern Africa experienced transformation in the 18th and 19th centuries. This was the period that became known as the ‘mfecane’. This topic includes research that helps us to better understand how and why transformation occurred at this time. Shaka was regarded as being the major cause of conflict during this period. However, historians are moving away from the idea of the mfecane, which is linked to outdated, colonial-era ideas of the centrality of the ‘wars of Shaka’. Wars and disruptions took place, but most of them were not caused by Shaka and the Zulu. This unit investigates the recent research and explores the ways in which historical myths are constructed.

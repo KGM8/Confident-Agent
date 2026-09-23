@@ -1,0 +1,7 @@
+# biography-171
+
+The National Heritage Resources Act , no. 25 of 1999, aimed to introduce an interactive and integrated system to manage and preserve national heritage resources. It also established the South African Heritage Resources Agency (SAHRA) and Council.
+The conservation of shipwrecks as a cultural resource has been significantly enhanced by the improvement of legal protection under the National Heritage Resources Act. The most significant change in the Act was the adjustment of the status of historical shipwrecks. These wrecks are now defined as archaeological sites and are thus managed by SAHRA in accordance with this classification.
+A &ldquo;historical&rdquo; wreck must be 60 years or older and no-one is allowed to &ldquo;destroy, damage, excavate, alter, deface, or otherwise disturb&rdquo; any wreck or wreck site without a permit from SAHRA. It is also illegal to trade in, sell for private gain&rdquo; any objects or materials from wrecks. Persons found guilty of these offences can face a fine and prison sentence.
+The purpose of this legislation is to make sure that shipwrecks are conserved so that any investigations and studies can be conducted according to archaeological principles and standards. This will allow for an adequate record of underwater recoveries and the cataloguing, conservation and exhibition of artifacts.
+It is important to utilise shipwrecks as sources of education and cultural enrichment to all South Africans, especially researchers.

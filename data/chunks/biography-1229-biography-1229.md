@@ -1,0 +1,58 @@
+# biography-1229
+
+The four major ethnic divisions among Black South Africans are the Nguni, Sotho, Shangaan-Tsonga and Venda. The Nguni represent nearly two thirds of South Africa's Black population and can be divided into four distinct groups; the Northern and Central Nguni (the Zulu-speaking peoples), the Southern Nguni (the Xhosa-speaking peoples), the Swazi people from Swaziland and adjacent areas, and the Ndebele people of the Northern Province and Mpumalanga. Archaeological evidence shows that the Bantu-speaking groups, that were the ancestors of the Nguni, migrated down from East Africa as early as the eleventh century - see South Africa's general history timeline.
+
+Language, culture and beliefs: 
+
+The Zulu language, of which there are variations, is part of the Nguni language group. The word Zulu means "Sky" and according to oral history, Zulu was the name of the ancestor who founded the Zulu royal line in about 1670. Today it is estimated that there are more than 45 million South Africans, and the Zulu people make up about approximately 22% of this number. The largest urban concentration of Zulu people is in the Gauteng Province, and in the corridor of Pietermaritzburg and Durban. The largest rural concentration of Zulu people is in Kwa-Zulu Natal.
+
+IsiZulu is South Africa's most widely spoken official language. It is a tonal language understood by people from the Cape to Zimbabwe and is characterized by many "clicks". In 2006 it was determined that approximately 9 million South Africans speak Xhosa as a home language.
+
+The following overview of the language was written by B.P. Mngadi for UNESCO's World Languages Report (2000):
+
+"The writing of Zulu was started by missionaries in the then Natal. The names J W Colenso, S B Stone, H Callaway and Lewis Grant are among the prominent. They taught the first people with whom they made contact, spreading the word of God, basic writing skills in Zulu. Magema Fuze, Ndiyane and William were among the very first who were taught communicative English and basic writing skills at about 1830-1841. The first Zulu Christian booklet was produced by Newton Adams, George Newton and Aldin Grout (1837-8) titled "Incwadi Yokuqala Yabafundayo" which dealt with the spelling of Zulu words and the history of the Old Testament. Between 1845 and 1883, the first translated version of the Bible was produced in very old Zulu orthography. In 1859 the first Zulu Grammar Book by L. Grout was produced". 
+
+Its oral tradition is very rich but its modern literature is still developing. J.L Dube was the first Zulu writer (1832) though his first publication was a Zulu story written in English titled "A Talk on my Native Land". In 1903 he concentrated in editing the newspaper "Ilanga LaseNatali". His first Zulu novel "Insila kaShaka" was published in 1930. We see a steady growth of publications especially novels from 1930 onwards.
+
+The clear-cut distinction made today between the Xhosa and the Zulu has no basis in culture or history but arises out of the colonial distinction between the Cape and Natal colonies. Both speak very similar languages and share similar customs, but the historical experiences at the northern end of the Nguni culture area differed considerably from the historical experiences at the southern end. The majority of northerners became part of the Zulu kingdom, which abolished circumcision. The majority of southerners never became part of any strongly centralised kingdom, intermarried with Khoikhoi and retained circumcision.
+
+Many Zulu people converted to Christianity under colonialism. However, although there are many Christian converts, ancestral beliefs have not disappeared. Instead, there has been a mixture of traditional beliefs and Christianity. Ancestral spirits are important in Zulu religious life, and offerings and sacrifices are made to the ancestors for protection, good health, and happiness. Ancestral spirits come back to the world in the form of dreams, illnesses, and sometimes snakes. The Zulu also believe in the use of magic. Ill fortune such as bad luck and illness is considered to be sent by an angry spirit. When this happens, the help of a traditional healer is sought, and he or she will communicate with the ancestors or use natural herbs and prayers, to get rid of the problem.
+
+
+
+Late nineteenth-century postcard of Zulu Warriors
+(note the Europeans in the background)
+
+The Zulu are fond of singing as well as dancing. These activities promote unity at all transitional ceremonies such as births, weddings, and funerals. All the dances are accompanied by drums and the men dress as warriors (see image).
+
+Zulu folklore is transmitted through storytelling, praise-poems, and proverbs. These explain Zulu history and teach moral lessons. Praise-poems (poems recited about the kings and the high achievers in life) is becoming part of popular culture. The Zulu, especially those from rural areas, are known for their weaving, craft-making, pottery, and beadwork.
+
+The Zulu term for "family" (umndeni) includes all the people staying in a homestead who are related to each other, either by blood, marriage, or adoption. Drinking and eating from the same plate was and still is a sign of friendship. It is customary for children to eat from the same dish, usually a big basin. This derives from a "share what you have" belief which is part of Ubuntu (humane) philosophy.
+
+Origins: 
+
+Long ago, before the Zulu were forged as a nation, they lived as isolated family groups and partly nomadic northern Nguni groups. These groups moved about within their loosely defined territories in search of game and good grazing for their cattle. As they accumulated livestock, and supporters family leaders divided and dispersed in different directions, while still retaining family networks.
+
+The Zulu homestead (imizi) consisted of an extended family and others attached to the household through social obligations. This social unit was largely self-sufficient, with responsibilities divided according to gender. Men were generally responsible for defending the homestead, caring for cattle, manufacturing and maintaining weapons and farm implements, and building dwellings. Women had domestic responsibilities and raised crops, usually grains, on land near the household.
+
+By the late eighteenth century, a process of political consolidation among the groups was beginning to take place. A number of powerful chiefdoms began to emerge and a transformation from a pastoral society to a more organised statehood occurred. This enabled leaders to wield more authority over their own supporters and to compel allegiance from conquered chiefdoms. Changes took place in the nature of political, social, and economic links between chiefs of these emerging power blocs and their subjects. Zulu chiefs demanded steadily increasing tribute or taxes from their subjects, acquired great wealth, commanded large armies, and, in many cases, subjugated neighbouring chiefdoms.
+
+Military conquest allowed men to achieve status distinctions that had become increasingly important. This culminated early in the nineteenth century with the warrior-king Shaka conquering all the groups in Zululand and uniting them into a single powerful Zulu nation, that made its influence felt over southern and central Africa. Shaka ruled from 1816 to 1828, when he was assassinated by his brothers.
+
+Shaka recruited young men from all over the kingdom and trained them in his own novel warrior tactics. His military campaign resulted in widespread violence and displacement, and after defeating competing armies and assimilating their people, Shaka established his Zulu nation. Within twelve years, he had forged one of the mightiest empires the African continent has ever known. The Zulu empire weakened after Shaka's death in 1828.
+
+One of the most significant events in Zulu history was the arrival of Europeans in Natal. By the late 1800s, British troops had invaded Zulu territory and divided Zulu land into different chiefdoms. The Zulu never regained their independence (see Anglo-Zulu Wars).
+
+Natal received "Colonial government" in 1893, and the Zulu people were dissatisfied about being governed by the Colony. A plague of locusts devastated crops in Zululand and Natal in 1894 and 1895, and their cattle were dying of rinderpest, lung sickness and east coast fever. These natural disasters impoverished them and forced more men to seek employment as railway construction workers in northern Natal and on the mines in the Witwatersrand.
+
+The last Zulu uprising, led by Chief Bambatha in 1906, was a response to harsh and unjust laws and unimaginable actions by the Natal Government. It was sparked off by the imposition of the 1905 poll tax of £1 per head, introduced to increase revenue and to force more Zulus to start working for wages. The uprising was ruthlessly suppressed (see Bambatha Rebellion).
+
+The 1920s saw fundamental changes in the Zulu nation. Many were drawn towards the mines and fast-growing cities as wage earners and were separated from the land and urbanised. Zulu men and women have made up a substantial portion of South Africa's urban workforce throughout the 20th century, especially in the gold and copper mines of the Witwatersrand. Zulu workers organized some of the first black labour unions in the country. For example, the Zulu Washermen's Guild, Amawasha, was active in Natal and the Witwatersrand even before the Union of South Africa was formed in 1910. The Zululand Planters' Union organized agricultural workers in Natal in the early twentieth century.
+
+The dawn of apartheid in the 1940s marked more changes for all Black South Africans, and in 1953 the South African Government introduced the "homelands". In the 1960s the Government's objective was to form a "tribal authority" and provide for the gradual development of self-governing Bantu national units. The first Territorial Authority for the Zulu people was established in 1970 and the Zulu homeland of KwaZulu was defined. On 30 March 1972 the first Legislative Assembly of KwaZulu was constituted by South African Parliamentary Proclamation.
+
+Chief Mangosutho (Gatsha) Buthelezi, a cousin of the king, was elected as Chief Executive. The town of Nongoma was temporarily consolidated as the capital, pending completion of buildings at Ulundi. The 1970s also saw the revival of Inkatha, later the Inkatha Freedom Party (IFP), the ruling and sole party in the self-governing KwaZulu homeland. Led by Chief Minister Mangosutho Buthelezi, Inkatha worked within the NP governments system, but it opposed homeland independence, standing for a non-racial democracy, federalism, and free enterprise.
+
+Military prowess continued to be an important value in Zulu culture, and this emphasis fuelled some of the political violence of the 1990s. Buthelezi's nephew, Goodwill Zwelithini, was the Zulu monarch in the 1990s. Buthelezi and King Goodwill won the agreement of ANC negotiators just before the April 1994 elections that, with international mediation, the government would establish a special status for the Zulu Kingdom after the elections. Zulu leaders understood this special status to mean some degree of regional autonomy within the province of KwaZulu-Natal.
+
+Buthelezi was appointed minister of home affairs in the first Government of National Unity in 1994. He led a walkout of Zulu delegates from the National Assembly in early 1995 and clashed repeatedly with newly elected President Nelson (Rolihlahla) Mandela. Buthelezi threatened to abandon the Government of National Unity entirely unless his Zulu constituency received greater recognition and autonomy from central government control.

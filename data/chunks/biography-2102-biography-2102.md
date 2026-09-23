@@ -1,0 +1,3 @@
+# biography-2102
+
+The South African Institute of Race Relations (SAIRR) was established in 1929 as an organization geared towards conducting research on race relations. From 1933 the SAIRR wrote and published quarterly a Race Relations Journal. Articles were authored by political analysts, economists and sociologists, and focused on socio economic conditions of those who were marginalized by governing authorities. In 1936 published a monthly newsletter known as the RaceRelations news until 1991 when it changed its name to Fast Facts. The annual Race Relations Survey was published from 1947, through the years of the Apartheid government and continues to be published annually.

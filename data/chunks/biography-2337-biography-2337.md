@@ -1,0 +1,3 @@
+# biography-2337
+
+University of York students studying with Professor David Attwell and Professor Allison Drew have had the exciting experience of working collaboratively with South African History Online (SAHO). Students on the course ‘“Race”, nationhood and the literary imaginary in South Africa’ jointly taught by Professors Attwell and Drew benefited from productive Skype discussions with SAHO researcher Jeeva Rajgopaul. Those taking Professor Drew’s course on ‘Power and Democracy in South African Politics’ gained important insights into the research process from SAHO CEO Omar Badsha. Their essays are now part of SAHO’s literature, history and politics features.

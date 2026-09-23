@@ -1,0 +1,6 @@
+# biography-2151
+
+By late February 1973, the spread of the strikes was the most significant development since Sharpeville and the turn to armed struggle.&nbsp; The striking workers and their demand for a living wage received much support from the general public.
+The GWIU and the GFWBF was able to garner support from a network of political organisations and institutions ranging from student groups (NUSAS and SASO), the Natal Indian Congress (NIC), the head of the KwaZulu Territorial Authority led by Chief Mangosuthu G. Buthelezi, the Coloured Labour Party,Black Sash, and the South African Institute of Race Relations (SAIRR).
+NIC and SASO activists distributed thousands of pamphlets in support of the strike and the workers&rsquo; demandsfor higher wages and their right to form unions. Leading members of the underground ANC structures, led by former political prisoners, principally Harry Gwala, also played a major role in the Pietermaritzburg region.&nbsp; They advised workers to join the GFWBF and later the new unions.
+The Black Sash from Durban and Pietermaritzburg set up an Advice Office in Bolton Hall to help the GFWBF with administrative work, intervening on behalf of dismissed workers to get companies to pay their outstanding wages and return their Unemployment Cards.&nbsp;

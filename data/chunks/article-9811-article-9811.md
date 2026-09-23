@@ -1,0 +1,16 @@
+# article-9811
+
+Michael Halton Cheadle was born on 30 July 1949. He received a BA Honours and BProc from UNISA. Cheadle then completed a Bachelor of Law from Witwatersrand University.
+In April/May 1972, Cheadle, along with David Hemson, David Davies, Foszia Fisher and Karel Tip established the General Factory Workers Benefit Fund (GFWBF). The organisation worked closely with Harriet Bolton of the Trade Union Council of South Africa (TUCSA) and Norman Daniels of the registered trade unions. The aim of GFWBF was to provide the basis for worker organisations by making workers aware for their rights through its in-house newspaper, Isisebenzi, and by making representations to Wage Boards for new skilled worker determinations.(Sithole and Ndlovu, 2006: 202)
+Cheadle and Hemson also became actively involved in the organisation of workers in Durban. They assisted in expanding the African Textile Workers Industrial Union (A-TWIU) and forming new unions in sectors where none existed. Cheadle was also elected acting secretary of A-TWIU. Late in 1972, when Hemson moved to Johannesburg, Cheadle took over his position as an organiser of the A-TWIU and TWIU.
+On 26 September 1973 Cheadle addressed the inaugural meeting of the newly established National Union of Textile Workers (NUTW). Cheadle was elected Natal organising secretary of NUTW. In January 1974 Cheadle addressed a gathering of 6000 workers at the Clermont stadium in Durban. In the same year Cheadle was placed under a five year banning order. In 1987 Cheadle travelled to the United States of America to take part in a two-semester ‘sabbatical’ at Yale Law School.
+Due to his involvement with labour law and activism, Cheadle was appointed to various commissions of enquiry and government delegations such as the ad hoc committee on the Bill of Rights. Between 1992 and 1994 Cheadle was an Independent Legal Expert with National Manpower Communications. Cheadle was also appointed special advisor to the Minister of Labour and was the principal architect of the 1995 Labour Relations Act.
+In March 1999 Cheadle was involved in establishing the Resolve Group, which provides a suite of human resources and labour relations services. He is now an Executive Director at the company. Cheadle was also a Professor of Labour Law at the University of Cape Town’s Law Faculty and acted as a Judge in the Labour Court and the Eastern Cape Division of the High Court. He also was the Deputy Director of the Centre for Applied Legal Studies at Wits.
+Cheadle is currently the Director of Cheadle Thompson and Haysom Attorneys. He was recently appointed to the International Labour Organisation’s (ILO) Committee of Experts on the Application of Conventions and Recommendations. He continues to assist in the drafting of legislation for a number of South African departments and other countries.
+Cheadle has also authored a number of books:
+- The Complete Guide to Wage Regulating Measures (1979 with Louise Silver)
+- The New Labour Relations Act(1989 with Edwin Cameron and Clive Thompson)
+- Fundamental Rights in the New Constitution(1997 with Dennis Davis and Nicholas
+- Haysom)
+- Current Labour Law (2000)
+- South African Constitutional Law: the Bill of Rights(2002 with Dennis Davis and Nicholas Haysom)

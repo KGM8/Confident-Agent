@@ -1,0 +1,3 @@
+# biography-1505
+
+I was born and bred in Sharpeville. As if that is not enough I am enrolled at VUT a tertiary institution which is only 30 minutes away from Sharpeville. As a photography student, my immediate subject of choice became my community. Given its rich history, Sharpeville offers picturesque scenes such that I have been awarded the South African prestigious Fujifilm silver certificate in the student portfolios category. My area of interest is social concern photography which deals with the uplifting of communities whilst at the same time it seeks to stick to the aesthetics of photography.

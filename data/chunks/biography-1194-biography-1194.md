@@ -1,0 +1,3 @@
+# biography-1194
+
+Blue Crane Anthropoides paradisiaThe elegant Blue Crane stands about one meter high. It is a light blue-grey, has a long neck supporting a rather bulbous head, long legs and elegant wing plumes which sweep to the ground. Blue Cranes lay their eggs in the bare veld, often close to water. They are quite common in the Karoo, but are also seen in the grasslands of KwaZulu-Natal and the highveld, usually in pairs or small family parties. It grazes in the field and eats seeds, insects and small reptiles. The Blue Crane has a distinctive rattling croak: "kraaaarrrk", which is fairly high-pitched. This call can be heard from far away. &nbsp;

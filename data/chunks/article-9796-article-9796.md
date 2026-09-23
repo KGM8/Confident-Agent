@@ -1,0 +1,8 @@
+# article-9796
+
+Jack Monamudi Matsepe’s banishment appears to be linked to the Maleuskop between Groblersdal [Limpopo Province] and Middelburg [Mpumalanga] to Tafelkop relocation and conflict*. His banishment documentation noted thatthere wasconsiderable unreston thefarm Tafelkop in the Groblersdal District, which was believed to be initiated by ‘leftist elements.’ It had already led to the death of Lucas Scott, a ‘Bantu Information Assistant’ in the Department of Information.
+Matsepe was suspected of playing a leading role in the unrest, and although he had no traditional position, he was very influential because of an intimate relationship with the chief.
+The Cape Times reported that Scott had shot two men and as a consequence, a large section of the community had attacked him. Fourteen people, including women, were charged, but were all acquitted. Scott apparently ‘played a major part in negotiations with the authorities when it was decided”¦that the group should be moved’ from Groblersdal to another part of the district. He subsequently failed to allocate land for ploughing, causing many people to miss a harvest, whilst he allocated land to himself, impounded cattle, and ‘assumed the rights of a chief.’
+Matsepe was banished from the Groblersdal district to Qhudeni, Nkandhla district of Natal [KwaZulu-Natal] on 25 January 1964.
+Jack Monamudi Matsepe’s banishment order was withdrawn in 1967.
+*In 1962, people from a ‘swartkol’ (‘black spot’), Maleuskop, between Groblersdal [Limpopo Province] and Middelburg [Mpumalanga] were removed and relocated at Tafelkop, 19km from Groblersdal.

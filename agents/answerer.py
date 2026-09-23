@@ -22,7 +22,7 @@ SYSTEM_PROMPT = (
 def _format_context(chunks: List[RetrievedChunk]) -> str:
     lines = []
     for i, rc in enumerate(chunks, start=1):
-        lines.append(f"[{i}] ({rc.chunk.id}) {rc.chunk.text.strip()[:800]}")
+        lines.append(f"[{i}] ({rc.chunk.id}) {rc.chunk.text.strip()[:4000]}") #Initally 800 
     return "\n\n".join(lines)
 
 

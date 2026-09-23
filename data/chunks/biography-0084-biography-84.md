@@ -1,0 +1,3 @@
+# biography-84
+
+In the early hours of the morning of 16 December 1838, a battle was fought between the Voortrekkers, under the leadership of Andries Pretorius, and the AmaZulu warriors near the Ncome (Buffalo) River. Dingane was the King of the Zulu's at the time and most historians site that his army was led by King Dingane’s generals Dambuza (Nzobo) and Ndlela kaSompisi. The AmaZulu suffered heavy fatalities, losing more than 3000 men, while the Voortrekkers reportedly suffered only three non-fatal injuries. The Ncome River became red with the blood of the slain. Hence the river became known as "Blood River".

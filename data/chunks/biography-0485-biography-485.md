@@ -1,0 +1,3 @@
+# biography-485
+
+The NCAW was established in 1933 by a group of women in Kimberley. It amalgamated a number of smaller welfare groups countrywide that had formed to improve social conditions for Africans. It apparently absorbed the Bantu Women&#39;s League (BWL) and Charlotte Maxeke, who had headed the BWL, became the first president of the NCAW. It was not a highly politicized body and restricted its efforts mainly to social issues. It cooperated fairly extensively with the white liberals of the Joint Councils Movement and this drew criticism from the more radical black organizations and individuals like Josie Palmer of the CPSA. The movement was probably disbanded during the war years.

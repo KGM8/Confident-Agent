@@ -1,0 +1,4 @@
+# biography-1254
+
+Cecile was born into a family with American, Italian, French and Mexican influences in Montpellier, in the south of France in 1983. After studying literature, history and philosophy, she switched to film studies and finally decided to settle with photography, as the medium offered her more latitude and independence to travel document and tell people&rsquo;s stories. Through correspondence studies she was able to travel to Mexico, Burkina Faso, and to discover London.
+	While pursuing a Masters Degree in Photojournalism Studies at the University of Westminster in Great Britain working as a freelance photographer and as assistant photographer. She recently moved to Cape Town, South Africa to carry on personal projects while assisting Per-Anders Pettersson. Publications include The Sunday Times, The Guardian Monthly, The Times Travel, Arise, Monocle, Horizons, The Big Issue, Wanderlust, Time Out, TNT, Lip, Blackpool, Wordsect, Wound etc.

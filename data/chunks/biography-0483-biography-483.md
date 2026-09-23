@@ -1,0 +1,16 @@
+# biography-483
+
+Primary and Secondary Education 
+Rhulani crèche and classroom. Northern Province. &copy; Omar Badsha
+The biggest challenge the first post-apartheid government was faced with, was the transforming of school grounds from political battlegrounds into institutions of learning and combining the previously racially divided educational departments into one national system. In 1993, President FW de Klerk established the Education Co-ordination Service to manage education during the political transition of the 1990s, charging it with the task of eliminating the duplication inherited from the apartheid system. In January 1995, all government-run primary and secondary schools were officially integrated, and the first stage of the transformation in education had begun.
+Eleven years into the new democratic South Africa with its reformed educational policy, certain issues that need addressing are emerging.
+Although more children have access to formal education, the quality of the education varies greatly, often because of gender inequality. A very worrying issue is that of sexual abuse against girls by male teachers and boy students.
+This places girls and their education and development at a disadvantaged position as they often have to relocate to another school, or hide the fact that they were abused for fear of victimisation. Apart from the negative impact this has on the girls&#39; academic performance, they are at risk from contracting STD&#39;s and falling pregnant.
+It is interesting to note that, despite this, and the fact that the primary school enrollment figure for boys is higher than that of girls, more girls matriculate than boys.
+Higher Education 
+Women students have been the majority at universities since 1995, but remain a minority in technikons. Although there has since been an increase in women entering vocational fields, they remain under-represented in certain areas - for example science and technology. Women are also under-represented in the higher qualification levels such as Master&#39;s and Doctoral levels.
+Despite more women entering into teaching at higher education institutions, women are still under-represented in the higher ranks of faculty, and in fields of study other than those traditionally associated with women.
+Women in the workplace 
+South Africa has made huge progress towards achieving gender equality in the workplace. It seems that Government and state-owned enterprises are taking the lead, with the private sector following suit. As mentioned earlier, women still remain under-represented in certain fields such as science and technology.
+Surveys have also shown that, despite an increase in the representivity of women on Boards and in key executive and leadership positions, they are still under-represented in these management levels. A very encouraging fact is that South Africa has the third highest proportion of companies with women in senior management in the world, according to the Grant Thornton International Business Owners Survey of 2004. It also reports that South Africa is in the eighth position globally of percentage of women in senior management posts.
+In conclusion one can say that while South Africa still has a long way to go, it is well on the way to leading the world in workplace gender equality.
