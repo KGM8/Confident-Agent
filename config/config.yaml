@@ -1,0 +1,28 @@
+# Confident Agent configuration
+
+llm:
+  # LM Studio local server (OpenAI-compatible). Change base_url if you're using
+  # something else (Ollama, a hosted endpoint, etc).
+  base_url: "http://localhost:1234/v1"
+  api_key: "not-needed"          # LM Studio ignores this, but the client requires a value
+  model: "llama-2-7b-chat"       # must match the model name loaded in LM Studio
+  temperature: 0.2               # lower than baseline's 0.7 — we want grounded, not creative
+  max_tokens_answer: 200
+  max_tokens_critic: 120
+  max_tokens_mcq: 10
+
+retrieval:
+  chunks_dir: "data/chunks"
+  top_k: 4
+  good_retrieval_threshold: 0.15   # min top-1 cosine similarity to count as "GOOD"
+  max_reformulations: 1
+
+critic:
+  max_revisions: 1
+
+confidence:
+  # weights for combining signals into a single 0-1 confidence score
+  weight_retrieval: 0.4
+  weight_critic: 0.5
+  weight_revision_penalty: 0.1
+  abstain_threshold: 0.5   # below this, the agent abstains instead of answering
