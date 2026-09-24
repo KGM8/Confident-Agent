@@ -30,7 +30,7 @@ CONFIDENCE CALCULATOR (combines retrieval score + critic verdict + revision coun
 FINAL RESPONSE + CITATIONS + CONFIDENCE  (ANSWER or ABSTAIN)
 ```
 
-### One deliberate change from the ChatGPT-drawn version
+### One deliberate change from the Initial architecture version
 
 The original diagram implies the Query Analyser is its own agent (i.e. its own LLM
 call). I implemented it as a **cheap rule-based step** (strip question words, pull
