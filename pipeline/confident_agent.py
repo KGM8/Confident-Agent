@@ -105,7 +105,8 @@ class ConfidentAgent:
             if predicted_letter is None:
                 conf.decision = "ABSTAIN"
 
-        citations = [rc.chunk.id for rc in retrieval.chunks]
+        # citations = [rc.chunk.id for rc in retrieval.chunks]
+        citations = sorted(set(rc.chunk.source_id for rc in retrieval.chunks))
 
         return AgentResponse(
             question=question, answer=answer_text, predicted_letter=predicted_letter,

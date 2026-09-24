@@ -11,6 +11,7 @@ rest of the pipeline depends on.
 """
 import json
 import os
+import re
 from dataclasses import dataclass
 from typing import List
 
@@ -21,9 +22,62 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 @dataclass
 class Chunk:
-    id: str
+    id: str            # unique sub-chunk id, e.g. "biography-0102-biography-102#3"
+    source_id: str      # original document id — this is what citations use
     text: str
 
+
+def _split_into_subchunks(text: str, max_chars: int = 900) -> List[str]:
+    """
+    Splits a long document into paragraph-sized pieces (~max_chars each) so
+    every piece is small enough to hand an LLM in full, with no truncation
+    guesswork about where the relevant sentence might land. Splits on blank
+    lines first; if a single paragraph is still too long, splits at sentence
+    boundaries (never mid-sentence) so a fact never gets orphaned across a
+    chunk boundary the way whole-document truncation used to.
+    """
+    paragraphs = [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
+    if not paragraphs:
+        paragraphs = [text] if text.strip() else []
+
+    def split_long_paragraph(p: str) -> List[str]:
+        sentences = re.split(r"(?<=[.!?])\s+", p)
+        pieces, cur = [], ""
+        for s in sentences:
+            if len(s) > max_chars:
+                if cur:
+                    pieces.append(cur)
+                    cur = ""
+                for start in range(0, len(s), max_chars):
+                    pieces.append(s[start:start + max_chars])
+                continue
+            if len(cur) + len(s) + 1 <= max_chars:
+                cur = (cur + " " + s).strip()
+            else:
+                if cur:
+                    pieces.append(cur)
+                cur = s
+        if cur:
+            pieces.append(cur)
+        return pieces
+
+    subchunks, current = [], ""
+    for p in paragraphs:
+        if len(p) > max_chars:
+            if current:
+                subchunks.append(current)
+                current = ""
+            subchunks.extend(split_long_paragraph(p))
+            continue
+        if len(current) + len(p) + 1 <= max_chars:
+            current = (current + "\n" + p).strip()
+        else:
+            if current:
+                subchunks.append(current)
+            current = p
+    if current:
+        subchunks.append(current)
+    return subchunks
 
 @dataclass
 class RetrievedChunk:
@@ -50,7 +104,8 @@ class VectorStore:
                     if not line:
                         continue
                     obj = json.loads(line)
-                    chunks.append(Chunk(id=obj["id"], text=obj["text"]))
+                    for i, sub in enumerate(_split_into_subchunks(obj["text"])):
+                        chunks.append(Chunk(id=f"{obj['id']}#{i}", source_id=obj["id"], text=sub))
             return chunks
 
         chunks = []
@@ -60,8 +115,9 @@ class VectorStore:
                     path = os.path.join(self.chunks_dir, fname)
                     with open(path, "r", encoding="utf-8", errors="ignore") as f:
                         text = f.read()
-                    chunk_id = os.path.splitext(fname)[0]
-                    chunks.append(Chunk(id=chunk_id, text=text))
+                    doc_id = os.path.splitext(fname)[0]
+                    for i, sub in enumerate(_split_into_subchunks(text)):
+                        chunks.append(Chunk(id=f"{doc_id}#{i}", source_id=doc_id, text=sub))
         return chunks
 
     def _build_index(self):
