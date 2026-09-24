@@ -97,9 +97,9 @@ python -m evaluation.metrics results/mcq_agent_results.jsonl --type mcq
 python -m evaluation.metrics results/open_agent_results.jsonl --type open
 ```
 
-## About your existing MCQ benchmark file
+## About the existing MCQ benchmark file
 
-Heads up (separate from this build): `benchmark_300.jsonl` / `mcq_benchmark_300.jsonl`
+separate from this build: `benchmark_300.jsonl` / `mcq_benchmark_300.jsonl`
 has 286/300 gold answers = "A", and your baseline parser silently defaulted
 unparseable model output to "A" too — together they made the reported 82.3% baseline
 meaningless (a same-questions "always guess A" strategy scores 95.3%). I've included
