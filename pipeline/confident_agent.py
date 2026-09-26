@@ -16,6 +16,28 @@ from agents.judge import calculate_confidence, ConfidenceResult
 _MCQ_LETTER_RE = re.compile(r"^\s*[\W_]*([A-Da-d])[\W_]*\s*$")
 
 
+def _parse_mcq_answer(answer_text: str, mcq_choices: Dict[str, str]) -> Optional[str]:
+    """
+    Resolves a raw MCQ answer to a letter. Tries a strict letter-only match
+    first; if that fails, falls back to matching the raw output against the
+    actual option CONTENT, since weak local models frequently answer with an
+    option's content instead of its letter label despite instructions.
+    """
+    m = _MCQ_LETTER_RE.match(answer_text.strip())
+    if m:
+        return m.group(1).upper()
+    normalized = answer_text.strip().lower().rstrip(". ")
+    exact = [letter for letter, text in mcq_choices.items()
+             if text.strip().lower() == normalized]
+    if exact:
+        return exact[0]
+    contains = [letter for letter, text in mcq_choices.items()
+                if len(text.strip()) >= 3 and text.strip().lower() in normalized]
+    if len(contains) == 1:
+        return contains[0]
+    return None
+
+
 @dataclass
 class AgentResponse:
     question: str
@@ -68,18 +90,31 @@ class ConfidentAgent:
             temperature=llm_cfg["temperature"], max_tokens=max_tokens,
         )
 
-        # 3. Critic Agent (+ revision loop). Two independent checks run every
-        # time: the LLM critic, and a deterministic year-grounding check that
-        # can't hallucinate the way the LLM critic can (see the Sheila Cussons
-        # case — the critic confidently PASSed a citation to a year that
-        # appeared in none of the retrieved text). If they disagree, the
-        # deterministic check wins.
+        # 3. Critic Agent (+ revision loop). For MCQ, the critic needs to see
+        # the actual OPTION TEXT, not a bare letter — a critic asked to verify
+        # "D" against source excerpts has no idea what "D" refers to and can
+        # only guess. Resolve the letter first and build a critic-readable
+        # version of the answer.
+        def critic_input(text):
+            if not mcq_choices:
+                return text
+            letter = _parse_mcq_answer(text, mcq_choices)
+            if letter:
+                return f"{letter}: {mcq_choices[letter]}"
+            return text  # unparseable — let the critic (and grounding check) fail it honestly
+
+        # Two independent checks run every time: the LLM critic, and a
+        # deterministic year-grounding check that can't hallucinate the way
+        # the LLM critic can (see the Sheila Cussons case — the critic
+        # confidently PASSed a citation to a year that appeared in none of
+        # the retrieved text). If they disagree, the deterministic check wins.
         def run_critic(text):
+            checkable_text = critic_input(text)
             llm_verdict, llm_reason = critique_answer(
-                self.llm, question, retrieval.chunks, text,
+                self.llm, question, retrieval.chunks, checkable_text,
                 max_tokens=llm_cfg["max_tokens_critic"],
             )
-            ungrounded = find_ungrounded_years(text, retrieval.chunks)
+            ungrounded = find_ungrounded_years(checkable_text, retrieval.chunks)
             if ungrounded:
                 return "FAIL", (
                     f"{llm_reason} [Overridden: deterministic grounding check "
@@ -119,31 +154,12 @@ class ConfidentAgent:
         # reporting on the final answer that was actually returned.
         ungrounded_years = find_ungrounded_years(answer_text, retrieval.chunks)
 
-        predicted_letter = None
-        if mcq_choices:
-            m = _MCQ_LETTER_RE.match(answer_text.strip())
-            if m:
-                predicted_letter = m.group(1).upper()
-            else:
-                # Recovery: local models frequently answer with the option's
-                # actual CONTENT instead of its letter label, despite explicit
-                # instructions (e.g. answering "1984" instead of "D"). If the
-                # output exactly matches, or clearly contains, exactly one
-                # option's text, credit that as the answer rather than
-                # discarding a response that got the content right.
-                normalized = answer_text.strip().lower().rstrip(". ")
-                exact = [letter for letter, text in mcq_choices.items()
-                         if text.strip().lower() == normalized]
-                if exact:
-                    predicted_letter = exact[0]
-                else:
-                    contains = [letter for letter, text in mcq_choices.items()
-                                if len(text.strip()) >= 3
-                                and text.strip().lower() in normalized]
-                    if len(contains) == 1:
-                        predicted_letter = contains[0]
-            if predicted_letter is None:
-                conf.decision = "ABSTAIN"
+        predicted_letter = _parse_mcq_answer(answer_text, mcq_choices) if mcq_choices else None
+        if mcq_choices and predicted_letter is None:
+            # Still nothing usable is a genuine NO-ANSWER, not a silent
+            # default — this is exactly the bug found in the baseline's own
+            # evaluation script.
+            conf.decision = "ABSTAIN"
 
         citations = sorted(set(rc.chunk.source_id for rc in retrieval.chunks))
 

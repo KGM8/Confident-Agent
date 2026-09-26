@@ -29,6 +29,7 @@ SYSTEM_PROMPT = (
     "Do not combine NOT_FOUND_IN_CONTEXT with an answer or citations."
 )
 
+
 MCQ_SYSTEM_PROMPT = (
     "You are a factual question-answering assistant for South African history. "
     "You are shown numbered source excerpts and a multiple-choice question. "

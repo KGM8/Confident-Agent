@@ -77,6 +77,33 @@ def test_ungrounded_answer_triggers_revision_then_abstain():
         print("PASS: ungrounded answer -> revision -> still FAIL -> ABSTAIN")
 
 
+def test_mcq_critic_receives_option_text_not_bare_letter():
+    with tempfile.TemporaryDirectory() as tmpdir:
+        store = build_demo_store(tmpdir)
+        retriever = Retriever(store, top_k=2, good_threshold=0.05, max_reformulations=1)
+        llm = FakeLLMClient(responses=[
+            "A",  # answerer picks the letter directly
+            "VERDICT: PASS\nThe excerpt confirms 1850.",  # critic
+        ])
+        agent = ConfidentAgent(llm, retriever, DEFAULT_CFG)
+
+        resp = agent.answer(
+            "In what year was Zorgon City founded?",
+            mcq_choices={"A": "1850", "B": "1900", "C": "1901", "D": "1972"},
+        )
+        # The critic call is the 2nd LLM call — check it actually received the
+        # resolved option text, not a bare, meaningless "A".
+        critic_call_user_prompt = llm.calls[1]["user"]
+        assert "1850" in critic_call_user_prompt, (
+            "Critic was given the bare letter instead of the resolved option "
+            "text — this was the real bug behind the MCQ 0% answer rate."
+        )
+        assert resp.predicted_letter == "A"
+        assert resp.critic_verdict == "PASS"
+        assert resp.decision == "ANSWER"
+        print("PASS: MCQ critic receives resolved option text, enabling real verification")
+
+
 def test_empty_corpus_abstains_immediately():
     with tempfile.TemporaryDirectory() as tmpdir:
         store = VectorStore(tmpdir)  # empty dir
@@ -156,6 +183,7 @@ def test_fabricated_year_overrides_critic_pass():
 if __name__ == "__main__":
     test_grounded_answer_passes_and_is_confident()
     test_ungrounded_answer_triggers_revision_then_abstain()
+    test_mcq_critic_receives_option_text_not_bare_letter()
     test_empty_corpus_abstains_immediately()
     test_mcq_unparseable_output_abstains_not_defaults_to_a()
     test_conflict_verdict_reports_disagreement_no_wasted_revision()

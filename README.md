@@ -30,7 +30,7 @@ CONFIDENCE CALCULATOR (combines retrieval score + critic verdict + revision coun
 FINAL RESPONSE + CITATIONS + CONFIDENCE  (ANSWER or ABSTAIN)
 ```
 
-### One deliberate change from the Initial architecture version
+### One deliberate change from the ChatGPT-drawn version
 
 The original diagram implies the Query Analyser is its own agent (i.e. its own LLM
 call). I implemented it as a **cheap rule-based step** (strip question words, pull
@@ -97,9 +97,9 @@ python -m evaluation.metrics results/mcq_agent_results.jsonl --type mcq
 python -m evaluation.metrics results/open_agent_results.jsonl --type open
 ```
 
-## About the existing MCQ benchmark file
+## About your existing MCQ benchmark file
 
-separate from this build: `benchmark_300.jsonl` / `mcq_benchmark_300.jsonl`
+Heads up (separate from this build): `benchmark_300.jsonl` / `mcq_benchmark_300.jsonl`
 has 286/300 gold answers = "A", and your baseline parser silently defaulted
 unparseable model output to "A" too — together they made the reported 82.3% baseline
 meaningless (a same-questions "always guess A" strategy scores 95.3%). I've included
