@@ -109,9 +109,55 @@ def test_mcq_unparseable_output_abstains_not_defaults_to_a():
         print("PASS: unparseable MCQ output -> abstain, not silently scored as A")
 
 
+def test_conflict_verdict_reports_disagreement_no_wasted_revision():
+    with tempfile.TemporaryDirectory() as tmpdir:
+        store = build_demo_store(tmpdir)
+        retriever = Retriever(store, top_k=2, good_threshold=0.05, max_reformulations=1)
+        llm = FakeLLMClient(responses=[
+            "Sources disagree: [SRC:2] states 1932; [SRC:1] states 1850.",  # answerer
+            "VERDICT: CONFLICT\nDifferent excerpts genuinely give different years.",  # critic
+        ])
+        agent = ConfidentAgent(llm, retriever, DEFAULT_CFG)
+
+        resp = agent.answer("In what year was it built?")
+        assert resp.critic_verdict == "CONFLICT"
+        assert resp.revision_count == 0          # no wasted retry on genuine conflict
+        assert "disagree" in resp.answer.lower()  # answer stays informative, not blank
+        assert resp.decision == "ABSTAIN"         # still no single confident answer
+        assert len(llm.calls) == 2                # answerer + critic only, no revision call
+        print("PASS: CONFLICT verdict -> informative answer, no wasted revision, ABSTAIN")
+
+
+def test_fabricated_year_overrides_critic_pass():
+    # Isolate the override behaviour itself: no revisions, so this tests just
+    # "critic wrongly PASSes a fabricated year -> deterministic check catches
+    # it anyway" without also exercising the (separately-tested) revision loop.
+    cfg_no_revision = {**DEFAULT_CFG, "critic": {"max_revisions": 0}}
+    with tempfile.TemporaryDirectory() as tmpdir:
+        store = build_demo_store(tmpdir)
+        retriever = Retriever(store, top_k=2, good_threshold=0.05, max_reformulations=1)
+        # Context only contains 1850 (Zorgon City founding). The answerer
+        # fabricates a second, nonexistent date, and — realistically — the
+        # critic (which can share the same hallucination) wrongly PASSes it.
+        llm = FakeLLMClient(responses=[
+            "Sources disagree: [SRC:1] states 1850; [SRC:2] states 1972.",  # fabricated 1972
+            "VERDICT: PASS\nBoth years are clearly attributed to their sources.",  # critic wrongly passes it
+        ])
+        agent = ConfidentAgent(llm, retriever, cfg_no_revision)
+
+        resp = agent.answer("In what year was Zorgon City founded?")
+        assert resp.critic_verdict == "FAIL"             # overridden from the critic's own (wrong) PASS
+        assert "1972" in resp.ungrounded_years           # deterministic check caught it anyway
+        assert "Overridden" in resp.critic_reason        # trail showing the critic was overruled
+        assert resp.decision == "ABSTAIN"  # this is what actually matters — never surfaced as a confident answer
+        print("PASS: fabricated year overrides a wrongly-PASSing critic -> ABSTAIN")
+
+
 if __name__ == "__main__":
     test_grounded_answer_passes_and_is_confident()
     test_ungrounded_answer_triggers_revision_then_abstain()
     test_empty_corpus_abstains_immediately()
     test_mcq_unparseable_output_abstains_not_defaults_to_a()
+    test_conflict_verdict_reports_disagreement_no_wasted_revision()
+    test_fabricated_year_overrides_critic_pass()
     print("\nAll smoke tests passed.")

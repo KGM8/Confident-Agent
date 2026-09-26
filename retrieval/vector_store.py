@@ -45,6 +45,8 @@ def _split_into_subchunks(text: str, max_chars: int = 900) -> List[str]:
         pieces, cur = [], ""
         for s in sentences:
             if len(s) > max_chars:
+                # a single "sentence" is itself too long (e.g. no punctuation) —
+                # only now fall back to a hard character split
                 if cur:
                     pieces.append(cur)
                     cur = ""
@@ -78,6 +80,7 @@ def _split_into_subchunks(text: str, max_chars: int = 900) -> List[str]:
     if current:
         subchunks.append(current)
     return subchunks
+
 
 @dataclass
 class RetrievedChunk:

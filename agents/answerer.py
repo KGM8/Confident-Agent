@@ -15,6 +15,9 @@ SYSTEM_PROMPT = (
     "use only the ones that actually answer it. "
     "You must answer ONLY using information found in these excerpts. "
     "Never use outside knowledge, even if you believe you know the answer. "
+    "Do NOT apologize, thank the user, explain your reasoning process, or use "
+    "any preamble whatsoever. Output ONLY the final answer itself, starting "
+    "immediately with the substance of the answer. "
     "If different excerpts give DIFFERENT answers to the same question (e.g. "
     "one says 1980, another says 1984), do NOT silently pick one. Instead say "
     "exactly which excerpts disagree and what each one says, e.g.: "
@@ -24,6 +27,20 @@ SYSTEM_PROMPT = (
     "Otherwise, give a short factual answer, then end it with the citation tag "
     "of the excerpt(s) you actually used, in the form [SRC:n]. "
     "Do not combine NOT_FOUND_IN_CONTEXT with an answer or citations."
+)
+
+MCQ_SYSTEM_PROMPT = (
+    "You are a factual question-answering assistant for South African history. "
+    "You are shown numbered source excerpts and a multiple-choice question. "
+    "Some excerpts may be irrelevant — ignore those. "
+    "Respond with ONLY the single letter (A, B, C, or D) of the option best "
+    "supported by the excerpts. No explanation, no punctuation, no other text. "
+    "If no option is clearly supported, respond with exactly: X\n\n"
+    "Example:\n"
+    "Question: In what year was the organisation founded?\n"
+    "Options:\nA. 1910\nB. 1902\nC. 1955\nD. 1994\n"
+    "(if the excerpts state it was founded in 1902)\n"
+    "Correct response: B"
 )
 
 
@@ -41,15 +58,11 @@ def generate_answer(llm, question: str, chunks: List[RetrievedChunk],
 
     if mcq_choices:
         choice_lines = "\n".join(f"{k}. {v}" for k, v in mcq_choices.items())
-        task = (
-            f"Question: {question}\n\nOptions:\n{choice_lines}\n\n"
-            "Answer with ONLY the single letter of the correct option "
-            "(A, B, C, or D), based strictly on the source excerpts. "
-            "If the excerpts don't support any option confidently, answer "
-            "NOT_FOUND_IN_CONTEXT instead of guessing."
-        )
+        task = f"Question: {question}\n\nOptions:\n{choice_lines}\n\nAnswer:"
+        system_prompt = MCQ_SYSTEM_PROMPT
     else:
         task = f"Question: {question}"
+        system_prompt = SYSTEM_PROMPT
 
     user_prompt = f"Source excerpts:\n{context}\n\n{task}"
     if feedback:
@@ -59,9 +72,9 @@ def generate_answer(llm, question: str, chunks: List[RetrievedChunk],
             "within the source excerpts."
         )
 
-    raw = llm.complete(SYSTEM_PROMPT, user_prompt, temperature=temperature,
+    raw = llm.complete(system_prompt, user_prompt, temperature=temperature,
                         max_tokens=max_tokens)
-    return _clean_answer(raw)
+    return raw if mcq_choices else _clean_answer(raw)
 
 
 def _clean_answer(raw: str) -> str:

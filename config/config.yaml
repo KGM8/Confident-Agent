@@ -7,9 +7,9 @@ llm:
   api_key: "not-needed"          # LM Studio ignores this, but the client requires a value
   model: "llama-2-7b-chat"       # must match the model name loaded in LM Studio
   temperature: 0.2               # lower than baseline's 0.7 — we want grounded, not creative
-  max_tokens_answer: 200
-  max_tokens_critic: 120
-  max_tokens_mcq: 10
+  max_tokens_answer: 350             # local models often burn tokens on preamble before the real answer
+  max_tokens_critic: 150
+  max_tokens_mcq: 20
 
 retrieval:
   chunks_dir: "data/chunks"

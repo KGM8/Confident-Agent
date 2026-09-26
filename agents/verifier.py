@@ -6,10 +6,30 @@ generated the answer, rather than asking the answerer to self-certify, since
 self-certification is weak evidence (a model that hallucinated the answer is
 not a reliable judge of its own hallucination).
 """
+import re
 from typing import List
 
 from retrieval.vector_store import RetrievedChunk
 from agents.answerer import _format_context
+
+_YEAR_RE = re.compile(r"\b(1[5-9]\d{2}|20\d{2})\b")
+
+
+def find_ungrounded_years(answer: str, chunks: List[RetrievedChunk]) -> List[str]:
+    """
+    Deterministic sanity check, no LLM involved: every 4-digit year the answer
+    states must appear verbatim somewhere in the retrieved excerpts. This
+    can't hallucinate the way an LLM critic can (see the Sheila Cussons case —
+    the critic accepted a fabricated "1984 and 1985" that appeared in none of
+    the retrieved text). Catches numeric hallucinations before they ever reach
+    the LLM critic.
+    """
+    years_in_answer = set(_YEAR_RE.findall(answer))
+    if not years_in_answer:
+        return []
+    corpus_text = " ".join(rc.chunk.text for rc in chunks)
+    return sorted(y for y in years_in_answer if y not in corpus_text)
+
 
 SYSTEM_PROMPT = (
     "You are a strict fact-checker. You will be shown several numbered source "
@@ -30,6 +50,7 @@ SYSTEM_PROMPT = (
     "excerpt, no excerpt addresses the question at all, or excerpts disagree "
     "but the answer picked one side without saying so."
 )
+
 
 def critique_answer(llm, question: str, chunks: List[RetrievedChunk],
                      answer: str, max_tokens: int = 120):
@@ -66,7 +87,6 @@ def critique_answer(llm, question: str, chunks: List[RetrievedChunk],
                              "different excerpts", "sources differ")
         if any(sig in reason_lower for sig in conflict_signals):
             verdict = "CONFLICT"
-    
     reason_lines = [l for l in raw.splitlines() if not l.strip().upper().startswith("VERDICT:")]
     if reason_lines:
         reason = " ".join(reason_lines).strip()
