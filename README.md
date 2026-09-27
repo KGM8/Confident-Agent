@@ -3,6 +3,10 @@
 Agent-based validation pipeline for reducing LLM hallucinations on South African
 history questions, built for COMP301 (Phase 4 — Design a Confident Agent).
 
+## Benchmark provenance
+
+**Benchmark provenance.** The original 300-question benchmark files (`benchmark_300.jsonl`, `open_benchmark_300.jsonl`) are preserved unmodified in `benchmark_provenance/`. During evaluation we identified that the MCQ file's gold answers were heavily skewed toward option A (95.3%), which would let a trivial always-guess-A strategy outperform genuine reasoning. `benchmark_300_options_rebalanced.jsonl` was produced from the original solely by reshuffling each question's A/B/C/D option order (and updating the gold letter to match) — question text and all four option contents are byte-for-byte identical to the original; only the position each option sits in was changed. This transformation is fully mechanical and reproducible via `tools/fix_mcq_bias.py`. `mcq_sample30.jsonl` and `open_sample30.jsonl` are a fixed, reproducible random 30-question sample (seed=42) drawn via `tools/sample_benchmark.py`, used for evaluation due to local compute constraints (see report §10).
+
 ## Architecture (as designed, one change explained below)
 
 ```
