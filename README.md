@@ -7,7 +7,7 @@ history questions, built for COMP301 (Phase 4 — Design a Confident Agent).
 
 **Benchmark provenance.** The original 300-question benchmark files (`benchmark_300.jsonl`, `open_benchmark_300.jsonl`) are preserved unmodified in `benchmark_provenance/`. During evaluation we identified that the MCQ file's gold answers were heavily skewed toward option A (95.3%), which would let a trivial always-guess-A strategy outperform genuine reasoning. `benchmark_300_options_rebalanced.jsonl` was produced from the original solely by reshuffling each question's A/B/C/D option order (and updating the gold letter to match) — question text and all four option contents are byte-for-byte identical to the original; only the position each option sits in was changed. This transformation is fully mechanical and reproducible via `tools/fix_mcq_bias.py`. `mcq_sample30.jsonl` and `open_sample30.jsonl` are a fixed, reproducible random 30-question sample (seed=42) drawn via `tools/sample_benchmark.py`, used for evaluation due to local compute constraints (see report §10).
 
-## Architecture (as designed, one change explained below)
+## Architecture 
 
 ```
 QUESTION
@@ -34,23 +34,6 @@ CONFIDENCE CALCULATOR (combines retrieval score + critic verdict + revision coun
 FINAL RESPONSE + CITATIONS + CONFIDENCE  (ANSWER or ABSTAIN)
 ```
 
-### One deliberate change from the initial drawn version
-
-The original diagram implies the Query Analyser is its own agent (i.e. its own LLM
-call). I implemented it as a **cheap rule-based step** (strip question words, pull
-capitalised terms/years as search terms) instead of a 6th LLM call per question.
-
-Why: you're running Llama-2-7B locally (per your baseline report) for 300+ questions,
-maybe more once you add MCQ + open-ended + retries. Every extra LLM call in the
-pipeline multiplies your total runtime and is a real engineering cost the brief
-explicitly wants you to acknowledge (§4.8, "computational cost, latency... should be
-acknowledged"). Query analysis is the one step that genuinely doesn't need an LLM to
-do a decent job, so cutting it there is the cheapest place to save calls without
-touching the parts that actually decide correctness/confidence. Worth a sentence in
-your report's Threats to Validity / trade-offs section.
-
-Everything else in the diagram (retrieval verifier, critic, confidence calculator,
-retry loops) is implemented as designed.
 
 ## What's real vs. what you need to plug in
 
