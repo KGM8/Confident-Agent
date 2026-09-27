@@ -1,0 +1,30 @@
+{"id": 3, "question": "Where was the landmark exhibition 'It's a New Day' held by Mnyele?", "gold": "C", "predicted": "D", "raw_output": "D", "correct": false}
+{"id": 12, "question": "Who was elected as the Secretary of External Affairs for the All African Convention (AAC) after leaving South Africa for New York?", "gold": "D", "predicted": "A", "raw_output": "Okay, here is the answer to the first", "correct": false}
+{"id": 13, "question": "How long did the strike mentioned in the passage last?", "gold": "C", "predicted": "A", "raw_output": "Okay, here is the answer to the first", "correct": false}
+{"id": 15, "question": "What did the author express a desire to become after returning from Israel?", "gold": "D", "predicted": "D", "raw_output": "D", "correct": true}
+{"id": 17, "question": "In what year was Dr. Alex Boraine's biography, 'A life in transition', published?", "gold": "D", "predicted": "A", "raw_output": "A. 2004", "correct": false}
+{"id": 45, "question": "What is the date of the article about Lennox Ndaba from South African History Online?", "gold": "B", "predicted": "A", "raw_output": "Okay, here is the answer to the first", "correct": false}
+{"id": 48, "question": "What is the date of the last access to the Winnie Zondi article on South African History Online?", "gold": "C", "predicted": "A", "raw_output": "A. 22 August 20", "correct": false}
+{"id": 51, "question": "What is the URL for the South African History Online article about Naphtali Bennun?", "gold": "A", "predicted": "A", "raw_output": "Okay, here are the answers to the questions", "correct": true}
+{"id": 57, "question": "When did the 1943/44 National Conference of the Communist Party of South Africa take place?", "gold": "A", "predicted": "A", "raw_output": "A", "correct": true}
+{"id": 71, "question": "What position did Grootboom take up at the South African State Theatre in 2002?", "gold": "C", "predicted": "D", "raw_output": "D", "correct": false}
+{"id": 79, "question": "What is the date of the last access to the Daniel Magiyane Mdhluli webpage on South African History Online?", "gold": "B", "predicted": "C", "raw_output": "C. 22 September 20", "correct": false}
+{"id": 81, "question": "On which date did MK bomb the SASOL complex, causing an estimated R66 Million in damages?", "gold": "A", "predicted": "A", "raw_output": "A", "correct": true}
+{"id": 101, "question": "Where did Penny Siopis's retrospective exhibition 'Time and Again' first open in 2014?", "gold": "B", "predicted": "D", "raw_output": "D", "correct": false}
+{"id": 110, "question": "What document, issued in 1941 by Churchill and Roosevelt, described the world they envisioned after WWII and was seen by African nationalists as a promise for freedom in Africa?", "gold": "C", "predicted": "C", "raw_output": "C", "correct": true}
+{"id": 111, "question": "When was the article 'Mkhwamubi Musk Gayinkani' published by South African History Online?", "gold": "A", "predicted": "A", "raw_output": "A", "correct": true}
+{"id": 112, "question": "What did the District Collector report about the Pakistani spies?", "gold": "B", "predicted": "A", "raw_output": "A", "correct": false}
+{"id": 115, "question": "Who became the Prime Minister of South Africa after the National Party won the 1948 elections?", "gold": "D", "predicted": "D", "raw_output": "D", "correct": true}
+{"id": 119, "question": "On what date did the African miners resolve to embark upon a general strike?", "gold": "D", "predicted": "A", "raw_output": "Okay, here is the answer to the first", "correct": false}
+{"id": 126, "question": "In what year was the Group Areas Act repealed?", "gold": "C", "predicted": "A", "raw_output": "A. 1990", "correct": false}
+{"id": 140, "question": "What is the date of the last access to the Motsoeneng Thabo reference on South African History Online?", "gold": "A", "predicted": "A", "raw_output": "Okay, here is the answer to the first", "correct": true}
+{"id": 141, "question": "In which year did Philemon Masinga represent South Africa in the first international game against Cameroon in Durban?", "gold": "A", "predicted": "D", "raw_output": "D. 1988", "correct": false}
+{"id": 172, "question": "What is the date of the last access to the Mabuyo Mdingi article on South African History Online?", "gold": "B", "predicted": "A", "raw_output": "A. 22 August 20", "correct": false}
+{"id": 173, "question": "What is the date of the South African History Online article about Alven Ntenie Bennie?", "gold": "B", "predicted": "A", "raw_output": "Okay, here is the answer to the first", "correct": false}
+{"id": 193, "question": "What is the URL for the reference to Mbongo Washington on South African History Online?", "gold": "D", "predicted": "A", "raw_output": "Okay, here is the answer to the first", "correct": false}
+{"id": 211, "question": "In 1890, what restriction did the Transvaal government, led by President Kruger, impose on Uitlanders?", "gold": "A", "predicted": "A", "raw_output": "Okay! Here is the answer to the question", "correct": true}
+{"id": 216, "question": "When was the article about Nomsa Mapongawana published on South African History Online?", "gold": "D", "predicted": "A", "raw_output": "Okay, here is the answer to the first", "correct": false}
+{"id": 229, "question": "What is the date of the article about Martin West on South African History Online?", "gold": "A", "predicted": "A", "raw_output": "Okay, here is the answer to the first", "correct": true}
+{"id": 259, "question": "According to the passage, what did sharecropping allow White landowners to do?", "gold": "A", "predicted": "A", "raw_output": "A", "correct": true}
+{"id": 279, "question": "Who convened the conference of African leaders in Bloemfontein to discuss the Hertzog Bills in 1935?", "gold": "B", "predicted": "A", "raw_output": "Okay! Here is the answer to the first", "correct": false}
+{"id": 287, "question": "What is the date of the South African History Online article about Morris Matsobane Matsemela?", "gold": "A", "predicted": "A", "raw_output": "A", "correct": true}
