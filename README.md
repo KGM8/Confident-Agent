@@ -35,7 +35,7 @@ FINAL RESPONSE + CITATIONS + CONFIDENCE  (ANSWER or ABSTAIN)
 ```
 
 
-## What's real vs. what you need to plug in
+## What's real vs. what needs to plug in
 
 - **Pipeline logic, retrieval, agents, evaluation harness, metrics: fully implemented
   and runnable.**
