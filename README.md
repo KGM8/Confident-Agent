@@ -59,9 +59,9 @@ FINAL RESPONSE + CITATIONS + CONFIDENCE  (ANSWER or ABSTAIN)
 pip install -r requirements.txt
 ```
 
-Start LM Studio, load your model, start the local server (default port 1234).
+Start LM Studio, load the model, start the local server (default port 1234).
 
-Drop your chunked SAHO documents into `data/chunks/` (one file per chunk, or a single
+Drop the chunked SAHO documents into `data/chunks/` (one file per chunk, or a single
 `chunks.jsonl` — see `data/chunks/README.md`).
 
 ## Running
@@ -87,11 +87,11 @@ python -m evaluation.metrics results/open_agent_results.jsonl --type open
 ## About the existing MCQ benchmark file
 
 These were separated from this build: `benchmark_300.jsonl` / `mcq_benchmark_300.jsonl`
-has 286/300 gold answers = "A", and your baseline parser silently defaulted
+has 286/300 gold answers = "A", and the baseline parser silently defaulted
 unparseable model output to "A" too — together they made the reported 82.3% baseline
 meaningless (a same-questions "always guess A" strategy scores 95.3%). I've included
 `tools/fix_mcq_bias.py`, which shuffles each question's option order (and updates the
 gold letter to match) without changing any question text or correct answer content —
 so it doesn't count as altering the benchmark's content, just de-biasing its format.
-Re-run your baseline on the fixed file before doing the Phase 5 comparison, or the
+Re-run the baseline on the fixed file before doing the Phase 5 comparison, or the
 agent-vs-baseline comparison will inherit the same flaw.
