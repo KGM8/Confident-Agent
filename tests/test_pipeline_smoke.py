@@ -180,6 +180,55 @@ def test_fabricated_year_overrides_critic_pass():
         print("PASS: fabricated year overrides a wrongly-PASSing critic -> ABSTAIN")
 
 
+def test_legacy_parser_misreads_prefixed_pass_and_robust_parser_does_not():
+    from agents.verifier import parse_verdict_legacy, parse_verdict_robust
+    prefixed_pass = ["\U0001F50D VERDICT: PASS\nSupported.", "**VERDICT: PASS**", "Sure! VERDICT: PASS",
+                     "\U0001F916 VERDICT: \u2705 PASS"]
+    for raw in prefixed_pass:
+        assert parse_verdict_legacy(raw)[0] == "FAIL", raw      # the documented defect
+        assert parse_verdict_robust(raw)[0] == "PASS", raw      # corrected
+    assert parse_verdict_legacy("VERDICT: PASS")[0] == "PASS"
+    assert parse_verdict_robust("VERDICT: PASS") == ("PASS", "strict")
+    assert parse_verdict_robust("\U0001F6AB VERDICT: FAIL \U0001F4A5")[0] == "FAIL"
+    assert parse_verdict_robust("\U0001F914 VERDICT: CONFLICT")[0] == "CONFLICT"
+    # robust mode refuses to guess:
+    assert parse_verdict_robust("VERDICT: PASS or FAIL") == ("UNPARSEABLE", "ambiguous")
+    assert parse_verdict_robust("I think the answer looks fine.") == ("UNPARSEABLE", "unparseable")
+    # ...and does NOT turn a bare mention of 'disagree' into CONFLICT (legacy keyword guess):
+    assert parse_verdict_robust("Not sure, the sources disagree")[0] == "UNPARSEABLE"
+    assert parse_verdict_legacy("Not sure, the sources disagree")[0] == "CONFLICT"
+    print("PASS: legacy parser misreads prefixed PASS; robust parser reads it and never guesses")
+
+
+def test_pipeline_releases_prefixed_pass_only_in_robust_mode():
+    with tempfile.TemporaryDirectory() as tmpdir:
+        store = build_demo_store(tmpdir)
+        retriever = Retriever(store, top_k=2, good_threshold=0.05, max_reformulations=1)
+        results = {}
+        for mode in ("legacy", "robust"):
+            cfg = {**DEFAULT_CFG, "critic": {"max_revisions": 0, "parse_mode": mode}}
+            llm = FakeLLMClient(responses=["Zorgon City was founded in 1850. [SRC:1]",
+                                           "\U0001F50D VERDICT: PASS\nThe excerpt states 1850."])
+            resp = ConfidentAgent(llm, retriever, cfg).answer("In what year was Zorgon City founded?")
+            results[mode] = resp
+        assert results["legacy"].decision == "ABSTAIN" and results["legacy"].critic_verdict == "FAIL"
+        assert results["robust"].decision == "ANSWER" and results["robust"].critic_verdict == "PASS"
+        assert results["robust"].critic_parse_status == "tolerant"
+        assert "VERDICT: PASS" in results["robust"].critic_raw       # raw critic text is now logged
+        print("PASS: same critic reply -> ABSTAIN in legacy mode, ANSWER in robust mode, raw text logged")
+
+
+def test_robust_mode_unparseable_critic_is_withheld_and_flagged():
+    with tempfile.TemporaryDirectory() as tmpdir:
+        store = build_demo_store(tmpdir)
+        retriever = Retriever(store, top_k=2, good_threshold=0.05, max_reformulations=1)
+        cfg = {**DEFAULT_CFG, "critic": {"max_revisions": 0, "parse_mode": "robust"}}
+        llm = FakeLLMClient(responses=["Zorgon City was founded in 1850. [SRC:1]", "Looks fine to me!"])
+        resp = ConfidentAgent(llm, retriever, cfg).answer("In what year was Zorgon City founded?")
+        assert resp.decision == "ABSTAIN" and resp.critic_parse_status == "unparseable"
+        print("PASS: unparseable critic reply is never released and is flagged, not silently called FAIL")
+
+
 if __name__ == "__main__":
     test_grounded_answer_passes_and_is_confident()
     test_ungrounded_answer_triggers_revision_then_abstain()
@@ -188,4 +237,7 @@ if __name__ == "__main__":
     test_mcq_unparseable_output_abstains_not_defaults_to_a()
     test_conflict_verdict_reports_disagreement_no_wasted_revision()
     test_fabricated_year_overrides_critic_pass()
+    test_legacy_parser_misreads_prefixed_pass_and_robust_parser_does_not()
+    test_pipeline_releases_prefixed_pass_only_in_robust_mode()
+    test_robust_mode_unparseable_critic_is_withheld_and_flagged()
     print("\nAll smoke tests passed.")

@@ -10,7 +10,7 @@ from typing import Optional, Dict
 
 from retrieval.retriever import Retriever
 from agents.answerer import generate_answer
-from agents.verifier import critique_answer, find_ungrounded_years
+from agents.verifier import critique_answer_detailed, find_ungrounded_years
 from agents.judge import calculate_confidence, ConfidenceResult
 
 _MCQ_LETTER_RE = re.compile(r"^\s*[\W_]*([A-Da-d])[\W_]*\s*$")
@@ -53,6 +53,8 @@ class AgentResponse:
     retrieval_query_used: str
     ungrounded_years: list = field(default_factory=list)
     no_context: bool = False
+    critic_raw: str = ""            # raw text of the last critic call (logged so verdicts can be audited)
+    critic_parse_status: str = ""   # how the verdict was read from critic_raw
 
 
 class ConfidentAgent:
@@ -108,12 +110,21 @@ class ConfidentAgent:
         # the LLM critic can (see the Sheila Cussons case — the critic
         # confidently PASSed a citation to a year that appeared in none of
         # the retrieved text). If they disagree, the deterministic check wins.
+        parse_mode = critic_cfg.get("parse_mode", "legacy")   # "legacy" = original condition, "robust" = corrected
+        trace = {"raw": "", "status": ""}
+
         def run_critic(text):
             checkable_text = critic_input(text)
-            llm_verdict, llm_reason = critique_answer(
+            detail = critique_answer_detailed(
                 self.llm, question, retrieval.chunks, checkable_text,
-                max_tokens=llm_cfg["max_tokens_critic"],
+                max_tokens=llm_cfg["max_tokens_critic"], parse_mode=parse_mode,
             )
+            llm_verdict, llm_reason = detail["verdict"], detail["reason"]
+            trace["raw"], trace["status"] = detail["raw"], detail["parse_status"]
+            if llm_verdict == "UNPARSEABLE":
+                # never released, but recorded as unparseable rather than silently called a FAIL
+                llm_verdict = "FAIL"
+                llm_reason = "[critic reply could not be parsed] " + llm_reason
             ungrounded = find_ungrounded_years(checkable_text, retrieval.chunks)
             if ungrounded:
                 return "FAIL", (
@@ -169,4 +180,5 @@ class ConfidentAgent:
             retrieval_verdict=retrieval.verdict, critic_verdict=critic_verdict,
             critic_reason=critic_reason, revision_count=revision_count,
             retrieval_query_used=retrieval.query_used, ungrounded_years=ungrounded_years,
+            critic_raw=trace["raw"], critic_parse_status=trace["status"],
         )
