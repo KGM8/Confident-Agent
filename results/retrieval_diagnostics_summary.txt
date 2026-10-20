@@ -1,0 +1,33 @@
+==============================================================================
+RETRIEVAL DIAGNOSTICS: did the gold answer string reach the critic? (string presence, not verified support)
+==============================================================================
+  right source document among the retrieved chunks             45/60   (mcq 26/30, open 19/30)
+  gold string inside a retrieved chunk of that document        41/60   (mcq 23/30, open 18/30)
+  gold string anywhere in the retrieved excerpts               43/60   (mcq 24/30, open 19/30)
+
+Among the 14 content-correct answers:
+  gold string WAS in the retrieved excerpts: 13    right document retrieved: 14
+  correct but gold string NOT retrieved: 1  <- right by luck or memory; a grounded critic should withhold these
+  => at most 13 of 14 correct answers had the gold string available (an upper bound: presence is not support).
+Among the 46 content-wrong answers: gold string in the excerpts for 28 (the answer was wrong although the gold string was available)
+
+Critic verdict (robust reader) by whether the gold string was in the excerpts:
+                                              PASS         FAIL     CONFLICT  UNPARSEABLE   total
+   gold string in excerpts                       0           10            9           22      41
+   gold string not in excerpts                   0            9            1            9      19
+
+The content-correct answers one by one:
+   [mcq #17] right doc retrieved: True   gold string in excerpts: True   critic: UNPARSEABLE
+   [mcq #48] right doc retrieved: True   gold string in excerpts: True   critic: FAIL
+   [mcq #79] right doc retrieved: True   gold string in excerpts: True   critic: UNPARSEABLE
+   [mcq #81] right doc retrieved: True   gold string in excerpts: True   critic: UNPARSEABLE
+   [mcq #112] right doc retrieved: True   gold string in excerpts: False  critic: FAIL
+   [mcq #140] right doc retrieved: True   gold string in excerpts: True   critic: CONFLICT
+   [mcq #141] right doc retrieved: True   gold string in excerpts: True   critic: CONFLICT
+   [mcq #172] right doc retrieved: True   gold string in excerpts: True   critic: CONFLICT
+   [open #15] right doc retrieved: True   gold string in excerpts: True   critic: FAIL
+   [open #50] right doc retrieved: True   gold string in excerpts: True   critic: UNPARSEABLE
+   [open #73] right doc retrieved: True   gold string in excerpts: True   critic: CONFLICT
+   [open #84] right doc retrieved: True   gold string in excerpts: True   critic: CONFLICT
+   [open #106] right doc retrieved: True   gold string in excerpts: True   critic: CONFLICT
+   [open #118] right doc retrieved: True   gold string in excerpts: True   critic: UNPARSEABLE

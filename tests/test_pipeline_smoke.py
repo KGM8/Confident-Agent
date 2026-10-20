@@ -194,6 +194,9 @@ def test_legacy_parser_misreads_prefixed_pass_and_robust_parser_does_not():
     # robust mode refuses to guess:
     assert parse_verdict_robust("VERDICT: PASS or FAIL") == ("UNPARSEABLE", "ambiguous")
     assert parse_verdict_robust("I think the answer looks fine.") == ("UNPARSEABLE", "unparseable")
+    # an echoed option list is never a verdict (this produced a false PASS in the first audit run):
+    assert parse_verdict_robust("100 |  | Please select one of the following options: | PASS, CONFLICT, or FAIL.")[0] == "UNPARSEABLE"
+    assert parse_verdict_robust("\U0001F6A8 CONFLICT \U0001F6A8 The sources disagree.") == ("CONFLICT", "loose")
     # ...and does NOT turn a bare mention of 'disagree' into CONFLICT (legacy keyword guess):
     assert parse_verdict_robust("Not sure, the sources disagree")[0] == "UNPARSEABLE"
     assert parse_verdict_legacy("Not sure, the sources disagree")[0] == "CONFLICT"

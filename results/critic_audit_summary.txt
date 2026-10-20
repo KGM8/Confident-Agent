@@ -3,11 +3,11 @@ CRITIC RELEASE-STAGE AUDIT (saved answers held fixed; only the verdict reader di
 ==============================================================================
 items audited: 60  ({'mcq': 30, 'open': 30})   content-correct answers among them: 14
 
-How the critic's raw reply was laid out (robust reader): {'unparseable': 30, 'loose': 18, 'tolerant': 12}
+How the critic's raw reply was laid out (robust reader): {'unparseable': 30, 'loose': 17, 'ambiguous': 1, 'tolerant': 12}
   replies where the VERDICT label was NOT at the very start: 60/60  (the legacy reader can only see a verdict at the very start of a line)
 
 Verdicts  legacy: {'FAIL': 48, 'CONFLICT': 12}
-          robust: {'UNPARSEABLE': 30, 'FAIL': 19, 'PASS': 1, 'CONFLICT': 10}
+          robust: {'UNPARSEABLE': 31, 'FAIL': 19, 'CONFLICT': 10}
           original batch run (for reference): {'FAIL': 49, 'CONFLICT': 11}
 
 Release decisions, LEGACY reader (original condition)  [release = critic PASS and no ungrounded year]
@@ -16,10 +16,10 @@ Release decisions, LEGACY reader (original condition)  [release = critic PASS an
   open  released-correct  0 | released-INCORRECT  0 | withheld-correct  6 | withheld-incorrect 24   precision of released: n/a (nothing released); correct answers released: 0%
 
 Release decisions, ROBUST reader (corrected condition)  [release = critic PASS and no ungrounded year]
-  all   released-correct  0 | released-INCORRECT  1 | withheld-correct 14 | withheld-incorrect 45   precision of released: 0%; correct answers released: 0%
+  all   released-correct  0 | released-INCORRECT  0 | withheld-correct 14 | withheld-incorrect 46   precision of released: n/a (nothing released); correct answers released: 0%
   mcq   released-correct  0 | released-INCORRECT  0 | withheld-correct  8 | withheld-incorrect 22   precision of released: n/a (nothing released); correct answers released: 0%
-  open  released-correct  0 | released-INCORRECT  1 | withheld-correct  6 | withheld-incorrect 23   precision of released: 0%; correct answers released: 0%
+  open  released-correct  0 | released-INCORRECT  0 | withheld-correct  6 | withheld-incorrect 24   precision of released: n/a (nothing released); correct answers released: 0%
 
-Discrimination (robust reader): PASS on 0% of content-correct answers vs 2% of incorrect ones.
+Discrimination (robust reader): PASS on 0% of content-correct answers vs 0% of incorrect ones.
 
 How to read this: if legacy shows 0 PASS but robust shows PASS on some items, the zero was at least partly a parsing/interface defect. If robust also shows ~0 PASS even on correct answers, the critic (prompt + model) genuinely fails to verify. If robust PASSes correct and incorrect answers alike, it releases without discriminating (false accepts).

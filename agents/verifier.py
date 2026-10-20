@@ -117,9 +117,12 @@ def parse_verdict_robust(raw: str):
             return "UNPARSEABLE", "ambiguous"
         status = "strict" if text.strip().upper().startswith("VERDICT") else "tolerant"
         return m.group(1).upper(), status
-    m = _TOKEN.search(text[:80])
-    if m:
-        return m.group(1).upper(), "loose"
+    head_tokens = {t.upper() for t in _TOKEN.findall(text[:80])}
+    if len(head_tokens) > 1:
+        # e.g. the model echoing the instruction: "PASS, CONFLICT, or FAIL" -- never a verdict
+        return "UNPARSEABLE", "ambiguous"
+    if len(head_tokens) == 1:
+        return next(iter(head_tokens)), "loose"
     return "UNPARSEABLE", "unparseable"
 
 

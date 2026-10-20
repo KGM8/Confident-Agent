@@ -1,0 +1,13 @@
+==============================================================================
+CRITIC CONTROLS: does the critic pass the gold answer when its string is in the excerpts?
+==============================================================================
+control                            PASS         FAIL     CONFLICT  UNPARSEABLE   total
+POSITIVE (gold string present) all            0            4            6           10      20
+POSITIVE (gold string present) mcq            0            1            2            7      10
+POSITIVE (gold string present) open            0            3            4            3      10
+NEGATIVE (value absent) all            0            2            6           10      18
+NEGATIVE (value absent) mcq            0            0            3            5       8
+NEGATIVE (value absent) open            0            2            3            5      10
+
+PASS rate: positive controls 0%, negative controls 0%.  Unparseable replies on positive controls: 50%.
+Reading: the critic never passes the gold answer even when the gold string is in its excerpts. String presence is not proof of support; check support by hand (tools/control_support_check.py).

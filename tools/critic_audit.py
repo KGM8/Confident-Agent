@@ -64,6 +64,7 @@ def collect_items(args):
             s, r = sample[i], res[i]
             items.append({"kind": kind, "id": i, "question": s["question"], "gold": r["gold"],
                           "answer": r["raw_output"], "choices": s.get("choices"),
+                          "source_document": s.get("source_document"),
                           "saved_predicted": r.get("predicted"),
                           "original_decision": r.get("decision"),
                           "original_verdict": r.get("critic_verdict")})
@@ -177,6 +178,8 @@ def main():
     ap.add_argument("--only", choices=["mcq", "open"])
     ap.add_argument("--limit", type=int, help="items per benchmark (smoke test)")
     ap.add_argument("--summarize-only", action="store_true")
+    ap.add_argument("--reparse", action="store_true",
+                    help="with --summarize-only: re-read the stored raw critic replies with the current parsers (no LLM calls)")
     args = ap.parse_args()
 
     if not args.summarize_only:
@@ -187,6 +190,15 @@ def main():
         print(f"{len(items)} saved answers to audit")
         run_audit(agent, items, args.out, cfg["llm"]["max_tokens_critic"])
     recs = load_jsonl(args.out)
+    if args.reparse:
+        for r in recs:
+            r["legacy_verdict"], r["legacy_status"] = parse_verdict_legacy(r.get("critic_raw", ""))
+            r["robust_verdict"], r["robust_status"] = parse_verdict_robust(r.get("critic_raw", ""))
+            r["release_legacy"] = r["legacy_verdict"] == "PASS" and not r["ungrounded_years"]
+            r["release_robust"] = r["robust_verdict"] == "PASS" and not r["ungrounded_years"]
+        with open(os.path.splitext(args.out)[0] + "_reparsed.jsonl", "w", encoding="utf-8") as f:
+            for r in recs:
+                f.write(json.dumps(r, ensure_ascii=False) + "\n")
     text = summarize(recs)
     print("\n" + text)
     with open(os.path.splitext(args.out)[0] + "_summary.txt", "w", encoding="utf-8") as f:
