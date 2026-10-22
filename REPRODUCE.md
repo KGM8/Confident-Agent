@@ -1,6 +1,5 @@
 # Confident Agent (COMP301, 2026): artefact manifest and reproduction guide
 
-Put this file in the project root. Everything listed must be in the submission for the results to be reproducible.
 
 ## Environment
 - Python 3.12; `pip install -r requirements.txt`
@@ -34,3 +33,14 @@ See Appendix B of the report for the full ordered list. Quick check without the 
 
 ## Seeds and determinism
 Option shuffle and sampling: seed 42. Rubric workbook shuffle: seed 301. All model calls use temperature 0 (greedy).
+
+
+## Chat interface (optional)
+
+`app.py` is a Streamlit chat UI over the same pipeline (`ConfidentAgent.answer()`, unchanged).
+
+1. `pip install -r requirements.txt` (adds streamlit)
+2. Start LM Studio's server with the model loaded (as for the agent runs).
+3. From the project root: `streamlit run app.py`(or python -m streamlit run app.py), then open the address it prints (usually http://localhost:8501).
+
+The sidebar switches between the legacy (original) and robust critic readers and can load benchmark questions. "Inspect the pipeline" under each reply shows the retrieved excerpts, draft answer, raw critic reply, verdict and score. The first question builds the index; each question takes as long as in the benchmark. Reported results come from the command-line runs, not from the UI.
