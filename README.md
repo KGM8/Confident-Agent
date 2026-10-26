@@ -1,7 +1,7 @@
 # Confident Agent — South African History
 
 Agent-based validation pipeline for reducing LLM hallucinations on South African
-history questions, built for COMP301 (Phase 4 — Design a Confident Agent).
+history questions, built for COMP301 University of KwaZulu-Natal final year Project.
 
 ## Benchmark provenance
 
